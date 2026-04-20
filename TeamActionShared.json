@@ -1,6 +1,6 @@
 {
-  "version": 48,
-  "updatedAt": "2026-04-20T13:02:23.802Z",
+  "version": 49,
+  "updatedAt": "2026-04-20T13:11:32.464Z",
   "items": {
     "TM": [
       {
@@ -2572,9 +2572,14 @@
             "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
           },
           {
-            "timestamp": "2026-04-14T08:42:56.659Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
           }
         ],
         "sheet": "TM",
@@ -2608,8 +2613,8 @@
             "text": "final coorindation been undertaken by design team once complete will chair with WB for sign off. target week commecing 13/04/2026"
           },
           {
-            "timestamp": "2026-04-14T08:47:23.894Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T08:47:23.901Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Ga Received, booking in Final sign off meeting with Welcome Break OPS to close\nWhere it is saved: Saved on Procore Submittals"
           }
         ],
@@ -2662,7 +2667,13 @@
         "management": "final items upon completion required to finalize credits",
         "programme_date": null,
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-14T08:49:22.277Z",
+            "user": "JF",
+            "text": "Final site visit from Breeam AP 15/04/2026- then final paperwork is required once PC"
+          }
+        ],
         "sheet": "TM",
         "updated_at": "2026-04-14T08:48:33.878Z",
         "urgent": false,
@@ -2694,8 +2705,8 @@
             "text": "letters complete, agreeing costs with Architect"
           },
           {
-            "timestamp": "2026-04-14T10:47:20.079Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T10:47:20.084Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -3092,13 +3103,13 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-14T10:38:43.998Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T10:38:44.001Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           },
           {
-            "timestamp": "2026-04-14T10:46:21.434Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T10:46:21.437Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -3128,8 +3139,8 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-14T10:52:56.371Z",
-            "user": "TM",
+            "timestamp": "2026-04-14T10:52:56.376Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: As discussed, no design needed. Finger island to be broken out, infilled with concrete and shape of current finger island marked on with roadmarkings and hatching. CS to arrange with HML\nWhere it is saved: N/A"
           }
         ],
@@ -3206,10 +3217,10 @@
         "action_required": "review of Abington design and programme- we want to have this finished this year",
         "lead": "JF",
         "coord_TM": true,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
@@ -3249,10 +3260,15 @@
             "timestamp": "2026-04-20T13:02:22.818Z",
             "user": "TM",
             "text": "WorkingNow?"
+          },
+          {
+            "timestamp": "2026-04-20T13:11:31.508Z",
+            "user": "TM",
+            "text": "And Now??"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T13:02:22.818Z",
+        "updated_at": "2026-04-20T13:11:31.508Z",
         "review_sender": ""
       }
     ],
@@ -3742,7 +3758,7 @@
         "comments": [
           {
             "timestamp": "2026-04-13T10:02:01.970Z",
-            "user": "JF",
+            "user": "TM",
             "text": "Complete\nWhat has been completed: Completed the document and resubmitted\nWhere it is saved: See submittal on procore"
           }
         ],
@@ -3873,7 +3889,7 @@
         "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -3882,47 +3898,47 @@
         "comments": [
           {
             "timestamp": "2026-04-10T09:19:22.949Z",
-            "user": "JF",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: I did this so heres an email\nWhere it is saved: Saved on my desktop"
           },
           {
-            "timestamp": "2026-04-10T09:21:09.268Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:21:09.267Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: AAA\nWhere it is saved: AAA"
           },
           {
-            "timestamp": "2026-04-10T09:24:48.683Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:24:48.681Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: THis changed again\nWhere it is saved: HGere"
           },
           {
-            "timestamp": "2026-04-10T09:30:24.316Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:30:24.315Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Test\nWhere it is saved: Test"
           },
           {
-            "timestamp": "2026-04-10T09:32:13.011Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:32:13.010Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Hello testing again\nWhere it is saved: Here"
           },
           {
-            "timestamp": "2026-04-10T09:34:47.443Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:34:47.442Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Final test\nWhere it is saved: Here mateey"
           },
           {
-            "timestamp": "2026-04-10T09:38:13.890Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:38:13.888Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: testFinal\nWhere it is saved: Finalhonest"
           },
           {
-            "timestamp": "2026-04-10T09:40:20.222Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:40:20.219Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: AllDonePal\nWhere it is saved: Pal"
           },
           {
-            "timestamp": "2026-04-10T09:43:10.699Z",
-            "user": "JF",
+            "timestamp": "2026-04-10T09:43:10.697Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Pally\nWhere it is saved: PalPal"
           }
         ],
@@ -3956,6 +3972,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "When is good for TM to attend? Query sent to CS 07/04/26"
+          },
+          {
+            "timestamp": "2026-04-13T09:40:37.521Z",
+            "user": "TM",
+            "text": "Transitions etc done w/c 20th. Speak to JC to coordinate"
           }
         ],
         "sheet": "JF",
@@ -4456,6 +4477,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Initial quantities sent, see below awaiting GI"
+          },
+          {
+            "timestamp": "2026-04-13T09:39:25.146Z",
+            "user": "TM",
+            "text": "SI due early this week to confirm topsoil depths. TM to remodel"
           }
         ],
         "sheet": "CS",
@@ -4475,7 +4501,7 @@
         "coord_TM": false,
         "coord_SC": false,
         "coord_LN": false,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": false,
         "coord_JW": false,
@@ -4487,6 +4513,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "When is good for TM to attend? Query sent to CS 07/04/26"
+          },
+          {
+            "timestamp": "2026-04-13T09:40:37.521Z",
+            "user": "TM",
+            "text": "Transitions etc done w/c 20th. Speak to JC to coordinate"
           }
         ],
         "sheet": "CS",
@@ -4513,7 +4544,18 @@
         "management": "Coordinate with CS",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-13T09:41:51.104Z",
+            "user": "TM",
+            "text": "Adrian @ Pells to setup meeting dates. TM to follow up if not done"
+          },
+          {
+            "timestamp": "2026-04-20T09:50:52.893Z",
+            "user": "TM",
+            "text": "Add weekly meeting"
+          }
+        ],
         "sheet": "CS",
         "updated_at": "2026-04-20T09:50:50.422Z",
         "urgent": true,
@@ -4569,7 +4611,13 @@
         "management": "",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-20T09:52:51.885Z",
+            "user": "TM",
+            "text": "Arrange a meeting"
+          }
+        ],
         "sheet": "CS",
         "updated_at": "2026-04-10T08:17:45.210Z",
         "urgent": false,
@@ -4650,11 +4698,6 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Email sent by TM 02/04/2026 with recommendations"
-          },
-          {
-            "timestamp": "2026-04-17T10:01:27.805Z",
-            "user": "CS",
-            "text": "CS says need a meeting for review. TM to arrange"
           }
         ],
         "sheet": "CS",
@@ -4769,9 +4812,14 @@
             "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
           },
           {
-            "timestamp": "2026-04-14T08:42:56.668Z",
-            "user": "CS",
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
           }
         ],
         "sheet": "CS",
@@ -4805,8 +4853,8 @@
             "text": "final coorindation been undertaken by design team once complete will chair with WB for sign off. target week commecing 13/04/2026"
           },
           {
-            "timestamp": "2026-04-14T08:47:23.905Z",
-            "user": "CS",
+            "timestamp": "2026-04-14T08:47:23.901Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Ga Received, booking in Final sign off meeting with Welcome Break OPS to close\nWhere it is saved: Saved on Procore Submittals"
           }
         ],
@@ -4839,6 +4887,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Phase 2 defect list produced, working through list with contracotrs "
+          },
+          {
+            "timestamp": "2026-04-14T15:01:44.810Z",
+            "user": "JF",
+            "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
           }
         ],
         "sheet": "CS",
@@ -4915,7 +4968,13 @@
         "management": "final items upon completion required to finalize credits",
         "programme_date": null,
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-14T08:49:22.277Z",
+            "user": "JF",
+            "text": "Final site visit from Breeam AP 15/04/2026- then final paperwork is required once PC"
+          }
+        ],
         "sheet": "CS",
         "updated_at": "2026-04-14T08:48:33.886Z",
         "urgent": false,
@@ -4947,8 +5006,8 @@
             "text": "letters complete, agreeing costs with Architect"
           },
           {
-            "timestamp": "2026-04-14T10:47:20.087Z",
-            "user": "CS",
+            "timestamp": "2026-04-14T10:47:20.084Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -4971,7 +5030,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": true,
+        "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
@@ -4979,47 +5038,47 @@
         "comments": [
           {
             "timestamp": "2026-04-10T09:19:22.949Z",
-            "user": "CS",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: I did this so heres an email\nWhere it is saved: Saved on my desktop"
           },
           {
-            "timestamp": "2026-04-10T09:21:09.269Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:21:09.267Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: AAA\nWhere it is saved: AAA"
           },
           {
-            "timestamp": "2026-04-10T09:24:48.685Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:24:48.681Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: THis changed again\nWhere it is saved: HGere"
           },
           {
-            "timestamp": "2026-04-10T09:30:24.316Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:30:24.315Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Test\nWhere it is saved: Test"
           },
           {
-            "timestamp": "2026-04-10T09:32:13.012Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:32:13.010Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Hello testing again\nWhere it is saved: Here"
           },
           {
-            "timestamp": "2026-04-10T09:34:47.444Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:34:47.442Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Final test\nWhere it is saved: Here mateey"
           },
           {
-            "timestamp": "2026-04-10T09:38:13.891Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:38:13.888Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: testFinal\nWhere it is saved: Finalhonest"
           },
           {
-            "timestamp": "2026-04-10T09:40:20.223Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:40:20.219Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: AllDonePal\nWhere it is saved: Pal"
           },
           {
-            "timestamp": "2026-04-10T09:43:10.700Z",
-            "user": "CS",
+            "timestamp": "2026-04-10T09:43:10.697Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Pally\nWhere it is saved: PalPal"
           }
         ],
@@ -5043,9 +5102,9 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": true,
+        "coord_CS": false,
         "coord_LC": false,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "Ongoing",
         "comments": [],
@@ -5076,7 +5135,7 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-14T12:09:07.580Z",
+            "timestamp": "2026-04-14T12:09:07.575Z",
             "user": "TM",
             "text": "Ready for Review\nWhat has been done: Done, Craig to implement\nWhere it is saved: Procore"
           }
@@ -5103,10 +5162,15 @@
         "coord_JF": false,
         "coord_CS": true,
         "coord_LC": false,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-14T14:53:52.198Z",
+            "user": "TM",
+            "text": "Meeting setup with CS and JW on 17/04"
+          },
           {
             "timestamp": "2026-04-14T15:57:48.360Z",
             "user": "TM",
@@ -5131,7 +5195,7 @@
         "action_required": "review of Abington design and programme- we want to have this finished this year",
         "lead": "JF",
         "coord_TM": true,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": true,
@@ -5197,7 +5261,7 @@
             "text": "With Jim"
           },
           {
-            "timestamp": "2026-04-15T12:33:21.938Z",
+            "timestamp": "2026-04-15T12:33:21.934Z",
             "user": "TM",
             "text": "Ready for Review\nWhat has been done: For JW to carry out\nWhere it is saved: -"
           }
@@ -5264,9 +5328,14 @@
             "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
           },
           {
-            "timestamp": "2026-04-14T08:42:56.671Z",
-            "user": "JW",
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
           }
         ],
         "sheet": "JW",
@@ -5300,8 +5369,8 @@
             "text": "final coorindation been undertaken by design team once complete will chair with WB for sign off. target week commecing 13/04/2026"
           },
           {
-            "timestamp": "2026-04-14T08:47:23.908Z",
-            "user": "JW",
+            "timestamp": "2026-04-14T08:47:23.901Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Ga Received, booking in Final sign off meeting with Welcome Break OPS to close\nWhere it is saved: Saved on Procore Submittals"
           }
         ],
@@ -5384,6 +5453,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Initial quantities sent, see below awaiting GI"
+          },
+          {
+            "timestamp": "2026-04-13T09:39:25.146Z",
+            "user": "TM",
+            "text": "SI due early this week to confirm topsoil depths. TM to remodel"
           }
         ],
         "sheet": "JW",
@@ -5415,6 +5489,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "TM",
             "text": "GI coming 20/04"
+          },
+          {
+            "timestamp": "2026-04-20T09:50:02.866Z",
+            "user": "TM",
+            "text": "22/04 Wed review with JW if possible"
           }
         ],
         "sheet": "JW",
@@ -5446,6 +5525,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "PF fee - query sent 07/04/2026 - waiting reply"
+          },
+          {
+            "timestamp": "2026-04-13T09:42:18.454Z",
+            "user": "TM",
+            "text": "Queries received from LC. Tm to respond to all"
           }
         ],
         "sheet": "JW",
@@ -5477,6 +5561,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "07/04/2026 - Items outstanding on landscape and drainage. With Stantec for review"
+          },
+          {
+            "timestamp": "2026-04-20T09:34:41.988Z",
+            "user": "TM",
+            "text": "Stantec to get on with it. TM to confirm 100%"
           }
         ],
         "sheet": "JW",
@@ -5534,7 +5623,13 @@
         "management": "Liaise with JW",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-13T09:51:01.170Z",
+            "user": "TM",
+            "text": "Do when we get time - TM, CS, LN, JW."
+          }
+        ],
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
@@ -5564,6 +5659,16 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Chase this up with SC - Montel must do Civils for route"
+          },
+          {
+            "timestamp": "2026-04-13T09:53:38.182Z",
+            "user": "TM",
+            "text": "TM arrange a meeting to ensure closed out"
+          },
+          {
+            "timestamp": "2026-04-20T09:38:13.574Z",
+            "user": "TM",
+            "text": "Manpower info must go into Stantec Construction info. TM to ensure this is coordinated with Stantec. Chase up where Manpower design is with SC. 1. Easement must be included. 2. Must be coordinated with S278"
           }
         ],
         "sheet": "JW",
@@ -5623,7 +5728,7 @@
           },
           {
             "timestamp": "2026-04-10T13:39:53.173Z",
-            "user": "JW",
+            "user": "TM",
             "text": "Complete\nWhat has been completed: Resolved with Stantec - not an issue\nWhere it is saved: N/A"
           }
         ],
@@ -5653,7 +5758,13 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-13T10:01:21.385Z",
+            "user": "TM",
+            "text": "Speak to Pells - what do we have, what is compliant, how would we refresh them?"
+          }
+        ],
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
@@ -5678,7 +5789,13 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-13T10:01:34.881Z",
+            "user": "TM",
+            "text": "Speak to Pells - what do we have, what is compliant, how would we refresh them?"
+          }
+        ],
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
@@ -5867,7 +5984,7 @@
         "status": "Complete",
         "comments": [
           {
-            "timestamp": "2026-04-20T08:45:29.678Z",
+            "timestamp": "2026-04-20T08:45:29.677Z",
             "user": "JF",
             "text": "Complete\nWhat has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note"
           }
@@ -5993,7 +6110,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": true,
+        "coord_CS": false,
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
@@ -6026,6 +6143,11 @@
         "management": "",
         "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-14T14:53:52.198Z",
+            "user": "TM",
+            "text": "Meeting setup with CS and JW on 17/04"
+          },
           {
             "timestamp": "2026-04-14T15:57:48.360Z",
             "user": "TM",
@@ -6174,9 +6296,14 @@
             "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
           },
           {
-            "timestamp": "2026-04-14T08:42:56.676Z",
-            "user": "LC",
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
           }
         ],
         "sheet": "LC",
@@ -6210,8 +6337,8 @@
             "text": "letters complete, agreeing costs with Architect"
           },
           {
-            "timestamp": "2026-04-14T10:47:20.090Z",
-            "user": "LC",
+            "timestamp": "2026-04-14T10:47:20.084Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -6297,7 +6424,7 @@
           },
           {
             "timestamp": "2026-04-10T13:39:53.173Z",
-            "user": "LC",
+            "user": "TM",
             "text": "Complete\nWhat has been completed: Resolved with Stantec - not an issue\nWhere it is saved: N/A"
           }
         ],
@@ -6384,8 +6511,8 @@
             "text": "final coorindation been undertaken by design team once complete will chair with WB for sign off. target week commecing 13/04/2026"
           },
           {
-            "timestamp": "2026-04-14T08:47:23.911Z",
-            "user": "LC",
+            "timestamp": "2026-04-14T08:47:23.901Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Ga Received, booking in Final sign off meeting with Welcome Break OPS to close\nWhere it is saved: Saved on Procore Submittals"
           }
         ],
@@ -6440,13 +6567,13 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-14T10:38:44.002Z",
-            "user": "LC",
+            "timestamp": "2026-04-14T10:38:44.001Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           },
           {
-            "timestamp": "2026-04-14T10:46:21.439Z",
-            "user": "LC",
+            "timestamp": "2026-04-14T10:46:21.437Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -6476,8 +6603,8 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-10T13:38:46.999Z",
-            "user": "LC",
+            "timestamp": "2026-04-10T13:38:46.997Z",
+            "user": "TM",
             "text": "Ready for Review\nWhat has been done: Update sent to LC on email 10/04/2026\nWhere it is saved: https://petrogasglobal.sharepoint.com/:x:/r/sites/USDevelopments/Shared Documents/UK Developments/31. Bonds Trackers %26 Key Documents/2026 Bond - New - Tracker.xlsx?d=w80587b65b9954687a609c30933d42152&csf=1&web=1&e=6BzyCK"
           }
         ],
@@ -6541,7 +6668,7 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-16T14:25:53.148Z",
+            "timestamp": "2026-04-16T14:25:53.145Z",
             "user": "TM",
             "text": "Ready for Review\nWhat has been done: Meeting held, TM email feeding back to LC 16/04/2026\nWhere it is saved: EMails"
           }
@@ -6574,12 +6701,12 @@
         "comments": [
           {
             "timestamp": "2026-04-08T14:15:53.490Z",
-            "user": "LN",
+            "user": "TM",
             "text": "I made this item now"
           },
           {
             "timestamp": "2026-04-08T14:15:59.642Z",
-            "user": "LN",
+            "user": "TM",
             "text": "Add a new comment"
           }
         ],
@@ -6638,6 +6765,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Phase 2 defect list produced, working through list with contracotrs "
+          },
+          {
+            "timestamp": "2026-04-14T15:01:44.810Z",
+            "user": "JF",
+            "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
           }
         ],
         "sheet": "LN",
@@ -6664,7 +6796,13 @@
         "management": "final items upon completion required to finalize credits",
         "programme_date": null,
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-14T08:49:22.277Z",
+            "user": "JF",
+            "text": "Final site visit from Breeam AP 15/04/2026- then final paperwork is required once PC"
+          }
+        ],
         "sheet": "LN",
         "updated_at": "2026-04-14T08:48:33.893Z",
         "urgent": false,
@@ -6821,6 +6959,16 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Chase this up with SC - Montel must do Civils for route"
+          },
+          {
+            "timestamp": "2026-04-13T09:53:38.182Z",
+            "user": "TM",
+            "text": "TM arrange a meeting to ensure closed out"
+          },
+          {
+            "timestamp": "2026-04-20T09:38:13.574Z",
+            "user": "TM",
+            "text": "Manpower info must go into Stantec Construction info. TM to ensure this is coordinated with Stantec. Chase up where Manpower design is with SC. 1. Easement must be included. 2. Must be coordinated with S278"
           }
         ],
         "sheet": "SC",
@@ -6849,9 +6997,9 @@
         "status": "Requires Coordination",
         "comments": [
           {
-            "timestamp": "2026-04-14T11:51:20.410Z",
+            "timestamp": "2026-04-20T09:52:51.885Z",
             "user": "TM",
-            "text": "SC confirmed there is a Meeting on Monday 20th April regarding earthing requirements. Essentially this may change the siting of the substation and EV units"
+            "text": "Arrange a meeting"
           }
         ],
         "sheet": "SC",
@@ -6936,9 +7084,14 @@
             "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
           },
           {
-            "timestamp": "2026-04-14T08:42:56.679Z",
-            "user": "SC",
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
           }
         ],
         "sheet": "SC",
@@ -6972,7 +7125,7 @@
             "text": "final coorindation been undertaken by design team once complete will chair with WB for sign off. target week commecing 13/04/2026"
           },
           {
-            "timestamp": "2026-04-14T08:47:23.913Z",
+            "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
             "text": "Ready for Review\nWhat has been done: Ga Received, booking in Final sign off meeting with Welcome Break OPS to close\nWhere it is saved: Saved on Procore Submittals"
           }
@@ -7006,6 +7159,11 @@
             "timestamp": "2026-04-08T00:00:00",
             "user": "Legacy",
             "text": "Phase 2 defect list produced, working through list with contracotrs "
+          },
+          {
+            "timestamp": "2026-04-14T15:01:44.810Z",
+            "user": "JF",
+            "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
           }
         ],
         "sheet": "SC",
@@ -7084,7 +7242,7 @@
         "status": "Complete",
         "comments": [
           {
-            "timestamp": "2026-04-20T08:45:29.678Z",
+            "timestamp": "2026-04-20T08:45:29.677Z",
             "user": "JF",
             "text": "Complete\nWhat has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note"
           }
@@ -7222,8 +7380,8 @@
             "text": "letters complete, agreeing costs with Architect"
           },
           {
-            "timestamp": "2026-04-14T10:47:20.091Z",
-            "user": "SC",
+            "timestamp": "2026-04-14T10:47:20.084Z",
+            "user": "JF",
             "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -7253,13 +7411,13 @@
         "status": "Ready for Review",
         "comments": [
           {
-            "timestamp": "2026-04-14T10:38:44.004Z",
-            "user": "SC",
+            "timestamp": "2026-04-14T10:38:44.001Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           },
           {
-            "timestamp": "2026-04-14T10:46:21.441Z",
-            "user": "SC",
+            "timestamp": "2026-04-14T10:46:21.437Z",
+            "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
           }
         ],
@@ -7387,7 +7545,23 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-14T13:33:16.552Z",
+            "user": "TM",
+            "text": "Email sent to Ecologist on 14/04 to confirm"
+          },
+          {
+            "timestamp": "2026-04-16T14:25:10.536Z",
+            "user": "TM",
+            "text": "Purely figures wise, taking off the brown roof results in a net loss of -3.38 vs the current -2.45. Unit price depends on the market but as a rough estimate it can be 30k-40k/unit."
+          },
+          {
+            "timestamp": "2026-04-20T10:03:02.903Z",
+            "user": "TM",
+            "text": "Extra piece of work to review woodland area - can we get BNG points here for cheaper than what we are already doing on site??"
+          }
+        ],
         "sheet": "SC",
         "updated_at": "2026-04-20T10:03:05.876Z",
         "urgent": true,
@@ -7446,6 +7620,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-20T13:11:31.510Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T13:11:31.509Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|86",
+      "key": "TM|86",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-20T13:02:22.821Z",
       "action": "ITEM_CHANGE",
@@ -8923,15 +9117,10 @@
     }
   },
   "presence": {
-    "viewer-mo779xsc-2z5hn7": {
+    "viewer-mo77r918-j9nzb2": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T12:58:01.949Z"
-    },
-    "viewer-mo77fdqd-c0tdn6": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T13:02:23.735Z"
+      "at": "2026-04-20T13:11:32.418Z"
     }
   }
 }
