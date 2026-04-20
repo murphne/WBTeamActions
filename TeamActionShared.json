@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updatedAt": "2026-04-20T11:32:08.066Z",
+  "version": 10,
+  "updatedAt": "2026-04-20T11:43:01.332Z",
   "items": {
     "TM": [
       {
@@ -7280,6 +7280,16 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-20T11:43:00.810Z",
+      "action": "OPEN_PAGE",
+      "origin_sheet": "SYS",
+      "source_row": "PAGE",
+      "key": "PAGE",
+      "dest_sheet": "",
+      "status": "Opened",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-20T11:32:07.032Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -8386,10 +8396,10 @@
     }
   },
   "presence": {
-    "viewer-mo743pz4-3i2o9k": {
+    "viewer-mo74lpjn-k2g8sc": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T11:32:07.941Z"
+      "at": "2026-04-20T11:43:01.201Z"
     }
   }
 }
