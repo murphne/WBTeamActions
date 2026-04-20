@@ -1,6 +1,6 @@
 {
   "version": 51,
-  "updatedAt": "2026-04-20T13:24:20.953Z",
+  "updatedAt": "2026-04-20T13:24:31.814Z",
   "items": {
     "TM": [
       {
@@ -3265,11 +3265,17 @@
             "timestamp": "2026-04-20T13:11:31.508Z",
             "user": "TM",
             "text": "And Now??"
+          },
+          {
+            "timestamp": "2026-04-20T13:20:36.894Z",
+            "user": "TM",
+            "text": "Anotherfinal"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T13:24:20.002Z",
-        "review_sender": ""
+        "updated_at": "2026-04-20T13:24:30.863Z",
+        "review_sender": "",
+        "_deleted": true
       }
     ],
     "JF": [
@@ -7621,23 +7627,23 @@
   },
   "audit": [
     {
-      "timestamp": "2026-04-20T13:24:20.004Z",
+      "timestamp": "2026-04-20T13:24:30.866Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|86",
+      "key": "TM|86",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T13:24:30.865Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
       "source_row": "*",
       "key": "*",
       "dest_sheet": "",
-      "status": "Comments updated",
-      "username": "Tom Murphy"
-    },
-    {
-      "timestamp": "2026-04-20T13:24:20.002Z",
-      "action": "DELETE_COMMENT",
-      "origin_sheet": "TM",
-      "source_row": "TM|86",
-      "key": "TM|86",
-      "dest_sheet": "",
-      "status": "",
+      "status": "Item details updated",
       "username": "Tom Murphy"
     },
     {
@@ -9165,7 +9171,7 @@
     "viewer-mo787ckz-rrbn32": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T13:24:20.910Z"
+      "at": "2026-04-20T13:24:31.775Z"
     }
   }
 }
