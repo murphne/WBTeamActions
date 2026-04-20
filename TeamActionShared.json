@@ -1,8 +1,57 @@
 {
-  "version": 7,
-  "updatedAt": "2026-04-20T11:29:20.406Z",
+  "version": 8,
+  "updatedAt": "2026-04-20T11:30:00.698Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|85",
+        "priority": null,
+        "item_num": 85,
+        "urgent": false,
+        "effective_date": "2026-04-20",
+        "programme_date": null,
+        "project": "General",
+        "description": "synctest2 gitty",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-04-20T11:29:57.793Z"
+      },
+      {
+        "key": "TM|84",
+        "priority": null,
+        "item_num": 84,
+        "urgent": false,
+        "effective_date": "2026-04-20",
+        "programme_date": null,
+        "project": "General",
+        "description": "sync gitty test",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-04-20T11:29:32.710Z",
+        "review_sender": ""
+      },
       {
         "key": "TM|83",
         "priority": null,
@@ -7229,6 +7278,46 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-20T11:29:57.794Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T11:29:57.793Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|85",
+      "key": "TM|85",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T11:29:32.711Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T11:29:32.710Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|84",
+      "key": "TM|84",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-20T11:29:19.381Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -8278,7 +8367,7 @@
     "viewer-mo743pz4-3i2o9k": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T11:29:20.284Z"
+      "at": "2026-04-20T11:29:58.703Z"
     }
   }
 }
