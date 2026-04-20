@@ -1,33 +1,8 @@
 {
   "version": 45,
-  "updatedAt": "2026-04-20T12:46:56.178Z",
+  "updatedAt": "2026-04-20T12:47:03.918Z",
   "items": {
     "TM": [
-      {
-        "key": "TM|91",
-        "priority": null,
-        "item_num": 91,
-        "urgent": false,
-        "effective_date": "2026-04-20",
-        "programme_date": null,
-        "project": "Abington M74",
-        "description": "Andthisone?",
-        "action_required": "",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-04-20T12:46:55.206Z",
-        "review_sender": ""
-      },
       {
         "key": "TM|90",
         "priority": null,
@@ -50,9 +25,8 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-04-20T12:46:48.615Z",
-        "review_sender": "",
-        "_deleted": true
+        "updated_at": "2026-04-20T12:46:25.471Z",
+        "review_sender": ""
       },
       {
         "key": "TM|89",
@@ -7435,56 +7409,6 @@
   },
   "audit": [
     {
-      "timestamp": "2026-04-20T12:46:55.207Z",
-      "action": "ITEM_CHANGE",
-      "origin_sheet": "SYS",
-      "source_row": "*",
-      "key": "*",
-      "dest_sheet": "",
-      "status": "Item added",
-      "username": "Tom Murphy"
-    },
-    {
-      "timestamp": "2026-04-20T12:46:55.206Z",
-      "action": "ADD",
-      "origin_sheet": "TM",
-      "source_row": "TM|91",
-      "key": "TM|91",
-      "dest_sheet": "",
-      "status": "",
-      "username": "Tom Murphy"
-    },
-    {
-      "timestamp": "2026-04-20T12:46:48.618Z",
-      "action": "DELETE",
-      "origin_sheet": "TM",
-      "source_row": "TM|90",
-      "key": "TM|90",
-      "dest_sheet": "",
-      "status": "Deleted",
-      "username": "Tom Murphy"
-    },
-    {
-      "timestamp": "2026-04-20T12:46:48.617Z",
-      "action": "ITEM_CHANGE",
-      "origin_sheet": "SYS",
-      "source_row": "*",
-      "key": "*",
-      "dest_sheet": "",
-      "status": "Item details updated",
-      "username": "Tom Murphy"
-    },
-    {
-      "timestamp": "2026-04-20T12:46:40.027Z",
-      "action": "OPEN_PAGE",
-      "origin_sheet": "SYS",
-      "source_row": "PAGE",
-      "key": "PAGE",
-      "dest_sheet": "",
-      "status": "Opened",
-      "username": "Tom Murphy"
-    },
-    {
       "timestamp": "2026-04-20T12:46:25.472Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -8844,12 +8768,7 @@
     "viewer-mo76uxm3-mytpaf": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T12:46:26.375Z"
-    },
-    "viewer-mo76vkhz-opjatt": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T12:46:56.114Z"
+      "at": "2026-04-20T12:47:03.870Z"
     }
   }
 }
