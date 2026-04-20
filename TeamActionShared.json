@@ -1,6 +1,6 @@
 {
   "version": 46,
-  "updatedAt": "2026-04-20T12:55:32.820Z",
+  "updatedAt": "2026-04-20T12:55:56.806Z",
   "items": {
     "TM": [
       {
@@ -25,7 +25,8 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-04-20T12:55:31.862Z"
+        "updated_at": "2026-04-20T12:55:31.862Z",
+        "review_sender": ""
       },
       {
         "key": "TM|91",
@@ -49,8 +50,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-04-20T12:49:07.766Z",
-        "review_sender": ""
+        "updated_at": "2026-04-20T12:55:55.818Z",
+        "review_sender": "",
+        "_deleted": true
       },
       {
         "key": "TM|90",
@@ -7459,6 +7461,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-20T12:55:55.821Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|91",
+      "key": "TM|91",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T12:55:55.819Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-20T12:55:31.863Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -8898,7 +8920,7 @@
     "viewer-mo776ozg-batprr": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-20T12:55:32.776Z"
+      "at": "2026-04-20T12:55:56.726Z"
     }
   }
 }
