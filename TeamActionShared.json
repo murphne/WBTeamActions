@@ -1,6 +1,6 @@
 {
-  "version": 50,
-  "updatedAt": "2026-04-20T13:20:37.854Z",
+  "version": 51,
+  "updatedAt": "2026-04-20T13:24:00.088Z",
   "items": {
     "TM": [
       {
@@ -3252,11 +3252,6 @@
         "status": "",
         "comments": [
           {
-            "timestamp": "2026-04-20T12:58:01.030Z",
-            "user": "TM",
-            "text": "Working?"
-          },
-          {
             "timestamp": "2026-04-20T13:02:22.818Z",
             "user": "TM",
             "text": "WorkingNow?"
@@ -3273,7 +3268,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T13:20:36.894Z",
+        "updated_at": "2026-04-20T13:23:59.119Z",
         "review_sender": ""
       }
     ],
@@ -7626,6 +7621,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-20T13:23:59.122Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comments updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-20T13:23:59.119Z",
+      "action": "DELETE_COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|86",
+      "key": "TM|86",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-20T13:20:36.897Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -9146,6 +9161,11 @@
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
       "at": "2026-04-20T13:20:37.809Z"
+    },
+    "viewer-mo787ckz-rrbn32": {
+      "name": "Tom Murphy",
+      "clientId": "client-mnst5hiu-lojb2e",
+      "at": "2026-04-20T13:24:00.038Z"
     }
   }
 }
