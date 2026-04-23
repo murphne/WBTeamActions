@@ -1,6 +1,6 @@
 {
-  "version": 68,
-  "updatedAt": "2026-04-23T13:53:16.939Z",
+  "version": 69,
+  "updatedAt": "2026-04-23T13:53:24.093Z",
   "items": {
     "TM": [
       {
@@ -19,13 +19,14 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-04-23T13:53:15.393Z"
+        "updated_at": "2026-04-23T13:53:22.808Z",
+        "review_sender": ""
       },
       {
         "key": "TM|95",
@@ -6842,6 +6843,31 @@
         "sheet": "LC",
         "updated_at": "2026-04-16T14:25:53.148Z",
         "review_sender": "TM"
+      },
+      {
+        "key": "TM|96",
+        "priority": null,
+        "item_num": 96,
+        "urgent": false,
+        "effective_date": "2026-04-23",
+        "programme_date": null,
+        "project": "General",
+        "description": "TestItemForLee",
+        "action_required": "Test",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "LC",
+        "updated_at": "2026-04-23T13:53:22.808Z",
+        "review_sender": ""
       }
     ],
     "LN": [
@@ -7786,6 +7812,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-23T13:53:22.809Z",
+      "action": "SEND",
+      "origin_sheet": "TM",
+      "source_row": "TM|96",
+      "key": "TM|96",
+      "dest_sheet": "LC",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-23T13:53:22.809Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-23T13:53:15.395Z",
       "action": "ITEM_CHANGE",
@@ -9646,7 +9692,7 @@
     "viewer-mobjie3k-gf4ytt": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-23T13:53:16.299Z"
+      "at": "2026-04-23T13:53:23.742Z"
     }
   }
 }
