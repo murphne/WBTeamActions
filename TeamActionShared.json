@@ -1,6 +1,6 @@
 {
-  "version": 69,
-  "updatedAt": "2026-04-23T13:53:24.093Z",
+  "version": 70,
+  "updatedAt": "2026-04-23T13:53:34.922Z",
   "items": {
     "TM": [
       {
@@ -22,10 +22,16 @@
         "coord_LC": true,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Requires Coordination",
+        "comments": [
+          {
+            "timestamp": "2026-04-23T13:53:33.446Z",
+            "user": "TM",
+            "text": "Requires Coordination\nWhat do you need: I need your help with this\nWhere it is saved: Email 23/04"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-23T13:53:22.808Z",
+        "updated_at": "2026-04-23T13:53:33.446Z",
         "review_sender": ""
       },
       {
@@ -6863,10 +6869,16 @@
         "coord_LC": true,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Requires Coordination",
+        "comments": [
+          {
+            "timestamp": "2026-04-23T13:53:33.449Z",
+            "user": "TM",
+            "text": "Requires Coordination\nWhat do you need: I need your help with this\nWhere it is saved: Email 23/04"
+          }
+        ],
         "sheet": "LC",
-        "updated_at": "2026-04-23T13:53:22.808Z",
+        "updated_at": "2026-04-23T13:53:33.449Z",
         "review_sender": ""
       }
     ],
@@ -7812,6 +7824,46 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-23T13:53:33.452Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-23T13:53:33.449Z",
+      "action": "STATUS",
+      "origin_sheet": "LC",
+      "source_row": "TM|96",
+      "key": "TM|96",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-23T13:53:33.448Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-23T13:53:33.446Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "TM|96",
+      "key": "TM|96",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-23T13:53:22.809Z",
       "action": "SEND",
@@ -9692,7 +9744,7 @@
     "viewer-mobjie3k-gf4ytt": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-23T13:53:23.742Z"
+      "at": "2026-04-23T13:53:34.356Z"
     }
   }
 }
