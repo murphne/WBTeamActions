@@ -1,6 +1,6 @@
 {
-  "version": 78,
-  "updatedAt": "2026-04-24T07:27:17.311Z",
+  "version": 79,
+  "updatedAt": "2026-04-24T07:27:20.241Z",
   "items": {
     "TM": [
       {
@@ -6773,7 +6773,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
@@ -6792,7 +6792,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:27:13.792Z",
+        "updated_at": "2026-04-24T07:27:18.704Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -7884,6 +7884,16 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:27:18.707Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:27:13.796Z",
       "action": "ITEM_CHANGE",
@@ -9934,7 +9944,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:27:16.658Z"
+      "at": "2026-04-24T07:27:19.614Z"
     }
   }
 }
