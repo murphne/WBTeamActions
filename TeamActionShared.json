@@ -1,6 +1,6 @@
 {
-  "version": 80,
-  "updatedAt": "2026-04-24T07:27:29.829Z",
+  "version": 81,
+  "updatedAt": "2026-04-24T07:27:41.366Z",
   "items": {
     "TM": [
       {
@@ -3292,7 +3292,7 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-04-14T10:46:21.437Z",
@@ -3306,7 +3306,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-24T07:27:28.401Z",
+        "updated_at": "2026-04-24T07:27:40.085Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -4335,7 +4335,7 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-04-14T10:46:21.437Z",
@@ -4349,7 +4349,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-24T07:27:28.401Z",
+        "updated_at": "2026-04-24T07:27:40.089Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -6778,7 +6778,7 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-04-14T10:46:21.437Z",
@@ -6792,7 +6792,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:27:28.401Z",
+        "updated_at": "2026-04-24T07:27:40.092Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -7672,7 +7672,7 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-04-14T10:46:21.437Z",
@@ -7686,7 +7686,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-24T07:27:28.401Z",
+        "updated_at": "2026-04-24T07:27:40.095Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -7884,6 +7884,86 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:27:40.097Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.095Z",
+      "action": "STATUS",
+      "origin_sheet": "SC",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.094Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.092Z",
+      "action": "STATUS",
+      "origin_sheet": "LC",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.091Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.089Z",
+      "action": "STATUS",
+      "origin_sheet": "CS",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.088Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:40.085Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:27:28.403Z",
       "action": "ITEM_CHANGE",
@@ -9964,7 +10044,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:27:29.307Z"
+      "at": "2026-04-24T07:27:41.012Z"
     }
   }
 }
