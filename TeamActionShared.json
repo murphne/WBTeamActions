@@ -1,6 +1,6 @@
 {
-  "version": 92,
-  "updatedAt": "2026-04-24T07:33:37.545Z",
+  "version": 93,
+  "updatedAt": "2026-04-24T07:33:40.873Z",
   "items": {
     "TM": [
       {
@@ -6447,7 +6447,7 @@
         "description": "Preconstruction Assistance",
         "action_required": "Summarise the support to AUC budget on a weekly basis and report progress",
         "lead": "TM",
-        "coord_TM": false,
+        "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
@@ -6465,7 +6465,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:33:35.978Z",
+        "updated_at": "2026-04-24T07:33:39.487Z",
         "urgent": true,
         "review_sender": ""
       },
@@ -7939,6 +7939,16 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:33:39.490Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:33:35.979Z",
       "action": "ITEM_CHANGE",
@@ -10419,7 +10429,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:33:36.884Z"
+      "at": "2026-04-24T07:33:40.395Z"
     }
   }
 }
