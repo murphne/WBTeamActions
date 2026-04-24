@@ -1,6 +1,6 @@
 {
-  "version": 86,
-  "updatedAt": "2026-04-24T07:29:10.925Z",
+  "version": 87,
+  "updatedAt": "2026-04-24T07:29:30.230Z",
   "items": {
     "TM": [
       {
@@ -6929,7 +6929,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-14T08:45:28.937Z",
+        "updated_at": "2026-04-24T07:29:28.656Z",
         "urgent": false,
         "review_sender": ""
       }
@@ -7321,47 +7321,6 @@
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on email\nWhere it is saved: Email",
         "date_closed": "2026-04-23"
-      },
-      {
-        "key": "JF|02",
-        "priority": null,
-        "item_num": 2,
-        "effective_date": "2026-03-11",
-        "project": "Bridgwater",
-        "description": "RIBA Stage 3 Gateway - building",
-        "action_required": "Manage the Gateway and signoff with wider WB business",
-        "lead": "JF",
-        "coord_TM": true,
-        "coord_SC": true,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": true,
-        "coord_JW": true,
-        "management": "Complete then changes",
-        "programme_date": null,
-        "status": "Ready for Review",
-        "comments": [
-          {
-            "timestamp": "2026-04-14T08:45:37.063Z",
-            "user": "JF",
-            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
-          },
-          {
-            "timestamp": "2026-04-14T08:42:56.664Z",
-            "user": "JF",
-            "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
-          },
-          {
-            "timestamp": "2026-04-08T00:00:00",
-            "user": "Legacy",
-            "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
-          }
-        ],
-        "sheet": "SC",
-        "updated_at": "2026-04-14T08:45:28.941Z",
-        "urgent": false,
-        "review_sender": ""
       },
       {
         "key": "JF|04",
@@ -7880,10 +7839,71 @@
         "sheet": "SC",
         "updated_at": "2026-04-20T09:28:18.594Z",
         "review_sender": ""
+      },
+      {
+        "key": "JF|02",
+        "priority": null,
+        "item_num": 2,
+        "effective_date": "2026-03-11",
+        "project": "Bridgwater",
+        "description": "RIBA Stage 3 Gateway - building",
+        "action_required": "Manage the Gateway and signoff with wider WB business",
+        "lead": "JF",
+        "coord_TM": true,
+        "coord_SC": true,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": true,
+        "coord_LC": true,
+        "coord_JW": true,
+        "management": "Complete then changes",
+        "programme_date": null,
+        "status": "Ready for Review",
+        "comments": [
+          {
+            "timestamp": "2026-04-14T08:45:37.063Z",
+            "user": "JF",
+            "text": "Bridgewater Ga due to be received this week for Welcome Break to sign off"
+          },
+          {
+            "timestamp": "2026-04-14T08:42:56.664Z",
+            "user": "JF",
+            "text": "Ready for Review\nWhat has been done: Completion of the Ga, final action is to book in meeting with Welcome Break OPs to sign off new GA\nWhere it is saved: Procore Submittals"
+          },
+          {
+            "timestamp": "2026-04-08T00:00:00",
+            "user": "Legacy",
+            "text": "update to GA required by design team, once done can present to WB, 4 week delay advised "
+          }
+        ],
+        "sheet": "SC",
+        "updated_at": "2026-04-14T08:45:28.941Z",
+        "urgent": false,
+        "review_sender": ""
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:29:28.657Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:29:28.656Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "LC",
+      "source_row": "JF|02",
+      "key": "JF|02",
+      "dest_sheet": "SC",
+      "status": "",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:29:09.540Z",
       "action": "ITEM_CHANGE",
@@ -10144,7 +10164,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:29:10.452Z"
+      "at": "2026-04-24T07:29:29.563Z"
     }
   }
 }
