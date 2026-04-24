@@ -1,6 +1,6 @@
 {
-  "version": 101,
-  "updatedAt": "2026-04-24T07:37:17.493Z",
+  "version": 102,
+  "updatedAt": "2026-04-24T07:38:01.337Z",
   "items": {
     "TM": [
       {
@@ -3489,7 +3489,7 @@
         "project": "Rotherham",
         "description": "RMBC - Final Certrificate",
         "action_required": "As per email - 23/04 ( arrange meeting with RMBC to co-ordinate handover and agree additional work can be done at the same time)",
-        "lead": "LC",
+        "lead": "TM",
         "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
@@ -3498,8 +3498,13 @@
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Ready for Review",
         "comments": [
+          {
+            "timestamp": "2026-04-24T07:38:00.087Z",
+            "user": "LC",
+            "text": "Ready for Review\nWhat has been done: Email to start process\nWhere it is saved: TBA"
+          },
           {
             "timestamp": "2026-04-24T07:36:52.511Z",
             "user": "LC",
@@ -3507,8 +3512,8 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-24T07:37:16.127Z",
-        "review_sender": ""
+        "updated_at": "2026-04-24T07:38:00.088Z",
+        "review_sender": "LC"
       }
     ],
     "JF": [
@@ -6450,7 +6455,7 @@
         "project": "Rotherham",
         "description": "RMBC - Final Certrificate",
         "action_required": "As per email - 23/04 ( arrange meeting with RMBC to co-ordinate handover and agree additional work can be done at the same time)",
-        "lead": "LC",
+        "lead": "TM",
         "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
@@ -6459,8 +6464,13 @@
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Ready for Review",
         "comments": [
+          {
+            "timestamp": "2026-04-24T07:38:00.091Z",
+            "user": "LC",
+            "text": "Ready for Review\nWhat has been done: Email to start process\nWhere it is saved: TBA"
+          },
           {
             "timestamp": "2026-04-24T07:36:52.511Z",
             "user": "LC",
@@ -6468,8 +6478,8 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-24T07:37:16.127Z",
-        "review_sender": ""
+        "updated_at": "2026-04-24T07:38:00.091Z",
+        "review_sender": "LC"
       }
     ],
     "LC": [
@@ -6483,7 +6493,7 @@
         "project": "Rotherham",
         "description": "RMBC - Final Certrificate",
         "action_required": "As per email - 23/04 ( arrange meeting with RMBC to co-ordinate handover and agree additional work can be done at the same time)",
-        "lead": "LC",
+        "lead": "TM",
         "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
@@ -6492,8 +6502,13 @@
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Ready for Review",
         "comments": [
+          {
+            "timestamp": "2026-04-24T07:38:00.094Z",
+            "user": "LC",
+            "text": "Ready for Review\nWhat has been done: Email to start process\nWhere it is saved: TBA"
+          },
           {
             "timestamp": "2026-04-24T07:36:52.511Z",
             "user": "LC",
@@ -6501,8 +6516,8 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:37:16.127Z",
-        "review_sender": ""
+        "updated_at": "2026-04-24T07:38:00.094Z",
+        "review_sender": "LC"
       },
       {
         "key": "TM|28",
@@ -8032,6 +8047,66 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:38:00.096Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:38:00.094Z",
+      "action": "STATUS",
+      "origin_sheet": "LC",
+      "source_row": "LC|97",
+      "key": "LC|97",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:38:00.093Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:38:00.091Z",
+      "action": "STATUS",
+      "origin_sheet": "JW",
+      "source_row": "LC|97",
+      "key": "LC|97",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:38:00.090Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:38:00.088Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "LC|97",
+      "key": "LC|97",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:37:16.130Z",
       "action": "ITEM_CHANGE",
@@ -10662,7 +10737,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:37:17.039Z"
+      "at": "2026-04-24T07:38:01.005Z"
     }
   }
 }
