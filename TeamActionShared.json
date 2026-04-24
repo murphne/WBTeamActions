@@ -1,6 +1,6 @@
 {
-  "version": 79,
-  "updatedAt": "2026-04-24T07:27:20.241Z",
+  "version": 80,
+  "updatedAt": "2026-04-24T07:27:29.829Z",
   "items": {
     "TM": [
       {
@@ -3287,7 +3287,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
@@ -3306,8 +3306,8 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-14T10:46:21.434Z",
-        "urgent": false,
+        "updated_at": "2026-04-24T07:27:28.401Z",
+        "urgent": true,
         "review_sender": "TM"
       },
       {
@@ -4330,7 +4330,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
@@ -4349,8 +4349,8 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-14T10:46:21.437Z",
-        "urgent": false,
+        "updated_at": "2026-04-24T07:27:28.401Z",
+        "urgent": true,
         "review_sender": "TM"
       },
       {
@@ -6792,8 +6792,8 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:27:18.704Z",
-        "urgent": false,
+        "updated_at": "2026-04-24T07:27:28.401Z",
+        "urgent": true,
         "review_sender": "TM"
       },
       {
@@ -7667,7 +7667,7 @@
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
@@ -7686,8 +7686,8 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-14T10:46:21.441Z",
-        "urgent": false,
+        "updated_at": "2026-04-24T07:27:28.401Z",
+        "urgent": true,
         "review_sender": "TM"
       },
       {
@@ -7884,6 +7884,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:27:28.403Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:28.401Z",
+      "action": "URGENT",
+      "origin_sheet": "LC",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "On",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:27:18.707Z",
       "action": "ITEM_CHANGE",
@@ -9944,7 +9964,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:27:19.614Z"
+      "at": "2026-04-24T07:27:29.307Z"
     }
   }
 }
