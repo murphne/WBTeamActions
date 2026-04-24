@@ -1,6 +1,6 @@
 {
-  "version": 96,
-  "updatedAt": "2026-04-24T07:34:01.901Z",
+  "version": 97,
+  "updatedAt": "2026-04-24T07:36:54.108Z",
   "items": {
     "TM": [
       {
@@ -6412,6 +6412,36 @@
     ],
     "LC": [
       {
+        "key": "LC|97",
+        "priority": null,
+        "item_num": 97,
+        "urgent": false,
+        "effective_date": "2026-04-24",
+        "programme_date": "2026-05-08",
+        "project": "Rotherham",
+        "description": "RMBC - Final Certrificate",
+        "action_required": "As per email - 23/04 ( arrange meeting with RMBC to co-ordinate handover and agree additional work can be done at the same time)",
+        "lead": "LC",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [
+          {
+            "timestamp": "2026-04-24T07:36:52.511Z",
+            "user": "LC",
+            "text": "Urgent"
+          }
+        ],
+        "sheet": "LC",
+        "updated_at": "2026-04-24T07:36:52.511Z"
+      },
+      {
         "key": "TM|28",
         "priority": "JD list",
         "item_num": 28,
@@ -7939,6 +7969,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:36:52.514Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:36:52.511Z",
+      "action": "ADD",
+      "origin_sheet": "LC",
+      "source_row": "LC|97",
+      "key": "LC|97",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:34:00.280Z",
       "action": "ITEM_CHANGE",
@@ -10489,7 +10539,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:34:01.192Z"
+      "at": "2026-04-24T07:36:53.432Z"
     }
   }
 }
