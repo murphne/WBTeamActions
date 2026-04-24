@@ -1,6 +1,6 @@
 {
-  "version": 81,
-  "updatedAt": "2026-04-24T07:27:41.366Z",
+  "version": 82,
+  "updatedAt": "2026-04-24T07:27:44.294Z",
   "items": {
     "TM": [
       {
@@ -4318,42 +4318,6 @@
         "review_sender": ""
       },
       {
-        "key": "CS|05",
-        "priority": null,
-        "item_num": 5,
-        "effective_date": "2026-03-11",
-        "project": "Bridgwater",
-        "description": "RIBA Stage 4 - civils",
-        "action_required": "Formal notice to appoint consultants",
-        "lead": "CS",
-        "coord_TM": true,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": true,
-        "coord_JW": false,
-        "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
-        "programme_date": null,
-        "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-04-14T10:46:21.437Z",
-            "user": "CS",
-            "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
-          },
-          {
-            "timestamp": "2026-04-14T10:38:44.001Z",
-            "user": "CS",
-            "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
-          }
-        ],
-        "sheet": "CS",
-        "updated_at": "2026-04-24T07:27:40.089Z",
-        "urgent": true,
-        "review_sender": "TM"
-      },
-      {
         "key": "CS|09",
         "priority": null,
         "item_num": 9,
@@ -5421,6 +5385,42 @@
         "sheet": "CS",
         "updated_at": "2026-04-20T09:28:18.591Z",
         "review_sender": ""
+      },
+      {
+        "key": "CS|05",
+        "priority": null,
+        "item_num": 5,
+        "effective_date": "2026-03-11",
+        "project": "Bridgwater",
+        "description": "RIBA Stage 4 - civils",
+        "action_required": "Formal notice to appoint consultants",
+        "lead": "CS",
+        "coord_TM": true,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": true,
+        "coord_LC": true,
+        "coord_JW": false,
+        "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
+        "programme_date": null,
+        "status": "Ongoing",
+        "comments": [
+          {
+            "timestamp": "2026-04-14T10:46:21.437Z",
+            "user": "CS",
+            "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
+          },
+          {
+            "timestamp": "2026-04-14T10:38:44.001Z",
+            "user": "CS",
+            "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
+          }
+        ],
+        "sheet": "CS",
+        "updated_at": "2026-04-24T07:27:40.089Z",
+        "urgent": true,
+        "review_sender": "TM"
       }
     ],
     "JW": [
@@ -6792,7 +6792,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:27:40.092Z",
+        "updated_at": "2026-04-24T07:27:42.747Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -7884,6 +7884,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:27:42.749Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:27:42.748Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "LC",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "CS",
+      "status": "",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-24T07:27:40.097Z",
       "action": "ITEM_CHANGE",
@@ -10044,7 +10064,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:27:41.012Z"
+      "at": "2026-04-24T07:27:43.660Z"
     }
   }
 }
