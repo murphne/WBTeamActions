@@ -1,6 +1,6 @@
 {
-  "version": 76,
-  "updatedAt": "2026-04-23T15:00:46.073Z",
+  "version": 77,
+  "updatedAt": "2026-04-24T07:27:15.243Z",
   "items": {
     "TM": [
       {
@@ -6769,7 +6769,7 @@
         "description": "RIBA Stage 4 - civils",
         "action_required": "Formal notice to appoint consultants",
         "lead": "CS",
-        "coord_TM": false,
+        "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
@@ -6792,7 +6792,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-14T10:46:21.439Z",
+        "updated_at": "2026-04-24T07:27:13.792Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -7884,6 +7884,16 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-24T07:27:13.796Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "lee cunningham"
+    },
     {
       "timestamp": "2026-04-23T15:00:44.811Z",
       "action": "ITEM_CHANGE",
@@ -9921,10 +9931,10 @@
     }
   },
   "presence": {
-    "viewer-mobjie3k-gf4ytt": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-23T15:00:45.718Z"
+    "viewer-mocl6ctb-tas256": {
+      "name": "lee cunningham",
+      "clientId": "client-mnycl31k-w5k1ix",
+      "at": "2026-04-24T07:27:14.703Z"
     }
   }
 }
