@@ -1,6 +1,6 @@
 {
-  "version": 83,
-  "updatedAt": "2026-04-24T07:28:54.489Z",
+  "version": 84,
+  "updatedAt": "2026-04-24T07:29:02.296Z",
   "items": {
     "TM": [
       {
@@ -7885,6 +7885,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-24T07:29:00.839Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "lee cunningham"
+    },
+    {
+      "timestamp": "2026-04-24T07:29:00.838Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "LC",
+      "source_row": "JF|02",
+      "key": "JF|02",
+      "dest_sheet": "LC",
+      "status": "",
+      "username": "lee cunningham"
+    },
+    {
       "timestamp": "2026-04-24T07:28:52.973Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -10084,7 +10104,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:28:53.886Z"
+      "at": "2026-04-24T07:29:01.748Z"
     }
   }
 }
