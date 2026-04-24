@@ -1,6 +1,6 @@
 {
-  "version": 77,
-  "updatedAt": "2026-04-24T07:27:15.243Z",
+  "version": 78,
+  "updatedAt": "2026-04-24T07:27:17.311Z",
   "items": {
     "TM": [
       {
@@ -3283,7 +3283,7 @@
         "description": "RIBA Stage 4 - civils",
         "action_required": "Formal notice to appoint consultants",
         "lead": "CS",
-        "coord_TM": false,
+        "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
@@ -4326,7 +4326,7 @@
         "description": "RIBA Stage 4 - civils",
         "action_required": "Formal notice to appoint consultants",
         "lead": "CS",
-        "coord_TM": false,
+        "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
@@ -7663,7 +7663,7 @@
         "description": "RIBA Stage 4 - civils",
         "action_required": "Formal notice to appoint consultants",
         "lead": "CS",
-        "coord_TM": false,
+        "coord_TM": true,
         "coord_SC": false,
         "coord_LN": false,
         "coord_JF": false,
@@ -9934,7 +9934,7 @@
     "viewer-mocl6ctb-tas256": {
       "name": "lee cunningham",
       "clientId": "client-mnycl31k-w5k1ix",
-      "at": "2026-04-24T07:27:14.703Z"
+      "at": "2026-04-24T07:27:16.658Z"
     }
   }
 }
