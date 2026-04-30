@@ -1,6 +1,6 @@
 {
-  "version": 121,
-  "updatedAt": "2026-04-30T11:40:26.720Z",
+  "version": 122,
+  "updatedAt": "2026-04-30T11:40:44.457Z",
   "items": {
     "TM": [
       {
@@ -2853,8 +2853,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -2867,9 +2872,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-14T08:47:23.894Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|15",
@@ -3666,8 +3673,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -3680,9 +3692,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-14T08:47:23.901Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|06",
@@ -5162,8 +5176,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -5176,9 +5195,11 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-14T08:47:23.905Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|06",
@@ -5782,8 +5803,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -5796,9 +5822,11 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-14T08:47:23.908Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "CS|08",
@@ -6973,8 +7001,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -6987,9 +7020,11 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-14T08:47:23.911Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|12",
@@ -7685,8 +7720,13 @@
         "coord_JW": true,
         "management": "Complete then changes",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:42.889Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Review completed\nWhere it is saved: Meetings / email"
+          },
           {
             "timestamp": "2026-04-14T08:47:23.901Z",
             "user": "JF",
@@ -7699,9 +7739,11 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-14T12:46:30.254Z",
+        "updated_at": "2026-04-30T11:40:42.889Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|06",
@@ -8251,6 +8293,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-30T11:40:42.891Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:40:42.889Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "JF|04",
+      "key": "JF|04",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-30T11:40:25.466Z",
       "action": "ITEM_CHANGE",
@@ -11441,7 +11503,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:40:26.374Z"
+      "at": "2026-04-30T11:40:43.798Z"
     }
   }
 }
