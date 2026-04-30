@@ -1,6 +1,6 @@
 {
-  "version": 103,
-  "updatedAt": "2026-04-30T11:34:37.011Z",
+  "version": 104,
+  "updatedAt": "2026-04-30T11:35:09.907Z",
   "items": {
     "TM": [
       {
@@ -1222,6 +1222,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-04-30T11:35:08.645Z",
+            "user": "TM",
+            "text": "TM to attend when Brands attend w/c 5th May"
+          },
+          {
             "timestamp": "2026-04-13T09:40:37.521Z",
             "user": "TM",
             "text": "Transitions etc done w/c 20th. Speak to JC to coordinate"
@@ -1233,7 +1238,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-13T09:40:37.521Z",
+        "updated_at": "2026-04-30T11:35:08.645Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4241,6 +4246,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-04-30T11:35:08.645Z",
+            "user": "TM",
+            "text": "TM to attend when Brands attend w/c 5th May"
+          },
+          {
             "timestamp": "2026-04-13T09:40:37.521Z",
             "user": "TM",
             "text": "Transitions etc done w/c 20th. Speak to JC to coordinate"
@@ -4252,7 +4262,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-13T09:40:20.182Z",
+        "updated_at": "2026-04-30T11:35:08.645Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4746,6 +4756,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-04-30T11:35:08.645Z",
+            "user": "TM",
+            "text": "TM to attend when Brands attend w/c 5th May"
+          },
+          {
             "timestamp": "2026-04-13T09:40:37.521Z",
             "user": "TM",
             "text": "Transitions etc done w/c 20th. Speak to JC to coordinate"
@@ -4757,7 +4772,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:35:08.645Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8078,6 +8093,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-30T11:35:08.647Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:35:08.647Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|11",
+      "key": "TM|11",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-30T11:34:35.612Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -10907,7 +10942,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:34:36.514Z"
+      "at": "2026-04-30T11:35:09.559Z"
     }
   }
 }
