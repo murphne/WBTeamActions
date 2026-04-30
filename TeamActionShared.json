@@ -1,6 +1,6 @@
 {
-  "version": 117,
-  "updatedAt": "2026-04-30T11:39:36.204Z",
+  "version": 118,
+  "updatedAt": "2026-04-30T11:40:02.287Z",
   "items": {
     "TM": [
       {
@@ -3421,9 +3421,15 @@
         "management": "Coordinate with CS and TM",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:00.909Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:00.909Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -3873,9 +3879,15 @@
         "management": "Coordinate with CS and TM",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:00.909Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:00.909Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5187,9 +5199,15 @@
         "management": "Coordinate with CS and TM",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:00.909Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:00.909Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7794,9 +7812,15 @@
         "management": "Coordinate with CS and TM",
         "programme_date": null,
         "status": "Requires Coordination",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:00.909Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:00.909Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8167,6 +8191,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-30T11:40:00.912Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:40:00.911Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "JF|14",
+      "key": "JF|14",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-30T11:39:34.639Z",
       "action": "ITEM_CHANGE",
@@ -11277,7 +11321,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:39:35.546Z"
+      "at": "2026-04-30T11:40:01.819Z"
     }
   }
 }
