@@ -1,6 +1,6 @@
 {
-  "version": 111,
-  "updatedAt": "2026-04-30T11:37:09.364Z",
+  "version": 112,
+  "updatedAt": "2026-04-30T11:37:50.317Z",
   "items": {
     "TM": [
       {
@@ -1837,8 +1837,13 @@
         "coord_JW": true,
         "management": "Liaise with JW, CS and SC",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:37:48.878Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T09:38:13.574Z",
             "user": "TM",
@@ -1856,9 +1861,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T09:38:56.103Z",
+        "updated_at": "2026-04-30T11:37:48.878Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "TM|38",
@@ -5988,8 +5995,13 @@
         "coord_JW": true,
         "management": "Liaise with JW, CS and SC",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:37:48.878Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T09:38:13.574Z",
             "user": "TM",
@@ -6007,9 +6019,11 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-14T10:56:51.383Z",
+        "updated_at": "2026-04-30T11:37:48.878Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "TM|38",
@@ -7437,8 +7451,13 @@
         "coord_JW": true,
         "management": "Liaise with JW, CS and SC",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:37:48.878Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T09:38:13.574Z",
             "user": "TM",
@@ -7456,9 +7475,11 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-14T10:56:51.383Z",
+        "updated_at": "2026-04-30T11:37:48.878Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "TM|52",
@@ -8122,6 +8143,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-30T11:37:48.880Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:37:48.878Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|37",
+      "key": "TM|37",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-30T11:37:08.163Z",
       "action": "ITEM_CHANGE",
@@ -11112,7 +11153,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:37:09.067Z"
+      "at": "2026-04-30T11:37:49.796Z"
     }
   }
 }
