@@ -1,6 +1,6 @@
 {
-  "version": 142,
-  "updatedAt": "2026-04-30T15:04:54.006Z",
+  "version": 143,
+  "updatedAt": "2026-04-30T15:05:04.932Z",
   "items": {
     "TM": [
       {
@@ -2118,7 +2118,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-04-30T11:38:42.451Z",
@@ -2127,7 +2127,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:38:42.451Z",
+        "updated_at": "2026-04-30T15:05:03.659Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8313,6 +8313,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-30T15:05:03.661Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T15:05:03.659Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "TM|50",
+      "key": "TM|50",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-30T15:04:52.776Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11922,7 +11942,7 @@
     "viewer-mollcvto-xv05rf": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T15:04:53.681Z"
+      "at": "2026-04-30T15:05:04.571Z"
     }
   }
 }
