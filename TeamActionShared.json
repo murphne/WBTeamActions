@@ -1,6 +1,6 @@
 {
-  "version": 138,
-  "updatedAt": "2026-04-30T13:09:39.779Z",
+  "version": 139,
+  "updatedAt": "2026-04-30T14:41:33.170Z",
   "items": {
     "TM": [
       {
@@ -895,8 +895,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T14:41:31.792Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T10:03:02.903Z",
             "user": "TM",
@@ -914,9 +919,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T10:03:05.876Z",
+        "updated_at": "2026-04-30T14:41:31.792Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "TM|68",
@@ -8171,8 +8178,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T14:41:31.792Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T10:03:02.903Z",
             "user": "TM",
@@ -8190,9 +8202,11 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-20T10:03:05.876Z",
+        "updated_at": "2026-04-30T14:41:31.792Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "JF|67",
@@ -8293,6 +8307,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-30T14:41:31.798Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T14:41:31.792Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|69",
+      "key": "TM|69",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-30T13:09:38.142Z",
       "action": "ITEM_CHANGE",
@@ -11820,30 +11854,10 @@
     }
   },
   "presence": {
-    "viewer-molhx8xh-040ljp": {
+    "viewer-mollcvto-xv05rf": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T13:04:44.919Z"
-    },
-    "viewer-molhxpmm-7a3qxn": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T13:05:06.031Z"
-    },
-    "viewer-molhy67k-x1mrle": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T13:05:27.383Z"
-    },
-    "viewer-moli0wng-omwmq9": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T13:07:35.916Z"
-    },
-    "viewer-moli3hmv-ne7w9y": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T13:09:39.061Z"
+      "at": "2026-04-30T14:41:32.702Z"
     }
   }
 }
