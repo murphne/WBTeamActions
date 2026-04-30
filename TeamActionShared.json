@@ -1,6 +1,6 @@
 {
-  "version": 113,
-  "updatedAt": "2026-04-30T11:38:23.629Z",
+  "version": 114,
+  "updatedAt": "2026-04-30T11:38:43.734Z",
   "items": {
     "TM": [
       {
@@ -2095,9 +2095,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:38:42.451Z",
+            "user": "TM",
+            "text": "Advertising consent applied for 23/04/26"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T10:04:16.532Z",
+        "updated_at": "2026-04-30T11:38:42.451Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8149,6 +8155,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-30T11:38:42.454Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:38:42.453Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|50",
+      "key": "TM|50",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-30T11:38:22.047Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11178,7 +11204,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:38:22.954Z"
+      "at": "2026-04-30T11:38:43.369Z"
     }
   }
 }
