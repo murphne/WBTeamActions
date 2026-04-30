@@ -1,6 +1,6 @@
 {
-  "version": 119,
-  "updatedAt": "2026-04-30T11:40:06.949Z",
+  "version": 120,
+  "updatedAt": "2026-04-30T11:40:23.950Z",
   "items": {
     "TM": [
       {
@@ -3018,9 +3018,15 @@
         "management": "Updated list issued to HML on 02.04.26. 36Nr defects overdue.",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:22.541Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4588,9 +4594,15 @@
         "management": "Updated list issued to HML on 02.04.26. 36Nr defects overdue.",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:22.541Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5795,9 +5807,15 @@
         "management": "Updated list issued to HML on 02.04.26. 36Nr defects overdue.",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-04-30T11:40:22.541Z",
+            "user": "TM",
+            "text": "TM has attended"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8215,6 +8233,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-04-30T11:40:22.542Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:40:22.542Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "CS|08",
+      "key": "CS|08",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-04-30T11:40:05.363Z",
       "action": "ITEM_CHANGE",
@@ -11365,7 +11403,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:40:06.275Z"
+      "at": "2026-04-30T11:40:23.458Z"
     }
   }
 }
