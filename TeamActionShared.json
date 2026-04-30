@@ -1,6 +1,6 @@
 {
-  "version": 115,
-  "updatedAt": "2026-04-30T11:39:08.689Z",
+  "version": 116,
+  "updatedAt": "2026-04-30T11:39:20.819Z",
   "items": {
     "TM": [
       {
@@ -780,8 +780,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-04-30T11:39:19.331Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Reviewed on Procore\nWhere it is saved: Procoroe"
+          },
           {
             "timestamp": "2026-04-14T16:05:27.528Z",
             "user": "TM",
@@ -789,8 +794,10 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-14T16:05:33.823Z",
-        "review_sender": ""
+        "updated_at": "2026-04-30T11:39:19.331Z",
+        "review_sender": "",
+        "completion_note": "What has been completed: Reviewed on Procore\nWhere it is saved: Procoroe",
+        "date_closed": "2026-04-30"
       },
       {
         "key": "TM|71",
@@ -8156,6 +8163,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-04-30T11:39:19.333Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-04-30T11:39:19.331Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|72",
+      "key": "TM|72",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-04-30T11:39:07.447Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -11225,7 +11252,7 @@
     "viewer-moleoryb-j8p00z": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-04-30T11:39:08.355Z"
+      "at": "2026-04-30T11:39:20.237Z"
     }
   }
 }
