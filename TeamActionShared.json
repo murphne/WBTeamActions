@@ -1,6 +1,6 @@
 {
-  "version": 146,
-  "updatedAt": "2026-05-07T10:56:02.327Z",
+  "version": 147,
+  "updatedAt": "2026-05-07T10:56:26.179Z",
   "items": {
     "TM": [
       {
@@ -1941,12 +1941,20 @@
         "coord_JW": true,
         "management": "Liaise with JW and LC",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-07T10:56:24.975Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: n/a\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-07T10:56:24.975Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
+        "date_closed": "2026-05-07"
       },
       {
         "key": "TM|39",
@@ -6205,12 +6213,20 @@
         "coord_JW": true,
         "management": "Liaise with JW and LC",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-07T10:56:24.975Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: n/a\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-07T10:56:24.975Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
+        "date_closed": "2026-05-07"
       },
       {
         "key": "TM|51",
@@ -6932,12 +6948,20 @@
         "coord_JW": true,
         "management": "Liaise with JW and LC",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-07T10:56:24.975Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: n/a\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "LC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-07T10:56:24.975Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
+        "date_closed": "2026-05-07"
       },
       {
         "key": "TM|51",
@@ -8344,6 +8368,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-07T10:56:24.979Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-07T10:56:24.975Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|38",
+      "key": "TM|38",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-07T10:56:00.734Z",
       "action": "ITEM_CHANGE",
@@ -12034,7 +12078,7 @@
     "viewer-mov82ohc-mjtx3o": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-07T10:56:01.639Z"
+      "at": "2026-05-07T10:56:25.888Z"
     }
   }
 }
