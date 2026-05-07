@@ -1,6 +1,6 @@
 {
-  "version": 144,
-  "updatedAt": "2026-05-05T15:59:18.403Z",
+  "version": 145,
+  "updatedAt": "2026-05-07T10:55:42.972Z",
   "items": {
     "TM": [
       {
@@ -25,7 +25,8 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-05T15:59:16.635Z"
+        "updated_at": "2026-05-05T15:59:16.635Z",
+        "review_sender": ""
       },
       {
         "key": "TM|96",
@@ -489,8 +490,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-05-07T10:55:41.535Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Meeting held\nWhere it is saved: na"
+          },
           {
             "timestamp": "2026-04-30T11:39:34.638Z",
             "user": "TM",
@@ -503,8 +509,10 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:39:34.638Z",
-        "review_sender": ""
+        "updated_at": "2026-05-07T10:55:41.535Z",
+        "review_sender": "",
+        "completion_note": "What has been completed: Meeting held\nWhere it is saved: na",
+        "date_closed": "2026-05-07"
       },
       {
         "key": "TM|79",
@@ -8337,6 +8345,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-07T10:55:41.538Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-07T10:55:41.535Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|80",
+      "key": "TM|80",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-05T15:59:16.641Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11983,10 +12011,10 @@
     }
   },
   "presence": {
-    "viewer-mollcvto-xv05rf": {
+    "viewer-mov82ohc-mjtx3o": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-05T15:59:17.550Z"
+      "at": "2026-05-07T10:55:42.449Z"
     }
   }
 }
