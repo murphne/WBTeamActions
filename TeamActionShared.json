@@ -1,6 +1,6 @@
 {
-  "version": 161,
-  "updatedAt": "2026-05-08T07:49:08.248Z",
+  "version": 162,
+  "updatedAt": "2026-05-08T07:50:38.585Z",
   "items": {
     "TM": [
       {
@@ -4147,12 +4147,25 @@
         "coord_JW": false,
         "management": "Pricing received for security after PC handover",
         "programme_date": null,
-        "status": "Ready for Review",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:50:37.045Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: closed\nWhere it is saved: on sheet"
+          },
+          {
+            "timestamp": "2026-05-08T07:50:37.044Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: closed\nWhere it is saved: on sheet"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:50:37.045Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: closed\nWhere it is saved: on sheet",
+        "date_closed": "2026-05-08"
       },
       {
         "key": "JF|13",
@@ -7723,12 +7736,25 @@
         "coord_JW": false,
         "management": "Pricing received for security after PC handover",
         "programme_date": null,
-        "status": "Ready for Review",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:50:37.045Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: closed\nWhere it is saved: on sheet"
+          },
+          {
+            "timestamp": "2026-05-08T07:50:37.044Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: closed\nWhere it is saved: on sheet"
+          }
+        ],
         "sheet": "LN",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:50:37.045Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: closed\nWhere it is saved: on sheet",
+        "date_closed": "2026-05-08"
       },
       {
         "key": "CS|02",
@@ -8620,6 +8646,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:50:37.051Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:50:37.045Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|01",
+      "key": "JF|01",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:49:06.993Z",
       "action": "ITEM_CHANGE",
@@ -12610,7 +12656,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:49:07.902Z"
+      "at": "2026-05-08T07:50:37.960Z"
     }
   }
 }
