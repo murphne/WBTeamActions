@@ -1,6 +1,6 @@
 {
-  "version": 159,
-  "updatedAt": "2026-05-08T07:43:25.082Z",
+  "version": 160,
+  "updatedAt": "2026-05-08T07:45:42.683Z",
   "items": {
     "TM": [
       {
@@ -3595,9 +3595,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:45:41.287Z",
+            "user": "JF",
+            "text": "Planning design update due today from ADS, \nTest fits of brands done\nJF arranged for contractors and consultants to be on site next Thursday to review scheme and complete surveys \nJF looking at whether contractor led M&E design would be better for this scheme with a detailed stage 3 design from T&L as set parameters issued"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T09:28:18.583Z",
+        "updated_at": "2026-05-08T07:45:41.287Z",
         "review_sender": ""
       },
       {
@@ -4550,9 +4556,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:45:41.287Z",
+            "user": "JF",
+            "text": "Planning design update due today from ADS, \nTest fits of brands done\nJF arranged for contractors and consultants to be on site next Thursday to review scheme and complete surveys \nJF looking at whether contractor led M&E design would be better for this scheme with a detailed stage 3 design from T&L as set parameters issued"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-20T09:28:18.587Z",
+        "updated_at": "2026-05-08T07:45:41.287Z",
         "review_sender": ""
       }
     ],
@@ -5726,9 +5738,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:45:41.287Z",
+            "user": "JF",
+            "text": "Planning design update due today from ADS, \nTest fits of brands done\nJF arranged for contractors and consultants to be on site next Thursday to review scheme and complete surveys \nJF looking at whether contractor led M&E design would be better for this scheme with a detailed stage 3 design from T&L as set parameters issued"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-04-20T09:28:18.591Z",
+        "updated_at": "2026-05-08T07:45:41.287Z",
         "review_sender": ""
       },
       {
@@ -8530,9 +8548,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:45:41.287Z",
+            "user": "JF",
+            "text": "Planning design update due today from ADS, \nTest fits of brands done\nJF arranged for contractors and consultants to be on site next Thursday to review scheme and complete surveys \nJF looking at whether contractor led M&E design would be better for this scheme with a detailed stage 3 design from T&L as set parameters issued"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-20T09:28:18.594Z",
+        "updated_at": "2026-05-08T07:45:41.287Z",
         "review_sender": ""
       },
       {
@@ -8584,6 +8608,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:45:41.298Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:45:41.291Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:43:23.780Z",
       "action": "ITEM_CHANGE",
@@ -12534,7 +12578,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:43:24.691Z"
+      "at": "2026-05-08T07:45:42.220Z"
     }
   }
 }
