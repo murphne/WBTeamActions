@@ -1,6 +1,6 @@
 {
-  "version": 149,
-  "updatedAt": "2026-05-07T10:57:02.376Z",
+  "version": 150,
+  "updatedAt": "2026-05-08T07:33:41.769Z",
   "items": {
     "TM": [
       {
@@ -3027,6 +3027,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
             "timestamp": "2026-04-24T07:31:22.051Z",
             "user": "LC",
             "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
@@ -3043,7 +3048,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-24T07:32:38.703Z",
+        "updated_at": "2026-05-08T07:33:40.476Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -4122,6 +4127,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
             "timestamp": "2026-04-24T07:31:22.051Z",
             "user": "LC",
             "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
@@ -4138,7 +4148,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-24T07:32:38.706Z",
+        "updated_at": "2026-05-08T07:33:40.476Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -5417,6 +5427,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
             "timestamp": "2026-04-24T07:31:22.051Z",
             "user": "LC",
             "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
@@ -5433,7 +5448,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-24T07:32:38.711Z",
+        "updated_at": "2026-05-08T07:33:40.476Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -6899,6 +6914,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
             "timestamp": "2026-04-24T07:31:22.051Z",
             "user": "LC",
             "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
@@ -6915,7 +6935,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:32:38.715Z",
+        "updated_at": "2026-05-08T07:33:40.476Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -8086,6 +8106,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
             "timestamp": "2026-04-24T07:31:22.051Z",
             "user": "LC",
             "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
@@ -8102,7 +8127,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-24T07:32:38.719Z",
+        "updated_at": "2026-05-08T07:33:40.476Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -8389,6 +8414,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:33:40.490Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:33:40.483Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-07T10:57:00.923Z",
       "action": "ITEM_CHANGE",
@@ -12136,10 +12181,10 @@
     }
   },
   "presence": {
-    "viewer-mov82ohc-mjtx3o": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-07T10:57:01.834Z"
+    "viewer-mowljf61-4xs688": {
+      "name": "Jordan Fraser",
+      "clientId": "client-mnydehd7-bs3cjr",
+      "at": "2026-05-08T07:33:41.408Z"
     }
   }
 }
