@@ -1,6 +1,6 @@
 {
-  "version": 166,
-  "updatedAt": "2026-05-08T08:03:12.410Z",
+  "version": 167,
+  "updatedAt": "2026-05-08T08:07:26.676Z",
   "items": {
     "TM": [
       {
@@ -3712,6 +3712,30 @@
     ],
     "JF": [
       {
+        "key": "JF|69",
+        "priority": null,
+        "item_num": 69,
+        "urgent": false,
+        "effective_date": "2026-05-08",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "Scheme Progress",
+        "action_required": "Updated design received following Welcome Break's update\nPlans now signed of by Welcome Break \nJF reviewed tender submissions for main building and sent back for clarifications\nStarbucks Dt- Forecourt to undertake\nBrands-Kick off meeting to book in for week of 18th may following update of whitebox design with WCA and Amy\nProgramme to update with CS now design update completed",
+        "lead": "JF",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "JF",
+        "updated_at": "2026-05-08T08:07:25.068Z"
+      },
+      {
         "key": "JF|68",
         "priority": null,
         "item_num": 68,
@@ -3733,7 +3757,8 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-08T08:03:10.800Z"
+        "updated_at": "2026-05-08T08:03:10.800Z",
+        "review_sender": ""
       },
       {
         "key": "JF|02",
@@ -8734,6 +8759,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-08T08:07:25.073Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T08:07:25.068Z",
+      "action": "ADD",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-08T08:03:10.807Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12823,7 +12868,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T08:03:11.715Z"
+      "at": "2026-05-08T08:07:25.988Z"
     }
   }
 }
