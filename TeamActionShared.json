@@ -1,6 +1,6 @@
 {
-  "version": 150,
-  "updatedAt": "2026-05-08T07:33:41.769Z",
+  "version": 151,
+  "updatedAt": "2026-05-08T07:35:51.308Z",
   "items": {
     "TM": [
       {
@@ -3790,6 +3790,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:35:49.737Z",
+            "user": "JF",
+            "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
+          },
+          {
             "timestamp": "2026-04-14T15:01:44.810Z",
             "user": "JF",
             "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
@@ -3801,7 +3806,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-14T15:01:44.810Z",
+        "updated_at": "2026-05-08T07:35:49.737Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5298,6 +5303,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:35:49.737Z",
+            "user": "JF",
+            "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
+          },
+          {
             "timestamp": "2026-04-14T15:01:44.810Z",
             "user": "JF",
             "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
@@ -5309,7 +5319,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:35:49.737Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7500,6 +7510,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:35:49.737Z",
+            "user": "JF",
+            "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
+          },
+          {
             "timestamp": "2026-04-14T15:01:44.810Z",
             "user": "JF",
             "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
@@ -7511,7 +7526,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:35:49.737Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7875,6 +7890,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:35:49.737Z",
+            "user": "JF",
+            "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
+          },
+          {
             "timestamp": "2026-04-14T15:01:44.810Z",
             "user": "JF",
             "text": "phase 1 list populated by contractors and PC for buildings. working through defects ready for handover to WB next friday"
@@ -7886,7 +7906,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:35:49.737Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8414,6 +8434,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:35:49.748Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:35:49.741Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|06",
+      "key": "JF|06",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:33:40.490Z",
       "action": "ITEM_CHANGE",
@@ -12184,7 +12224,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:33:41.408Z"
+      "at": "2026-05-08T07:35:50.662Z"
     }
   }
 }
