@@ -1,6 +1,6 @@
 {
-  "version": 151,
-  "updatedAt": "2026-05-08T07:35:51.308Z",
+  "version": 152,
+  "updatedAt": "2026-05-08T07:36:46.215Z",
   "items": {
     "TM": [
       {
@@ -3829,9 +3829,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:36:44.585Z",
+            "user": "JF",
+            "text": "have a procore meeting 12/05/26 to review training formats"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:36:44.585Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6498,9 +6504,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:36:44.585Z",
+            "user": "JF",
+            "text": "have a procore meeting 12/05/26 to review training formats"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:36:44.585Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7929,9 +7941,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:36:44.585Z",
+            "user": "JF",
+            "text": "have a procore meeting 12/05/26 to review training formats"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:36:44.585Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8434,6 +8452,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:36:44.595Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:36:44.589Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|07",
+      "key": "JF|07",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:35:49.748Z",
       "action": "ITEM_CHANGE",
@@ -12224,7 +12262,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:35:50.662Z"
+      "at": "2026-05-08T07:36:45.504Z"
     }
   }
 }
