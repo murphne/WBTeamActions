@@ -1,6 +1,6 @@
 {
-  "version": 163,
-  "updatedAt": "2026-05-08T07:53:51.376Z",
+  "version": 164,
+  "updatedAt": "2026-05-08T07:54:44.869Z",
   "items": {
     "TM": [
       {
@@ -4196,9 +4196,15 @@
         "management": "identified cause, monitoring device left for next few weeks",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:54:43.512Z",
+            "user": "JF",
+            "text": "T&L confirmed i will receive final report today for Rotherham power issue"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6822,9 +6828,15 @@
         "management": "identified cause, monitoring device left for next few weeks",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:54:43.512Z",
+            "user": "JF",
+            "text": "T&L confirmed i will receive final report today for Rotherham power issue"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8324,9 +8336,15 @@
         "management": "identified cause, monitoring device left for next few weeks",
         "programme_date": null,
         "status": "Ready for Review",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:54:43.512Z",
+            "user": "JF",
+            "text": "T&L confirmed i will receive final report today for Rotherham power issue"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8676,6 +8694,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:54:43.521Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:54:43.516Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|13",
+      "key": "JF|13",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:53:49.768Z",
       "action": "ITEM_CHANGE",
@@ -12706,7 +12744,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:53:50.679Z"
+      "at": "2026-05-08T07:54:44.430Z"
     }
   }
 }
