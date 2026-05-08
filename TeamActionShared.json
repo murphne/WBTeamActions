@@ -1,6 +1,6 @@
 {
-  "version": 155,
-  "updatedAt": "2026-05-08T07:39:18.465Z",
+  "version": 156,
+  "updatedAt": "2026-05-08T07:39:48.886Z",
   "items": {
     "TM": [
       {
@@ -3988,9 +3988,15 @@
         "management": "report to be created for the defects outstanding with McLarnon",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:39:47.406Z",
+            "user": "JF",
+            "text": "JF to complete report. behind on this with everything else going off. plan is to complete asap"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:39:47.406Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6683,9 +6689,15 @@
         "management": "report to be created for the defects outstanding with McLarnon",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:39:47.406Z",
+            "user": "JF",
+            "text": "JF to complete report. behind on this with everything else going off. plan is to complete asap"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:39:47.406Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7209,9 +7221,15 @@
         "management": "report to be created for the defects outstanding with McLarnon",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:39:47.406Z",
+            "user": "JF",
+            "text": "JF to complete report. behind on this with everything else going off. plan is to complete asap"
+          }
+        ],
         "sheet": "LC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:39:47.406Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8078,9 +8096,15 @@
         "management": "report to be created for the defects outstanding with McLarnon",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:39:47.406Z",
+            "user": "JF",
+            "text": "JF to complete report. behind on this with everything else going off. plan is to complete asap"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:39:47.406Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8500,6 +8524,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:39:47.415Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:39:47.409Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|12",
+      "key": "JF|12",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:39:17.232Z",
       "action": "ITEM_CHANGE",
@@ -12370,7 +12414,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:39:18.142Z"
+      "at": "2026-05-08T07:39:48.335Z"
     }
   }
 }
