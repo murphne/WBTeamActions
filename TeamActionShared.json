@@ -1,6 +1,6 @@
 {
-  "version": 156,
-  "updatedAt": "2026-05-08T07:39:48.886Z",
+  "version": 157,
+  "updatedAt": "2026-05-08T07:40:32.592Z",
   "items": {
     "TM": [
       {
@@ -3519,13 +3519,18 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:40:31.283Z",
+            "user": "JF",
+            "text": "Defects list issued to trades. internal defects nearly complete, target completion end of next week"
+          },
+          {
             "timestamp": "2026-04-30T11:40:00.909Z",
             "user": "TM",
             "text": "TM has attended"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:40:00.909Z",
+        "updated_at": "2026-05-08T07:40:31.283Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4021,13 +4026,18 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:40:31.283Z",
+            "user": "JF",
+            "text": "Defects list issued to trades. internal defects nearly complete, target completion end of next week"
+          },
+          {
             "timestamp": "2026-04-30T11:40:00.909Z",
             "user": "TM",
             "text": "TM has attended"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-30T11:40:00.909Z",
+        "updated_at": "2026-05-08T07:40:31.283Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5376,13 +5386,18 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:40:31.283Z",
+            "user": "JF",
+            "text": "Defects list issued to trades. internal defects nearly complete, target completion end of next week"
+          },
+          {
             "timestamp": "2026-04-30T11:40:00.909Z",
             "user": "TM",
             "text": "TM has attended"
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-30T11:40:00.909Z",
+        "updated_at": "2026-05-08T07:40:31.283Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8129,13 +8144,18 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:40:31.283Z",
+            "user": "JF",
+            "text": "Defects list issued to trades. internal defects nearly complete, target completion end of next week"
+          },
+          {
             "timestamp": "2026-04-30T11:40:00.909Z",
             "user": "TM",
             "text": "TM has attended"
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-30T11:40:00.909Z",
+        "updated_at": "2026-05-08T07:40:31.283Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8524,6 +8544,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:40:31.293Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:40:31.287Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|14",
+      "key": "JF|14",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:39:47.415Z",
       "action": "ITEM_CHANGE",
@@ -12414,7 +12454,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:39:48.335Z"
+      "at": "2026-05-08T07:40:32.211Z"
     }
   }
 }
