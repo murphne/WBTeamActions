@@ -1,6 +1,6 @@
 {
-  "version": 152,
-  "updatedAt": "2026-05-08T07:36:46.215Z",
+  "version": 153,
+  "updatedAt": "2026-05-08T07:38:20.826Z",
   "items": {
     "TM": [
       {
@@ -3859,12 +3859,20 @@
         "coord_JW": true,
         "management": "",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:38:19.454Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: monitoring workload\nWhere it is saved: on sheet"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:38:19.454Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
+        "date_closed": "2026-05-08"
       },
       {
         "key": "JF|09",
@@ -6534,12 +6542,20 @@
         "coord_JW": true,
         "management": "",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:38:19.454Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: monitoring workload\nWhere it is saved: on sheet"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:38:19.454Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
+        "date_closed": "2026-05-08"
       },
       {
         "key": "JF|09",
@@ -7971,12 +7987,20 @@
         "coord_JW": true,
         "management": "",
         "programme_date": null,
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:38:19.454Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: monitoring workload\nWhere it is saved: on sheet"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:38:19.454Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
+        "date_closed": "2026-05-08"
       },
       {
         "key": "JF|09",
@@ -8452,6 +8476,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:38:19.460Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:38:19.454Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|08",
+      "key": "JF|08",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:36:44.595Z",
       "action": "ITEM_CHANGE",
@@ -12262,7 +12306,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:36:45.504Z"
+      "at": "2026-05-08T07:38:20.373Z"
     }
   }
 }
