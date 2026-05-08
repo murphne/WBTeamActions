@@ -1,6 +1,6 @@
 {
-  "version": 164,
-  "updatedAt": "2026-05-08T07:54:44.869Z",
+  "version": 165,
+  "updatedAt": "2026-05-08T07:55:53.795Z",
   "items": {
     "TM": [
       {
@@ -1278,6 +1278,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:55:52.052Z",
+            "user": "JF",
+            "text": "Defects list compiled  and issued to subs- currently working through defect list"
+          },
+          {
             "timestamp": "2026-04-30T11:35:08.645Z",
             "user": "TM",
             "text": "TM to attend when Brands attend w/c 5th May"
@@ -1294,7 +1299,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:35:08.645Z",
+        "updated_at": "2026-05-08T07:55:52.052Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4520,6 +4525,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:55:52.052Z",
+            "user": "JF",
+            "text": "Defects list compiled  and issued to subs- currently working through defect list"
+          },
+          {
             "timestamp": "2026-04-30T11:35:08.645Z",
             "user": "TM",
             "text": "TM to attend when Brands attend w/c 5th May"
@@ -4536,7 +4546,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-04-30T11:35:08.645Z",
+        "updated_at": "2026-05-08T07:55:52.052Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5054,6 +5064,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-08T07:55:52.052Z",
+            "user": "JF",
+            "text": "Defects list compiled  and issued to subs- currently working through defect list"
+          },
+          {
             "timestamp": "2026-04-30T11:35:08.645Z",
             "user": "TM",
             "text": "TM to attend when Brands attend w/c 5th May"
@@ -5070,7 +5085,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-30T11:35:08.645Z",
+        "updated_at": "2026-05-08T07:55:52.052Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8694,6 +8709,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:55:52.057Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:55:52.054Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "TM|11",
+      "key": "TM|11",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:54:43.521Z",
       "action": "ITEM_CHANGE",
@@ -12744,7 +12779,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:54:44.430Z"
+      "at": "2026-05-08T07:55:52.968Z"
     }
   }
 }
