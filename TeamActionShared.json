@@ -1,6 +1,6 @@
 {
-  "version": 153,
-  "updatedAt": "2026-05-08T07:38:20.826Z",
+  "version": 154,
+  "updatedAt": "2026-05-08T07:38:47.866Z",
   "items": {
     "TM": [
       {
@@ -3926,9 +3926,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:38:46.259Z",
+            "user": "JF",
+            "text": "Play books issued to team for final comment"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:38:46.259Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6609,9 +6615,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-08T07:38:46.259Z",
+            "user": "JF",
+            "text": "Play books issued to team for final comment"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-08T07:38:46.259Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8476,6 +8488,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-08T07:38:46.267Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T07:38:46.261Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|10",
+      "key": "JF|10",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-08T07:38:19.460Z",
       "action": "ITEM_CHANGE",
@@ -12306,7 +12338,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T07:38:20.373Z"
+      "at": "2026-05-08T07:38:47.173Z"
     }
   }
 }
