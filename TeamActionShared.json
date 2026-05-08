@@ -1,6 +1,6 @@
 {
-  "version": 170,
-  "updatedAt": "2026-05-08T08:28:57.716Z",
+  "version": 171,
+  "updatedAt": "2026-05-08T08:46:51.520Z",
   "items": {
     "TM": [
       {
@@ -3712,6 +3712,30 @@
     ],
     "JF": [
       {
+        "key": "JF|73",
+        "priority": null,
+        "item_num": 73,
+        "urgent": false,
+        "effective_date": "2026-05-08",
+        "programme_date": null,
+        "project": "Kates Cabin",
+        "description": "Equipment defects and non performance",
+        "action_required": "create document on supplier and contractor performance",
+        "lead": "JF",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "JF",
+        "updated_at": "2026-05-08T08:46:50.265Z"
+      },
+      {
         "key": "JF|72",
         "priority": null,
         "item_num": 72,
@@ -3733,7 +3757,8 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-08T08:28:56.103Z"
+        "updated_at": "2026-05-08T08:28:56.103Z",
+        "review_sender": ""
       },
       {
         "key": "JF|71",
@@ -8834,6 +8859,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-08T08:46:50.269Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-08T08:46:50.265Z",
+      "action": "ADD",
+      "origin_sheet": "JF",
+      "source_row": "JF|73",
+      "key": "JF|73",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-08T08:28:56.106Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13003,7 +13048,7 @@
     "viewer-mowljf61-4xs688": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-08T08:28:57.023Z"
+      "at": "2026-05-08T08:46:51.180Z"
     }
   }
 }
