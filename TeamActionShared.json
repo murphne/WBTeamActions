@@ -1,8 +1,32 @@
 {
-  "version": 186,
-  "updatedAt": "2026-05-14T18:50:15.596Z",
+  "version": 187,
+  "updatedAt": "2026-05-14T19:30:12.130Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|103",
+        "priority": null,
+        "item_num": 103,
+        "urgent": false,
+        "effective_date": "2026-05-14",
+        "programme_date": null,
+        "project": "General",
+        "description": "sssssssssssss",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-05-14T19:30:10.725Z"
+      },
       {
         "key": "TM|102",
         "priority": null,
@@ -9072,6 +9096,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-14T19:30:10.733Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-14T19:30:10.725Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|103",
+      "key": "TM|103",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-14T18:50:14.100Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13558,10 +13602,10 @@
     }
   },
   "presence": {
-    "viewer-mp5ueo1y-vpketp": {
+    "viewer-mp5vuqcd-5t6ify": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-14T18:50:15.014Z"
+      "at": "2026-05-14T19:30:11.651Z"
     }
   }
 }
