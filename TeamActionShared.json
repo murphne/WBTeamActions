@@ -1,6 +1,6 @@
 {
-  "version": 298,
-  "updatedAt": "2026-05-18T08:58:03.238Z",
+  "version": 299,
+  "updatedAt": "2026-05-18T08:58:18.037Z",
   "items": {
     "TM": [
       {
@@ -14471,11 +14471,6 @@
     }
   },
   "presence": {
-    "viewer-mpayt5uy-l5unwu": {
-      "name": "User UNWU",
-      "clientId": "client-mpayt5v0-23mqic",
-      "at": "2026-05-18T08:53:06.753Z"
-    },
     "viewer-mpayv50x-g1rt71": {
       "name": "User RT71",
       "clientId": "client-mpayv50y-9mnhgi",
@@ -14509,7 +14504,7 @@
     "viewer-mpaz060u-sitr1i": {
       "name": "Tom Murphy",
       "clientId": "client-mpaz060x-fjb8xg",
-      "at": "2026-05-18T08:57:55.740Z"
+      "at": "2026-05-18T08:58:17.754Z"
     }
   },
   "columnWidths": {
