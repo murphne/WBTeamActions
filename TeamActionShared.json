@@ -1,6 +1,6 @@
 {
-  "version": 208,
-  "updatedAt": "2026-05-18T08:12:08.708Z",
+  "version": 209,
+  "updatedAt": "2026-05-18T08:13:11.286Z",
   "items": {
     "TM": [
       {
@@ -3946,9 +3946,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T08:13:09.786Z",
+            "user": "JF",
+            "text": "documentation requires review,\nJF has dates for all defects with lead times, just need to put it on Procore to update system"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T08:46:50.265Z",
+        "updated_at": "2026-05-18T08:13:09.786Z",
         "review_sender": ""
       },
       {
@@ -9451,6 +9457,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T08:13:09.795Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T08:13:09.790Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|73",
+      "key": "JF|73",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-18T08:12:07.513Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14420,7 +14446,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T08:12:08.422Z"
+      "at": "2026-05-18T08:13:10.703Z"
     }
   }
 }
