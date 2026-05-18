@@ -1,6 +1,6 @@
 {
-  "version": 663,
-  "updatedAt": "2026-05-18T09:53:49.532Z",
+  "version": 664,
+  "updatedAt": "2026-05-18T09:53:53.294Z",
   "items": {
     "TM": [
       {
@@ -2027,7 +2027,7 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": true,
         "management": "Liaise with JW",
         "programme_date": null,
@@ -2040,7 +2040,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-13T09:51:01.170Z",
+        "updated_at": "2026-05-18T09:53:51.719Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7008,7 +7008,7 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": true,
         "management": "Liaise with JW",
         "programme_date": null,
@@ -8451,6 +8451,37 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T08:11:21.084Z",
         "review_sender": ""
+      },
+      {
+        "key": "TM|32",
+        "priority": null,
+        "item_num": 32,
+        "effective_date": "2026-03-09",
+        "project": "Kates Cabin",
+        "description": "Earthworks Lessons Learnt",
+        "action_required": "Discuss how we learn from what happened. Initial format before we get into the detail",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
+        "management": "Liaise with JW",
+        "programme_date": null,
+        "status": "Requires Coordination",
+        "comments": [
+          {
+            "timestamp": "2026-04-13T09:51:01.170Z",
+            "user": "TM",
+            "text": "Do when we get time - TM, CS, LN, JW."
+          }
+        ],
+        "sheet": "LC",
+        "updated_at": "2026-05-18T09:53:51.719Z",
+        "urgent": false,
+        "review_sender": ""
       }
     ],
     "LN": [
@@ -9607,6 +9638,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T09:53:51.725Z",
+      "action": "SEND",
+      "origin_sheet": "TM",
+      "source_row": "TM|32",
+      "key": "TM|32",
+      "dest_sheet": "LC",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:53:51.723Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T09:52:46.238Z",
       "action": "ITEM_CHANGE",
@@ -15067,7 +15118,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:53:49.043Z"
+      "at": "2026-05-18T09:53:52.657Z"
     }
   },
   "columnWidths": {
