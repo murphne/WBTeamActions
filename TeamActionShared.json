@@ -1,6 +1,6 @@
 {
-  "version": 939,
-  "updatedAt": "2026-05-18T10:33:25.999Z",
+  "version": 940,
+  "updatedAt": "2026-05-18T10:33:34.189Z",
   "items": {
     "TM": [
       {
@@ -17,15 +17,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
-        "coord_CS": true,
+        "coord_JF": false,
+        "coord_CS": false,
         "coord_LC": true,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:07:26.070Z",
+        "updated_at": "2026-05-18T10:33:31.898Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8873,15 +8873,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
-        "coord_CS": true,
+        "coord_JF": false,
+        "coord_CS": false,
         "coord_LC": true,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:07:07.132Z",
+        "updated_at": "2026-05-18T10:33:31.898Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9158,15 +9158,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
-        "coord_CS": true,
+        "coord_JF": false,
+        "coord_CS": false,
         "coord_LC": true,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:27:16.051Z",
+        "updated_at": "2026-05-18T10:33:31.898Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -10138,21 +10138,81 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
-        "coord_CS": true,
+        "coord_JF": false,
+        "coord_CS": false,
         "coord_LC": true,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:11:49.007Z",
+        "updated_at": "2026-05-18T10:33:31.898Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:33:31.905Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:33:31.898Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "JW",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:33:31.341Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:33:31.335Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "CS",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:33:30.897Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:33:30.892Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "JF",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:31:52.514Z",
       "action": "ITEM_CHANGE",
@@ -16378,7 +16438,7 @@
     "viewer-mpb2g1y6-fqnfvb": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:33:25.564Z"
+      "at": "2026-05-18T10:33:33.557Z"
     }
   },
   "columnWidths": {
