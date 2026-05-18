@@ -1,6 +1,6 @@
 {
-  "version": 911,
-  "updatedAt": "2026-05-18T10:30:09.470Z",
+  "version": 912,
+  "updatedAt": "2026-05-18T10:30:13.964Z",
   "items": {
     "TM": [
       {
@@ -15,7 +15,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -25,7 +25,7 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5381,7 +5381,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -5391,7 +5391,7 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -6831,7 +6831,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -6841,7 +6841,7 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8092,7 +8092,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -8102,7 +8102,7 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8891,7 +8891,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -8901,7 +8901,7 @@
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9180,7 +9180,7 @@
         "action_required": "",
         "lead": "TM",
         "coord_TM": false,
-        "coord_SC": true,
+        "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
         "coord_CS": false,
@@ -9190,7 +9190,7 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:30:08.064Z",
+        "updated_at": "2026-05-18T10:30:12.394Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -10181,6 +10181,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:30:12.398Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:30:12.394Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "SC",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:30:08.068Z",
       "action": "ITEM_CHANGE",
@@ -16251,7 +16271,7 @@
     "viewer-mpb2bpzy-a5prrr": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:30:08.984Z"
+      "at": "2026-05-18T10:30:13.321Z"
     }
   },
   "columnWidths": {
