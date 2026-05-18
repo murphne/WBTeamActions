@@ -1,6 +1,6 @@
 {
-  "version": 1015,
-  "updatedAt": "2026-05-18T10:41:01.612Z",
+  "version": 1016,
+  "updatedAt": "2026-05-18T10:41:06.576Z",
   "items": {
     "TM": [
       {
@@ -1378,19 +1378,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -5032,19 +5027,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -5882,19 +5872,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -7179,19 +7164,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -8432,19 +8412,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -9087,19 +9062,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -9428,19 +9398,14 @@
         "management": "Invite the team to add into the library once set up",
         "programme_date": "2026-04-01",
         "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T10:40:54.149Z",
-            "user": "TM",
-            "text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
-          }
-        ],
+        "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:40:54.149Z",
+        "updated_at": "2026-05-18T10:41:05.048Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
-          "1778784579875|tm|aaa"
+          "1778784579875|tm|aaa",
+          "1779100854149|tm|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
         ]
       },
       {
@@ -10364,6 +10329,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:41:05.050Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comments updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:41:05.048Z",
+      "action": "DELETE_COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|02",
+      "key": "TM|02",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:40:54.154Z",
       "action": "ITEM_CHANGE",
@@ -16954,7 +16939,7 @@
     "viewer-mpb2l6i3-9j2zoy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb2l6i6-c7nsu1",
-      "at": "2026-05-18T10:41:00.837Z"
+      "at": "2026-05-18T10:41:05.966Z"
     },
     "viewer-mpb2mq0b-v93nuu": {
       "name": "User 3NUU",
