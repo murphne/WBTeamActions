@@ -1,6 +1,6 @@
 {
-  "version": 579,
-  "updatedAt": "2026-05-18T09:39:01.319Z",
+  "version": 580,
+  "updatedAt": "2026-05-18T09:39:12.497Z",
   "items": {
     "TM": [
       {
@@ -1638,6 +1638,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T09:39:11.267Z",
+            "user": "TM",
+            "text": "TM to chase Stantec"
+          },
+          {
             "timestamp": "2026-04-30T11:36:02.939Z",
             "user": "TM",
             "text": "Stantec still awaiting meeting with IDB. TM chasing daily"
@@ -1654,7 +1659,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:36:02.939Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6871,6 +6876,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T09:39:11.267Z",
+            "user": "TM",
+            "text": "TM to chase Stantec"
+          },
+          {
             "timestamp": "2026-04-30T11:36:02.939Z",
             "user": "TM",
             "text": "Stantec still awaiting meeting with IDB. TM chasing daily"
@@ -6887,7 +6897,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-30T11:36:02.939Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9494,6 +9504,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T09:39:11.273Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:39:11.269Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|17",
+      "key": "TM|17",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T09:31:51.526Z",
       "action": "ITEM_CHANGE",
@@ -14674,7 +14704,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:39:01.004Z"
+      "at": "2026-05-18T09:39:12.189Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
