@@ -1,6 +1,6 @@
 {
-  "version": 189,
-  "updatedAt": "2026-05-18T07:13:02.085Z",
+  "version": 190,
+  "updatedAt": "2026-05-18T07:15:16.886Z",
   "items": {
     "TM": [
       {
@@ -5025,11 +5025,19 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T07:15:15.501Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: F10  issued\nWhere it is saved: emailed to team"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-04-14T11:13:03.914Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T07:15:15.501Z",
+        "review_sender": "",
+        "completion_note": "What has been completed: F10  issued\nWhere it is saved: emailed to team",
+        "date_closed": "2026-05-18"
       },
       {
         "key": "CS|09",
@@ -9117,6 +9125,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:15:15.505Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-05-18T07:15:15.501Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|71",
+      "key": "CS|71",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-05-18T07:13:00.694Z",
       "action": "ITEM_CHANGE",
@@ -13667,7 +13695,7 @@
     "viewer-mpav5lx5-sq12m3": {
       "name": "Craig Stevens",
       "clientId": "client-mpav5lx8-bvxp3u",
-      "at": "2026-05-18T07:13:01.612Z"
+      "at": "2026-05-18T07:15:16.422Z"
     }
   }
 }
