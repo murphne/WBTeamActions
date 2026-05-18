@@ -1,6 +1,6 @@
 {
-  "version": 947,
-  "updatedAt": "2026-05-18T10:34:02.654Z",
+  "version": 948,
+  "updatedAt": "2026-05-18T10:34:11.168Z",
   "items": {
     "TM": [
       {
@@ -16,16 +16,16 @@
         "lead": "TM",
         "coord_TM": false,
         "coord_SC": false,
-        "coord_LN": true,
-        "coord_JF": true,
-        "coord_CS": true,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
         "coord_LC": false,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:34:00.589Z",
+        "updated_at": "2026-05-18T10:34:08.906Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -10291,6 +10291,86 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T10:34:08.910Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:08.906Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|106",
+      "key": "TM|106",
+      "dest_sheet": "JF",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:08.493Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:08.491Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|106",
+      "key": "TM|106",
+      "dest_sheet": "CS",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:08.013Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:08.010Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|106",
+      "key": "TM|106",
+      "dest_sheet": "JW",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:07.408Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:34:07.404Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "TM",
+      "source_row": "TM|106",
+      "key": "TM|106",
+      "dest_sheet": "LN",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T10:34:00.595Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16705,7 +16785,7 @@
     "viewer-mpb2g1y6-fqnfvb": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:34:02.246Z"
+      "at": "2026-05-18T10:34:10.549Z"
     }
   },
   "columnWidths": {
