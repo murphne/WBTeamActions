@@ -1,6 +1,6 @@
 {
-  "version": 521,
-  "updatedAt": "2026-05-18T09:30:16.341Z",
+  "version": 522,
+  "updatedAt": "2026-05-18T09:30:24.995Z",
   "items": {
     "TM": [
       {
@@ -1298,6 +1298,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T09:30:23.726Z",
+            "user": "TM",
+            "text": "Meeting held, awaiting quote"
+          },
+          {
             "timestamp": "2026-05-13T15:23:44.379Z",
             "user": "TM",
             "text": "Meeting on site 14/05"
@@ -1324,7 +1329,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-13T15:23:44.379Z",
+        "updated_at": "2026-05-18T09:30:23.726Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9476,6 +9481,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:30:23.730Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:30:23.727Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|05",
+      "key": "TM|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:29:00.826Z",
       "action": "OPEN_PAGE",
       "origin_sheet": "SYS",
@@ -14645,7 +14670,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:30:03.658Z"
+      "at": "2026-05-18T09:30:24.643Z"
     },
     "viewer-mpb05s03-lf9nyp": {
       "name": "Tom Murphy",
