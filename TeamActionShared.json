@@ -1,6 +1,6 @@
 {
-  "version": 942,
-  "updatedAt": "2026-05-18T10:33:40.363Z",
+  "version": 943,
+  "updatedAt": "2026-05-18T10:33:44.716Z",
   "items": {
     "TM": [
       {
@@ -17,7 +17,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -25,7 +25,7 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5375,7 +5375,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -5383,7 +5383,7 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -6821,7 +6821,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -6829,7 +6829,7 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8078,7 +8078,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -8086,7 +8086,7 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8873,7 +8873,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -8881,7 +8881,7 @@
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9158,7 +9158,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -9166,7 +9166,7 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -10138,7 +10138,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -10146,13 +10146,23 @@
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:33:37.966Z",
+        "updated_at": "2026-05-18T10:33:42.453Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:33:43.179Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:33:31.905Z",
       "action": "ITEM_CHANGE",
@@ -16438,7 +16448,7 @@
     "viewer-mpb2g1y6-fqnfvb": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:33:40.018Z"
+      "at": "2026-05-18T10:33:44.086Z"
     }
   },
   "columnWidths": {
