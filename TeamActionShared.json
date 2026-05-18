@@ -1,6 +1,6 @@
 {
-  "version": 464,
-  "updatedAt": "2026-05-18T09:24:40.592Z",
+  "version": 465,
+  "updatedAt": "2026-05-18T09:24:44.337Z",
   "items": {
     "TM": [
       {
@@ -106,9 +106,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:24:42.795Z",
+            "user": "TM",
+            "text": "Arranged for 1pm on 19/05"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-08T12:41:14.252Z",
+        "updated_at": "2026-05-18T09:24:42.795Z",
         "review_sender": ""
       },
       {
@@ -9470,6 +9476,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:24:42.800Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:24:42.798Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|100",
+      "key": "TM|100",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:24:26.131Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14594,7 +14620,7 @@
     "viewer-mpazxbgx-rq8bjh": {
       "name": "Tom Murphy",
       "clientId": "client-mpazxbgz-t67kgu",
-      "at": "2026-05-18T09:24:40.329Z"
+      "at": "2026-05-18T09:24:43.709Z"
     }
   },
   "columnWidths": {
