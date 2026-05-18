@@ -1,6 +1,6 @@
 {
-  "version": 236,
-  "updatedAt": "2026-05-18T08:45:29.587Z",
+  "version": 237,
+  "updatedAt": "2026-05-18T08:45:31.525Z",
   "items": {
     "TM": [
       {
@@ -14479,7 +14479,7 @@
     "viewer-mpayjah0-4ozzb9": {
       "name": "Tom Murphy",
       "clientId": "client-mpayjah2-8qpmfv",
-      "at": "2026-05-18T08:45:28.955Z"
+      "at": "2026-05-18T08:45:31.118Z"
     }
   },
   "columnWidths": {
@@ -14500,7 +14500,7 @@
     "14": 280
   },
   "actionSectionCollapsed": {
-    "owned-active": true,
+    "owned-active": false,
     "owned-review": true,
     "received-coord": true,
     "received-review": true,
