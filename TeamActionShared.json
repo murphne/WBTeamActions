@@ -1,6 +1,6 @@
 {
-  "version": 193,
-  "updatedAt": "2026-05-18T07:55:49.253Z",
+  "version": 194,
+  "updatedAt": "2026-05-18T07:57:51.828Z",
   "items": {
     "TM": [
       {
@@ -4176,6 +4176,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:57:50.652Z",
+            "user": "JF",
+            "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
+          },
+          {
             "timestamp": "2026-05-08T07:35:49.737Z",
             "user": "JF",
             "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
@@ -4192,7 +4197,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:35:49.737Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5839,6 +5844,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:57:50.652Z",
+            "user": "JF",
+            "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
+          },
+          {
             "timestamp": "2026-05-08T07:35:49.737Z",
             "user": "JF",
             "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
@@ -5855,7 +5865,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-08T07:35:49.737Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8171,6 +8181,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:57:50.652Z",
+            "user": "JF",
+            "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
+          },
+          {
             "timestamp": "2026-05-08T07:35:49.737Z",
             "user": "JF",
             "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
@@ -8187,7 +8202,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-08T07:35:49.737Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8575,6 +8590,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:57:50.652Z",
+            "user": "JF",
+            "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
+          },
+          {
             "timestamp": "2026-05-08T07:35:49.737Z",
             "user": "JF",
             "text": "phase 2- Jf rejected 2 remaining defects\nPhase 1- contractors working through list and have made good progress, minimal defects left outstanding expected with products requiring to be remade/ordered-wont affect operation"
@@ -8591,7 +8611,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-08T07:35:49.737Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9182,6 +9202,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:57:50.665Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T07:57:50.656Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|06",
+      "key": "JF|06",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-18T07:55:47.751Z",
       "action": "ITEM_CHANGE",
@@ -13812,7 +13852,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T07:55:48.661Z"
+      "at": "2026-05-18T07:57:51.575Z"
     }
   }
 }
