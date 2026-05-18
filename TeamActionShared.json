@@ -1,6 +1,6 @@
 {
-  "version": 982,
-  "updatedAt": "2026-05-18T10:37:11.692Z",
+  "version": 983,
+  "updatedAt": "2026-05-18T10:37:17.133Z",
   "items": {
     "TM": [
       {
@@ -25,10 +25,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:26.070Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|104",
@@ -5410,10 +5409,9 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:11:59.961Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -6883,10 +6881,9 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:21.595Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -8167,10 +8164,9 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:03.628Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -8989,10 +8985,9 @@
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:07.132Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       }
     ],
     "LN": [
@@ -9275,10 +9270,9 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:27:16.051Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -10282,10 +10276,9 @@
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:11:49.007Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -16871,7 +16864,7 @@
     "viewer-mpb2hwod-dklu9k": {
       "name": "User LU9K",
       "clientId": "client-mpb2hwod-0r7bam",
-      "at": "2026-05-18T10:37:04.694Z"
+      "at": "2026-05-18T10:37:16.583Z"
     },
     "viewer-mpb2khnp-43htuc": {
       "name": "Tom Murphy",
