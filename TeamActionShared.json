@@ -1,6 +1,6 @@
 {
-  "version": 918,
-  "updatedAt": "2026-05-18T10:30:36.049Z",
+  "version": 919,
+  "updatedAt": "2026-05-18T10:30:39.979Z",
   "items": {
     "TM": [
       {
@@ -17,15 +17,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:30:34.812Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5383,15 +5383,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:30:34.812Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -6833,15 +6833,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": true,
+        "coord_JF": true,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:30:27.605Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8094,15 +8094,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": true,
+        "coord_JF": true,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:30:27.605Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8893,15 +8893,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:30:34.812Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9182,15 +9182,15 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:30:34.812Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -10166,21 +10166,41 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": false,
+        "coord_JF": true,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:30:34.812Z",
+        "updated_at": "2026-05-18T10:30:39.046Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:30:39.050Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:30:38.439Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Coordination updated",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:30:34.815Z",
       "action": "ITEM_CHANGE",
@@ -16323,11 +16343,6 @@
       "clientId": "client-mpb1ypno-9g4va6",
       "at": "2026-05-18T10:30:20.511Z"
     },
-    "viewer-mpb22pz2-igezdt": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:25:39.513Z"
-    },
     "viewer-mpb269sh-po1b2u": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
@@ -16341,7 +16356,7 @@
     "viewer-mpb2bpzy-a5prrr": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:30:35.725Z"
+      "at": "2026-05-18T10:30:39.607Z"
     }
   },
   "columnWidths": {
