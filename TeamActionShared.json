@@ -1,6 +1,6 @@
 {
-  "version": 599,
-  "updatedAt": "2026-05-18T09:42:01.956Z",
+  "version": 600,
+  "updatedAt": "2026-05-18T09:42:19.122Z",
   "items": {
     "TM": [
       {
@@ -712,12 +712,12 @@
         "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "Ongoing",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-04-30T15:04:43.312Z",
+        "updated_at": "2026-05-18T09:42:17.630Z",
         "review_sender": ""
       },
       {
@@ -7648,6 +7648,31 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T08:11:20.626Z",
         "review_sender": ""
+      },
+      {
+        "key": "TM|78",
+        "priority": null,
+        "item_num": 78,
+        "urgent": false,
+        "effective_date": "2026-04-15",
+        "programme_date": "2026-04-23",
+        "project": "General",
+        "description": "Derby East Signage",
+        "action_required": "Do 'business case' type doc for JW to review",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": true,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "JW",
+        "updated_at": "2026-05-18T09:42:17.631Z",
+        "review_sender": ""
       }
     ],
     "LC": [
@@ -9515,6 +9540,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T09:42:17.638Z",
+      "action": "SEND",
+      "origin_sheet": "TM",
+      "source_row": "TM|78",
+      "key": "TM|78",
+      "dest_sheet": "JW",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:42:17.635Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T09:41:34.515Z",
       "action": "ITEM_CHANGE",
@@ -14755,7 +14800,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:42:01.329Z"
+      "at": "2026-05-18T09:42:18.573Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
