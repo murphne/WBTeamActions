@@ -1,6 +1,6 @@
 {
-  "version": 642,
-  "updatedAt": "2026-05-18T09:49:50.776Z",
+  "version": 643,
+  "updatedAt": "2026-05-18T09:50:00.753Z",
   "items": {
     "TM": [
       {
@@ -1772,6 +1772,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T09:49:59.364Z",
+            "user": "TM",
+            "text": "Update today 18/05"
+          },
+          {
             "timestamp": "2026-04-16T15:08:00.053Z",
             "user": "TM",
             "text": "Started this, in Strategic will keep updated"
@@ -1783,7 +1788,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:49:49.539Z",
+        "updated_at": "2026-05-18T09:49:59.364Z",
         "urgent": true,
         "review_sender": ""
       },
@@ -9583,6 +9588,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:49:59.370Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:49:59.367Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|22",
+      "key": "TM|22",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:49:49.545Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14982,7 +15007,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:49:50.465Z"
+      "at": "2026-05-18T09:50:00.286Z"
     },
     "viewer-mpb0tbel-5ge5os": {
       "name": "User E5OS",
