@@ -1,6 +1,6 @@
 {
-  "version": 892,
-  "updatedAt": "2026-05-18T10:27:09.362Z",
+  "version": 893,
+  "updatedAt": "2026-05-18T10:27:11.472Z",
   "items": {
     "TM": [
       {
@@ -8097,7 +8097,7 @@
         "coord_JF": false,
         "coord_CS": false,
         "coord_LC": true,
-        "coord_JW": true,
+        "coord_JW": false,
         "management": "",
         "status": "",
         "comments": [],
@@ -16221,7 +16221,7 @@
     "viewer-mpb277ul-61f3wi": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:27:08.651Z"
+      "at": "2026-05-18T10:27:11.014Z"
     }
   },
   "columnWidths": {
