@@ -1,6 +1,6 @@
 {
-  "version": 195,
-  "updatedAt": "2026-05-18T07:59:30.818Z",
+  "version": 196,
+  "updatedAt": "2026-05-18T07:59:42.061Z",
   "items": {
     "TM": [
       {
@@ -4324,13 +4324,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:59:40.622Z",
+            "user": "JF",
+            "text": "with team for final comment"
+          },
+          {
             "timestamp": "2026-05-08T07:38:46.259Z",
             "user": "JF",
             "text": "Play books issued to team for final comment"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:38:46.259Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7207,13 +7212,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:59:40.622Z",
+            "user": "JF",
+            "text": "with team for final comment"
+          },
+          {
             "timestamp": "2026-05-08T07:38:46.259Z",
             "user": "JF",
             "text": "Play books issued to team for final comment"
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-08T07:38:46.259Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9217,6 +9227,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:59:40.635Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T07:59:40.627Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|10",
+      "key": "JF|10",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-18T07:59:29.254Z",
       "action": "ITEM_CHANGE",
@@ -13887,7 +13917,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T07:59:30.162Z"
+      "at": "2026-05-18T07:59:41.542Z"
     }
   }
 }
