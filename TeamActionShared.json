@@ -1,6 +1,6 @@
 {
-  "version": 191,
-  "updatedAt": "2026-05-18T07:16:22.640Z",
+  "version": 192,
+  "updatedAt": "2026-05-18T07:26:15.914Z",
   "items": {
     "TM": [
       {
@@ -733,11 +733,19 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T07:26:14.493Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-14T12:35:04.972Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T07:26:14.493Z",
+        "review_sender": "",
+        "completion_note": "What has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order",
+        "date_closed": "2026-05-18"
       },
       {
         "key": "TM|77",
@@ -4983,11 +4991,19 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T07:26:14.493Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-04-14T12:35:04.972Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T07:26:14.493Z",
+        "review_sender": "",
+        "completion_note": "What has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order",
+        "date_closed": "2026-05-18"
       },
       {
         "key": "CS|72",
@@ -9141,6 +9157,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:26:14.499Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-05-18T07:26:14.493Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|73",
+      "key": "CS|73",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-05-18T07:16:21.066Z",
       "action": "ITEM_CHANGE",
@@ -13731,7 +13767,7 @@
     "viewer-mpav5lx5-sq12m3": {
       "name": "Craig Stevens",
       "clientId": "client-mpav5lx8-bvxp3u",
-      "at": "2026-05-18T07:16:21.978Z"
+      "at": "2026-05-18T07:26:15.415Z"
     }
   }
 }
