@@ -1,6 +1,6 @@
 {
-  "version": 528,
-  "updatedAt": "2026-05-18T09:31:01.791Z",
+  "version": 529,
+  "updatedAt": "2026-05-18T09:31:07.691Z",
   "items": {
     "TM": [
       {
@@ -1426,8 +1426,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": "2026-05-08",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-05-18T09:31:06.522Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Done\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T09:50:02.866Z",
             "user": "TM",
@@ -1440,9 +1445,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-20T09:50:02.866Z",
+        "updated_at": "2026-05-18T09:31:06.522Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Done\nWhere it is saved: Emails",
+        "date_closed": "2026-05-18"
       },
       {
         "key": "TM|11",
@@ -6782,8 +6789,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": "2026-05-08",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-05-18T09:31:06.522Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Done\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-04-20T09:50:02.866Z",
             "user": "TM",
@@ -6796,9 +6808,11 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-14T14:52:21.062Z",
+        "updated_at": "2026-05-18T09:31:06.522Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Done\nWhere it is saved: Emails",
+        "date_closed": "2026-05-18"
       },
       {
         "key": "TM|16",
@@ -9480,6 +9494,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T09:31:06.527Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:31:06.522Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|08",
+      "key": "TM|08",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T09:30:23.730Z",
       "action": "ITEM_CHANGE",
@@ -14670,7 +14704,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:31:01.310Z"
+      "at": "2026-05-18T09:31:07.439Z"
     },
     "viewer-mpb05s03-lf9nyp": {
       "name": "Tom Murphy",
