@@ -1,6 +1,6 @@
 {
-  "version": 742,
-  "updatedAt": "2026-05-18T10:07:04.880Z",
+  "version": 743,
+  "updatedAt": "2026-05-18T10:07:08.407Z",
   "items": {
     "TM": [
       {
@@ -19,13 +19,13 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": true,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:07:03.628Z",
+        "updated_at": "2026-05-18T10:07:07.132Z",
         "review_sender": ""
       },
       {
@@ -7818,7 +7818,7 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": true,
         "management": "",
         "status": "",
@@ -8577,6 +8577,31 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T09:54:00.388Z",
         "urgent": false,
+        "review_sender": ""
+      },
+      {
+        "key": "TM|105",
+        "priority": null,
+        "item_num": 105,
+        "urgent": false,
+        "effective_date": "2026-05-18",
+        "programme_date": null,
+        "project": "General",
+        "description": "Testing",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "LC",
+        "updated_at": "2026-05-18T10:07:07.132Z",
         "review_sender": ""
       }
     ],
@@ -9770,6 +9795,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:07:07.135Z",
+      "action": "SEND",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "LC",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:07:07.134Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:07:03.632Z",
       "action": "SEND",
@@ -15435,7 +15480,7 @@
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:07:04.560Z"
+      "at": "2026-05-18T10:07:08.058Z"
     }
   },
   "columnWidths": {
