@@ -1,6 +1,6 @@
 {
-  "version": 981,
-  "updatedAt": "2026-05-18T10:37:05.158Z",
+  "version": 982,
+  "updatedAt": "2026-05-18T10:37:11.692Z",
   "items": {
     "TM": [
       {
@@ -25,9 +25,10 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:07:26.070Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|104",
@@ -5409,9 +5410,10 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:11:59.961Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|106",
@@ -6881,9 +6883,10 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:07:21.595Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|106",
@@ -8164,9 +8167,10 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:07:03.628Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|106",
@@ -8985,9 +8989,10 @@
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:07:07.132Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       }
     ],
     "LN": [
@@ -9270,9 +9275,10 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:27:16.051Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|106",
@@ -10276,9 +10282,10 @@
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:11:49.007Z",
+        "updated_at": "2026-05-18T10:37:10.322Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|106",
@@ -10309,6 +10316,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:37:10.327Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|105",
+      "key": "TM|105",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:37:10.326Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:34:33.402Z",
       "action": "DELETE",
@@ -16849,7 +16876,7 @@
     "viewer-mpb2khnp-43htuc": {
       "name": "Tom Murphy",
       "clientId": "client-mpb2khnt-29fznl",
-      "at": "2026-05-18T10:37:00.198Z"
+      "at": "2026-05-18T10:37:11.233Z"
     }
   },
   "columnWidths": {
