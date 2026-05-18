@@ -1,6 +1,6 @@
 {
-  "version": 940,
-  "updatedAt": "2026-05-18T10:33:34.189Z",
+  "version": 941,
+  "updatedAt": "2026-05-18T10:33:38.430Z",
   "items": {
     "TM": [
       {
@@ -18,14 +18,14 @@
         "coord_SC": true,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:33:31.898Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5375,7 +5375,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -5383,7 +5383,7 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:11:59.961Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -6821,7 +6821,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -6829,7 +6829,7 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:07:21.595Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8078,7 +8078,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": true,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": true,
         "coord_LC": true,
         "coord_JW": true,
@@ -8086,7 +8086,7 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:07:03.628Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -8874,14 +8874,14 @@
         "coord_SC": true,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:33:31.898Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9159,14 +9159,14 @@
         "coord_SC": true,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:33:31.898Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -10139,14 +10139,14 @@
         "coord_SC": true,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": false,
+        "coord_CS": true,
         "coord_LC": true,
-        "coord_JW": false,
+        "coord_JW": true,
         "management": "",
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:33:31.898Z",
+        "updated_at": "2026-05-18T10:33:37.966Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -16438,7 +16438,7 @@
     "viewer-mpb2g1y6-fqnfvb": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:33:33.557Z"
+      "at": "2026-05-18T10:33:38.028Z"
     }
   },
   "columnWidths": {
