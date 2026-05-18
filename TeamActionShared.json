@@ -1,6 +1,6 @@
 {
-  "version": 205,
-  "updatedAt": "2026-05-18T08:10:39.480Z",
+  "version": 206,
+  "updatedAt": "2026-05-18T08:11:15.083Z",
   "items": {
     "TM": [
       {
@@ -3996,9 +3996,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T08:11:13.650Z",
+            "user": "JF",
+            "text": "JF issued to team for review"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T08:09:47.443Z",
+        "updated_at": "2026-05-18T08:11:13.650Z",
         "review_sender": ""
       },
       {
@@ -9346,6 +9352,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T08:11:13.658Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T08:11:13.653Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|71",
+      "key": "JF|71",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-18T08:10:38.230Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14215,7 +14241,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T08:10:39.145Z"
+      "at": "2026-05-18T08:11:14.579Z"
     }
   }
 }
