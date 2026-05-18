@@ -1,6 +1,6 @@
 {
-  "version": 229,
-  "updatedAt": "2026-05-18T08:39:13.189Z",
+  "version": 230,
+  "updatedAt": "2026-05-18T08:42:23.707Z",
   "items": {
     "TM": [
       {
@@ -14471,21 +14471,6 @@
     }
   },
   "presence": {
-    "viewer-mpay88b6-xe9ihp": {
-      "name": "Tom Murphy",
-      "clientId": "client-mpay88b8-4pkb0h",
-      "at": "2026-05-18T08:35:54.230Z"
-    },
-    "viewer-mpay9zuc-5kfqf2": {
-      "name": "Tom Murphy",
-      "clientId": "client-mpay9zuf-1ubxop",
-      "at": "2026-05-18T08:37:01.849Z"
-    },
-    "viewer-mpayais2-thk62q": {
-      "name": "Tom Murphy",
-      "clientId": "client-mpayais3-w1gi69",
-      "at": "2026-05-18T08:37:15.828Z"
-    },
     "viewer-mpaycdv7-2stqzf": {
       "name": "Tom Murphy",
       "clientId": "client-mpaycdv9-jw2ldx",
@@ -14495,6 +14480,11 @@
       "name": "Tom Murphy",
       "clientId": "client-mpaycnzo-b04n9u",
       "at": "2026-05-18T08:39:12.646Z"
+    },
+    "viewer-mpayh5i5-iry0pn": {
+      "name": "Tom Murphy",
+      "clientId": "client-mpayh5i6-9al3mr",
+      "at": "2026-05-18T08:42:23.186Z"
     }
   },
   "columnWidths": {
