@@ -1,6 +1,6 @@
 {
-  "version": 188,
-  "updatedAt": "2026-05-14T19:30:25.324Z",
+  "version": 189,
+  "updatedAt": "2026-05-18T07:13:02.085Z",
   "items": {
     "TM": [
       {
@@ -3646,6 +3646,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:13:00.683Z",
+            "user": "CS",
+            "text": "Agree re design and the update programme.  Once this is done notices can be issued."
+          },
+          {
             "timestamp": "2026-04-14T10:46:21.437Z",
             "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
@@ -3657,7 +3662,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-24T07:27:40.085Z",
+        "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -6177,6 +6182,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:13:00.683Z",
+            "user": "CS",
+            "text": "Agree re design and the update programme.  Once this is done notices can be issued."
+          },
+          {
             "timestamp": "2026-04-14T10:46:21.437Z",
             "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
@@ -6188,7 +6198,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-24T07:27:40.089Z",
+        "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -7759,6 +7769,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:13:00.683Z",
+            "user": "CS",
+            "text": "Agree re design and the update programme.  Once this is done notices can be issued."
+          },
+          {
             "timestamp": "2026-04-14T10:46:21.437Z",
             "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
@@ -7770,7 +7785,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-24T07:27:42.747Z",
+        "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -8818,6 +8833,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:13:00.683Z",
+            "user": "CS",
+            "text": "Agree re design and the update programme.  Once this is done notices can be issued."
+          },
+          {
             "timestamp": "2026-04-14T10:46:21.437Z",
             "user": "CS",
             "text": "Ready for Review\nWhat has been done: TM List populated. Letter drafted by CS\nWhere it is saved: Job folder - sub Orders"
@@ -8829,7 +8849,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-04-24T07:27:40.095Z",
+        "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
         "review_sender": "TM"
       },
@@ -9097,6 +9117,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:13:00.694Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-05-18T07:13:00.687Z",
+      "action": "COMMENT",
+      "origin_sheet": "CS",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-05-14T19:30:23.876Z",
       "action": "DELETE",
@@ -13624,10 +13664,10 @@
     }
   },
   "presence": {
-    "viewer-mp5vuqcd-5t6ify": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-14T19:30:24.790Z"
+    "viewer-mpav5lx5-sq12m3": {
+      "name": "Craig Stevens",
+      "clientId": "client-mpav5lx8-bvxp3u",
+      "at": "2026-05-18T07:13:01.612Z"
     }
   }
 }
