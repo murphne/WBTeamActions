@@ -1,6 +1,6 @@
 {
-  "version": 1032,
-  "updatedAt": "2026-05-18T10:43:13.909Z",
+  "version": 1033,
+  "updatedAt": "2026-05-18T10:43:21.193Z",
   "items": {
     "TM": [
       {
@@ -25,10 +25,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:26.070Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|104",
@@ -1380,7 +1379,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -2135,9 +2134,9 @@
         "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
         "management": "Liaise with JW",
         "programme_date": null,
         "status": "Requires Coordination",
@@ -2154,7 +2153,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:43:09.804Z",
+        "updated_at": "2026-05-18T09:54:09.975Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -4201,10 +4200,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       }
     ],
     "JF": [
@@ -5029,7 +5027,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -5413,10 +5411,9 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:11:59.961Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -5440,10 +5437,9 @@
         "status": "",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       }
     ],
     "CS": [
@@ -5874,7 +5870,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -6888,10 +6884,9 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:21.595Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -6915,10 +6910,9 @@
         "status": "",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       },
       {
         "key": "TM|32",
@@ -7203,7 +7197,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -7416,6 +7410,43 @@
         ],
         "sheet": "JW",
         "updated_at": "2026-05-18T09:49:35.642Z",
+        "urgent": false,
+        "review_sender": "",
+        "_deletedCommentSignatures": []
+      },
+      {
+        "key": "TM|32",
+        "priority": null,
+        "item_num": 32,
+        "effective_date": "2026-03-09",
+        "project": "Kates Cabin",
+        "description": "Earthworks Lessons Learnt",
+        "action_required": "Discuss how we learn from what happened. Initial format before we get into the detail",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": true,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
+        "management": "Liaise with JW",
+        "programme_date": null,
+        "status": "Requires Coordination",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:54:00.388Z",
+            "user": "TM",
+            "text": "Additional muck away?? LN to discuss with TM and CS"
+          },
+          {
+            "timestamp": "2026-04-13T09:51:01.170Z",
+            "user": "TM",
+            "text": "Do when we get time - TM, CS, LN, JW."
+          }
+        ],
+        "sheet": "JW",
+        "updated_at": "2026-05-18T09:54:00.388Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8174,10 +8205,9 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:07:03.628Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -8201,47 +8231,9 @@
         "status": "",
         "comments": [],
         "sheet": "JW",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
-      },
-      {
-        "key": "TM|32",
-        "priority": null,
-        "item_num": 32,
-        "effective_date": "2026-03-09",
-        "project": "Kates Cabin",
-        "description": "Earthworks Lessons Learnt",
-        "action_required": "Discuss how we learn from what happened. Initial format before we get into the detail",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": true,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "Liaise with JW",
-        "programme_date": null,
-        "status": "Requires Coordination",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T09:54:00.388Z",
-            "user": "TM",
-            "text": "Additional muck away?? LN to discuss with TM and CS"
-          },
-          {
-            "timestamp": "2026-04-13T09:51:01.170Z",
-            "user": "TM",
-            "text": "Do when we get time - TM, CS, LN, JW."
-          }
-        ],
-        "sheet": "JW",
-        "updated_at": "2026-05-18T10:43:09.804Z",
-        "urgent": false,
-        "review_sender": "",
-        "_deletedCommentSignatures": []
+        "review_sender": ""
       }
     ],
     "LC": [
@@ -8451,7 +8443,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -8977,6 +8969,43 @@
         "_deletedCommentSignatures": []
       },
       {
+        "key": "TM|32",
+        "priority": null,
+        "item_num": 32,
+        "effective_date": "2026-03-09",
+        "project": "Kates Cabin",
+        "description": "Earthworks Lessons Learnt",
+        "action_required": "Discuss how we learn from what happened. Initial format before we get into the detail",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": true,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
+        "management": "Liaise with JW",
+        "programme_date": null,
+        "status": "Requires Coordination",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:54:00.388Z",
+            "user": "TM",
+            "text": "Additional muck away?? LN to discuss with TM and CS"
+          },
+          {
+            "timestamp": "2026-04-13T09:51:01.170Z",
+            "user": "TM",
+            "text": "Do when we get time - TM, CS, LN, JW."
+          }
+        ],
+        "sheet": "LC",
+        "updated_at": "2026-05-18T09:54:00.388Z",
+        "urgent": false,
+        "review_sender": "",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "TM|105",
         "priority": null,
         "item_num": 105,
@@ -8998,45 +9027,7 @@
         "status": "",
         "comments": [],
         "sheet": "LC",
-        "updated_at": "2026-05-18T10:37:10.322Z",
-        "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
-      },
-      {
-        "key": "TM|32",
-        "priority": null,
-        "item_num": 32,
-        "effective_date": "2026-03-09",
-        "project": "Kates Cabin",
-        "description": "Earthworks Lessons Learnt",
-        "action_required": "Discuss how we learn from what happened. Initial format before we get into the detail",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": true,
-        "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "Liaise with JW",
-        "programme_date": null,
-        "status": "Requires Coordination",
-        "comments": [
-          {
-            "timestamp": "2026-05-18T09:54:00.388Z",
-            "user": "TM",
-            "text": "Additional muck away?? LN to discuss with TM and CS"
-          },
-          {
-            "timestamp": "2026-04-13T09:51:01.170Z",
-            "user": "TM",
-            "text": "Do when we get time - TM, CS, LN, JW."
-          }
-        ],
-        "sheet": "LC",
-        "updated_at": "2026-05-18T10:43:09.804Z",
-        "urgent": false,
+        "updated_at": "2026-05-18T10:07:07.132Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       }
@@ -9101,7 +9092,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -9276,9 +9267,9 @@
         "coord_SC": false,
         "coord_LN": true,
         "coord_JF": false,
-        "coord_CS": true,
-        "coord_LC": false,
-        "coord_JW": false,
+        "coord_CS": false,
+        "coord_LC": true,
+        "coord_JW": true,
         "management": "Liaise with JW",
         "programme_date": null,
         "status": "Requires Coordination",
@@ -9295,7 +9286,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:43:09.804Z",
+        "updated_at": "2026-05-18T09:54:06.988Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9322,10 +9313,9 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:27:16.051Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -9349,10 +9339,9 @@
         "status": "",
         "comments": [],
         "sheet": "LN",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       }
     ],
     "SC": [
@@ -9437,7 +9426,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:41:05.048Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": [
@@ -10331,10 +10320,9 @@
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:37:10.322Z",
+        "updated_at": "2026-05-18T10:11:49.007Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "_deleted": true
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|106",
@@ -10358,10 +10346,9 @@
         "status": "",
         "comments": [],
         "sheet": "SC",
-        "updated_at": "2026-05-18T10:37:16.005Z",
+        "updated_at": "2026-05-18T10:34:14.909Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       }
     ]
   },
@@ -17021,7 +17008,7 @@
     "viewer-mpb2hwod-dklu9k": {
       "name": "User LU9K",
       "clientId": "client-mpb2hwod-0r7bam",
-      "at": "2026-05-18T10:42:20.814Z"
+      "at": "2026-05-18T10:43:20.665Z"
     },
     "viewer-mpb2l6i3-9j2zoy": {
       "name": "Tom Murphy",
