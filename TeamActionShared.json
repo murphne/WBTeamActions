@@ -1,6 +1,6 @@
 {
-  "version": 192,
-  "updatedAt": "2026-05-18T07:26:15.914Z",
+  "version": 193,
+  "updatedAt": "2026-05-18T07:55:49.253Z",
   "items": {
     "TM": [
       {
@@ -3237,6 +3237,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-08T07:33:40.476Z",
             "user": "JF",
             "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
@@ -3258,7 +3263,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-08T07:33:40.476Z",
+        "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -4579,6 +4584,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-08T07:33:40.476Z",
             "user": "JF",
             "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
@@ -4600,7 +4610,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:33:40.476Z",
+        "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -5978,6 +5988,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-08T07:33:40.476Z",
             "user": "JF",
             "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
@@ -5999,7 +6014,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-08T07:33:40.476Z",
+        "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -7537,6 +7552,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-08T07:33:40.476Z",
             "user": "JF",
             "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
@@ -7558,7 +7578,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-08T07:33:40.476Z",
+        "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -8827,6 +8847,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-08T07:33:40.476Z",
             "user": "JF",
             "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
@@ -8848,7 +8873,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-08T07:33:40.476Z",
+        "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
         "review_sender": "TM"
       },
@@ -9157,6 +9182,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:55:47.751Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T07:55:47.744Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-18T07:26:14.499Z",
       "action": "ITEM_CHANGE",
@@ -13764,10 +13809,10 @@
     }
   },
   "presence": {
-    "viewer-mpav5lx5-sq12m3": {
-      "name": "Craig Stevens",
-      "clientId": "client-mpav5lx8-bvxp3u",
-      "at": "2026-05-18T07:26:15.415Z"
+    "viewer-mpawsnmn-8dju9y": {
+      "name": "Jordan Fraser",
+      "clientId": "client-mnydehd7-bs3cjr",
+      "at": "2026-05-18T07:55:48.661Z"
     }
   }
 }
