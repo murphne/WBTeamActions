@@ -1,6 +1,6 @@
 {
-  "version": 395,
-  "updatedAt": "2026-05-18T09:13:08.553Z",
+  "version": 396,
+  "updatedAt": "2026-05-18T09:13:21.151Z",
   "items": {
     "TM": [
       {
@@ -14471,16 +14471,6 @@
     }
   },
   "presence": {
-    "viewer-mpaz4gde-fsxtv0": {
-      "name": "Tom Murphy",
-      "clientId": "client-mpaz4gdg-2d06k3",
-      "at": "2026-05-18T09:08:13.552Z"
-    },
-    "viewer-mpazdoua-qhq52f": {
-      "name": "Tom Murphy",
-      "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T09:08:12.740Z"
-    },
     "viewer-mpazejvk-yg74et": {
       "name": "User 74ET",
       "clientId": "client-mpazejvk-9a94hh",
@@ -14499,7 +14489,7 @@
     "viewer-mpazj796-d4u2vv": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T09:13:05.522Z"
+      "at": "2026-05-18T09:13:20.737Z"
     },
     "viewer-mpazjohj-ovepr1": {
       "name": "User EPR1",
