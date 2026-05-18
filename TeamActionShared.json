@@ -1,6 +1,6 @@
 {
-  "version": 602,
-  "updatedAt": "2026-05-18T09:42:25.594Z",
+  "version": 603,
+  "updatedAt": "2026-05-18T09:42:34.034Z",
   "items": {
     "TM": [
       {
@@ -705,7 +705,7 @@
         "project": "General",
         "description": "Derby East Signage",
         "action_required": "Do 'business case' type doc for JW to review",
-        "lead": "TM",
+        "lead": "JW",
         "coord_TM": false,
         "coord_SC": false,
         "coord_LN": false,
@@ -714,11 +714,22 @@
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Ready for Review",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:42:32.517Z",
+            "user": "TM",
+            "text": "Ready for Review\nWhat has been done: Report written, JW to review\nWhere it is saved: EMails"
+          },
+          {
+            "timestamp": "2026-05-18T09:42:32.510Z",
+            "user": "TM",
+            "text": "Ready for Review\nWhat has been done: Report written, JW to review\nWhere it is saved: EMails"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:42:17.630Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T09:42:32.510Z",
+        "review_sender": "TM"
       },
       {
         "key": "CS|73",
@@ -7659,7 +7670,7 @@
         "project": "General",
         "description": "Derby East Signage",
         "action_required": "Do 'business case' type doc for JW to review",
-        "lead": "TM",
+        "lead": "JW",
         "coord_TM": false,
         "coord_SC": false,
         "coord_LN": false,
@@ -7668,11 +7679,22 @@
         "coord_LC": false,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Ready for Review",
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:42:32.517Z",
+            "user": "TM",
+            "text": "Ready for Review\nWhat has been done: Report written, JW to review\nWhere it is saved: EMails"
+          },
+          {
+            "timestamp": "2026-05-18T09:42:32.510Z",
+            "user": "TM",
+            "text": "Ready for Review\nWhat has been done: Report written, JW to review\nWhere it is saved: EMails"
+          }
+        ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T09:42:17.631Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T09:42:32.517Z",
+        "review_sender": "TM"
       }
     ],
     "LC": [
@@ -9540,6 +9562,46 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T09:42:32.521Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:42:32.517Z",
+      "action": "STATUS",
+      "origin_sheet": "JW",
+      "source_row": "TM|78",
+      "key": "TM|78",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:42:32.515Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:42:32.510Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "TM|78",
+      "key": "TM|78",
+      "dest_sheet": "",
+      "status": "Ready for Review",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T09:42:17.638Z",
       "action": "SEND",
@@ -14800,7 +14862,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:42:25.352Z"
+      "at": "2026-05-18T09:42:33.434Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
