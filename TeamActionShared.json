@@ -1,6 +1,6 @@
 {
-  "version": 1164,
-  "updatedAt": "2026-05-18T12:55:15.522Z",
+  "version": 1165,
+  "updatedAt": "2026-05-18T12:55:26.660Z",
   "items": {
     "TM": [
       {
@@ -255,9 +255,10 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-05T15:59:16.635Z",
+        "updated_at": "2026-05-18T12:55:25.111Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|96",
@@ -10365,7 +10366,28 @@
       }
     ]
   },
-  "audit": [],
+  "audit": [
+    {
+      "timestamp": "2026-05-18T12:55:25.116Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|98",
+      "key": "TM|98",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T12:55:25.115Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    }
+  ],
   "auditClearedAt": "2026-05-18T11:17:41.198Z",
   "projectMeta": {
     "Abington M74": {
@@ -10450,7 +10472,7 @@
     "viewer-mpb7hxei-3nzr7q": {
       "name": "Tom Murphy",
       "clientId": "client-mpb7hxel-k035e5",
-      "at": "2026-05-18T12:55:15.237Z"
+      "at": "2026-05-18T12:55:26.029Z"
     }
   },
   "columnWidths": {
