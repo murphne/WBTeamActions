@@ -1,6 +1,6 @@
 {
-  "version": 585,
-  "updatedAt": "2026-05-18T09:40:01.928Z",
+  "version": 586,
+  "updatedAt": "2026-05-18T09:40:08.211Z",
   "items": {
     "TM": [
       {
@@ -2320,6 +2320,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T09:40:06.638Z",
+            "user": "TM",
+            "text": "Screenshot received. TM to get a drawing instead"
+          },
+          {
             "timestamp": "2026-04-30T11:38:22.044Z",
             "user": "TM",
             "text": "Comments back with PF. Awaiting design update to present to team"
@@ -2336,7 +2341,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:38:22.044Z",
+        "updated_at": "2026-05-18T09:40:06.638Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9505,6 +9510,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:40:06.644Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:40:06.640Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:39:11.273Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14704,7 +14729,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:40:01.313Z"
+      "at": "2026-05-18T09:40:07.557Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
