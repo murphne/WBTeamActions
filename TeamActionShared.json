@@ -1,6 +1,6 @@
 {
-  "version": 676,
-  "updatedAt": "2026-05-18T09:55:38.001Z",
+  "version": 677,
+  "updatedAt": "2026-05-18T09:55:42.366Z",
   "items": {
     "TM": [
       {
@@ -2241,9 +2241,15 @@
         "management": "Liaise with JW",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:55:41.125Z",
+            "user": "TM",
+            "text": "TM refresh memory on this"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-18T09:55:41.125Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9690,6 +9696,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:55:41.133Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:55:41.128Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|39",
+      "key": "TM|39",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:54:09.978Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -15229,7 +15255,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:55:37.380Z"
+      "at": "2026-05-18T09:55:42.048Z"
     }
   },
   "columnWidths": {
