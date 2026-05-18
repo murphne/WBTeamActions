@@ -1,6 +1,6 @@
 {
-  "version": 201,
-  "updatedAt": "2026-05-18T08:06:08.968Z",
+  "version": 202,
+  "updatedAt": "2026-05-18T08:07:06.092Z",
   "items": {
     "TM": [
       {
@@ -4990,13 +4990,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T08:07:04.532Z",
+            "user": "JF",
+            "text": "HML have confirmed no top cap was ever detailed, no further reports of roof leaking since MSI attended site and addressed flashing detail"
+          },
+          {
             "timestamp": "2026-05-08T07:49:06.983Z",
             "user": "JF",
             "text": "leak stopped,\nhave requested and chased again this week for HML to provide information on the top cap that looks as if is missing (need to confirm on drawings)"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:49:06.983Z",
+        "updated_at": "2026-05-18T08:07:04.532Z",
         "review_sender": ""
       },
       {
@@ -9218,13 +9223,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-18T08:07:04.532Z",
+            "user": "JF",
+            "text": "HML have confirmed no top cap was ever detailed, no further reports of roof leaking since MSI attended site and addressed flashing detail"
+          },
+          {
             "timestamp": "2026-05-08T07:49:06.983Z",
             "user": "JF",
             "text": "leak stopped,\nhave requested and chased again this week for HML to provide information on the top cap that looks as if is missing (need to confirm on drawings)"
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-08T07:49:06.983Z",
+        "updated_at": "2026-05-18T08:07:04.532Z",
         "review_sender": ""
       },
       {
@@ -9317,6 +9327,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T08:07:04.541Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T08:07:04.536Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|67",
+      "key": "JF|67",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-18T08:06:07.535Z",
       "action": "ITEM_CHANGE",
@@ -14107,7 +14137,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T08:06:08.446Z"
+      "at": "2026-05-18T08:07:05.449Z"
     }
   }
 }
