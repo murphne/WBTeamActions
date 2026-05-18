@@ -1,6 +1,6 @@
 {
-  "version": 606,
-  "updatedAt": "2026-05-18T09:43:02.213Z",
+  "version": 607,
+  "updatedAt": "2026-05-18T09:43:23.725Z",
   "items": {
     "TM": [
       {
@@ -105,7 +105,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-05-18T09:24:42.795Z",
@@ -114,7 +114,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:24:42.795Z",
+        "updated_at": "2026-05-18T09:43:22.395Z",
         "review_sender": ""
       },
       {
@@ -9563,6 +9563,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:43:22.401Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:43:22.395Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "TM|100",
+      "key": "TM|100",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:42:32.521Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14862,7 +14882,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:43:01.541Z"
+      "at": "2026-05-18T09:43:23.318Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
