@@ -1,6 +1,6 @@
 {
-  "version": 1084,
-  "updatedAt": "2026-05-18T11:00:42.752Z",
+  "version": 1085,
+  "updatedAt": "2026-05-18T11:17:24.940Z",
   "items": {
     "TM": [
       {
@@ -17013,10 +17013,10 @@
     }
   },
   "presence": {
-    "viewer-mpb3f4e5-ac1nhz": {
-      "name": "User 1NHZ",
-      "clientId": "client-mpb3f4e7-f5am8s",
-      "at": "2026-05-18T11:00:42.117Z"
+    "viewer-mpb40lxu-ibk8a2": {
+      "name": "User K8A2",
+      "clientId": "client-mpb40lxw-kvumqb",
+      "at": "2026-05-18T11:17:24.690Z"
     }
   },
   "columnWidths": {
