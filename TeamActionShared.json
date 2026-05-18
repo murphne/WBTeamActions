@@ -1,6 +1,6 @@
 {
-  "version": 821,
-  "updatedAt": "2026-05-18T10:18:21.497Z",
+  "version": 822,
+  "updatedAt": "2026-05-18T10:18:54.538Z",
   "items": {
     "TM": [
       {
@@ -25,8 +25,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-18T10:07:26.070Z",
-        "review_sender": ""
+        "updated_at": "2026-05-18T10:12:05.554Z",
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|104",
@@ -51,7 +52,8 @@
         "comments": [],
         "sheet": "TM",
         "updated_at": "2026-05-18T09:57:18.684Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|103",
@@ -77,7 +79,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-14T19:30:23.868Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|102",
@@ -113,7 +116,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-05-18T09:57:50.302Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|101",
@@ -139,7 +143,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-08T12:47:11.412Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|100",
@@ -170,7 +175,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-05-18T09:43:22.395Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|99",
@@ -196,7 +202,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-13T15:24:22.291Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|98",
@@ -221,7 +228,8 @@
         "comments": [],
         "sheet": "TM",
         "updated_at": "2026-05-05T15:59:16.635Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|96",
@@ -263,7 +271,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-23T13:54:37.723Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|95",
@@ -296,7 +305,8 @@
         "updated_at": "2026-05-13T15:24:17.528Z",
         "review_sender": "",
         "completion_note": "What has been completed: Organised handed to Craig\nWhere it is saved: Emails",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|94",
@@ -328,7 +338,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T14:26:19.976Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|93",
@@ -365,7 +376,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T15:09:04.675Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|92",
@@ -407,7 +419,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T13:53:33.351Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|91",
@@ -433,7 +446,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T12:56:22.433Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|90",
@@ -459,7 +473,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T12:47:59.141Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|89",
@@ -485,7 +500,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T12:43:17.648Z",
         "_deleted": true,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|88",
@@ -511,7 +527,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T12:46:17.303Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|87",
@@ -537,7 +554,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T12:19:18.745Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|85",
@@ -563,7 +581,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T11:32:07.028Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|84",
@@ -589,7 +608,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T11:43:23.714Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|83",
@@ -615,7 +635,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T11:29:19.377Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|82",
@@ -641,7 +662,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T11:17:36.574Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|81",
@@ -677,7 +699,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-05-18T09:57:55.483Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|80",
@@ -720,7 +743,8 @@
         "updated_at": "2026-05-07T10:55:41.535Z",
         "review_sender": "",
         "completion_note": "What has been completed: Meeting held\nWhere it is saved: na",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|79",
@@ -753,7 +777,8 @@
         "updated_at": "2026-04-16T14:24:28.648Z",
         "review_sender": "",
         "date_closed": "2026-04-16",
-        "completion_note": "What has been completed: With Luke to raise PO\nWhere it is saved: Emails"
+        "completion_note": "What has been completed: With Luke to raise PO\nWhere it is saved: Emails",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|78",
@@ -789,7 +814,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-05-18T09:42:32.510Z",
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|73",
@@ -822,7 +848,8 @@
         "updated_at": "2026-05-18T07:26:14.493Z",
         "review_sender": "",
         "completion_note": "What has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|77",
@@ -860,7 +887,8 @@
         "updated_at": "2026-04-15T12:31:50.182Z",
         "review_sender": "",
         "date_closed": "2026-04-15",
-        "completion_note": "What has been completed: Pells confirmed what is allowed. Going to send additional fee\nWhere it is saved: Emails 15/04/2026"
+        "completion_note": "What has been completed: Pells confirmed what is allowed. Going to send additional fee\nWhere it is saved: Emails 15/04/2026",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|76",
@@ -898,7 +926,8 @@
         "updated_at": "2026-04-15T12:31:28.781Z",
         "review_sender": "",
         "date_closed": "2026-04-15",
-        "completion_note": "What has been completed: Email sent to RSF 15/04/2026\nWhere it is saved: Email"
+        "completion_note": "What has been completed: Email sent to RSF 15/04/2026\nWhere it is saved: Email",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|72",
@@ -931,7 +960,8 @@
         "updated_at": "2026-05-18T07:16:21.059Z",
         "review_sender": "",
         "completion_note": "What has been completed: Bethell notified stats\nWhere it is saved: n/a",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|75",
@@ -969,7 +999,8 @@
         "updated_at": "2026-04-14T15:57:48.360Z",
         "review_sender": "",
         "date_closed": "2026-04-14",
-        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email"
+        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|74",
@@ -1000,7 +1031,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-04-15T12:07:14.307Z",
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|73",
@@ -1031,7 +1063,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-04-16T14:25:53.145Z",
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|72",
@@ -1069,7 +1102,8 @@
         "updated_at": "2026-04-30T11:39:19.331Z",
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on Procore\nWhere it is saved: Procoroe",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|71",
@@ -1116,7 +1150,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-14T10:56:20.823Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|70",
@@ -1142,7 +1177,8 @@
         "updated_at": "2026-04-14T08:51:31.553Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|69",
@@ -1190,7 +1226,8 @@
         "urgent": true,
         "review_sender": "",
         "completion_note": "What has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|68",
@@ -1224,7 +1261,8 @@
         "completion_note": "What has been completed: Done finished\nWhere it is saved: Here",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|67",
@@ -1250,7 +1288,8 @@
         "updated_at": "2026-04-10T12:15:40.283Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|66",
@@ -1276,7 +1315,8 @@
         "updated_at": "2026-04-10T10:16:07.002Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|61",
@@ -1315,7 +1355,8 @@
         "updated_at": "2026-04-10T09:59:46.647Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -1346,7 +1387,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|05",
@@ -1402,7 +1444,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:30:23.726Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|06",
@@ -1434,7 +1477,8 @@
         "updated_at": "2026-04-15T14:16:42.438Z",
         "urgent": false,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|07",
@@ -1477,7 +1521,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Drawings shown to team\nWhere it is saved: Emailed drawings 13/05",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|08",
@@ -1520,7 +1565,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Done\nWhere it is saved: Emails",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|11",
@@ -1573,7 +1619,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Attended site, added snags\nWhere it is saved: Procore",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|12",
@@ -1609,7 +1656,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-15T12:33:21.934Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|13",
@@ -1650,7 +1698,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-30T13:07:35.000Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|16",
@@ -1686,7 +1735,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-13T09:42:18.454Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|17",
@@ -1732,7 +1782,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|18",
@@ -1768,7 +1819,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:49:35.642Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|21",
@@ -1799,7 +1851,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:17:33.153Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|22",
@@ -1840,7 +1893,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:49:59.364Z",
         "urgent": true,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|23",
@@ -1866,7 +1920,8 @@
         "updated_at": "2026-04-15T12:29:38.070Z",
         "urgent": false,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|24",
@@ -1892,7 +1947,8 @@
         "updated_at": "2026-04-15T12:29:41.431Z",
         "urgent": false,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|25",
@@ -1930,7 +1986,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Work complete\nWhere it is saved: Strategic Folder",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|27",
@@ -1971,7 +2028,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:52:11.151Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|28",
@@ -1998,7 +2056,8 @@
         "date_closed": "2026-04-10",
         "completion_note": "LC sent email to Via on 9th April 2026",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|29",
@@ -2023,7 +2082,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:44:53.277Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|31",
@@ -2061,7 +2121,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: CS Completed\nWhere it is saved: Emails",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|32",
@@ -2097,7 +2158,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:54:09.975Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|34",
@@ -2133,7 +2195,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-13T09:51:52.379Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|35",
@@ -2164,7 +2227,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:24:12.454Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|36",
@@ -2189,7 +2253,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:24:16.390Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|37",
@@ -2237,7 +2302,8 @@
         "urgent": true,
         "review_sender": "",
         "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|38",
@@ -2270,7 +2336,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|39",
@@ -2301,7 +2368,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:55:41.125Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|40",
@@ -2332,7 +2400,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T13:38:46.997Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|41",
@@ -2363,7 +2432,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:31:24.396Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|43",
@@ -2394,7 +2464,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-13T09:55:38.882Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|45",
@@ -2440,7 +2511,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:40:06.638Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|49",
@@ -2465,7 +2537,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|50",
@@ -2496,7 +2569,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:24:26.126Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|51",
@@ -2534,7 +2608,8 @@
         "date_closed": "2026-04-10",
         "completion_note": "What has been completed: Resolved with Stantec - not an issue\nWhere it is saved: N/A",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|52",
@@ -2570,7 +2645,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:52:46.232Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|54",
@@ -2601,7 +2677,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T09:41:34.509Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|55",
@@ -2632,7 +2709,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-13T10:01:21.385Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|56",
@@ -2663,7 +2741,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-13T10:01:34.881Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|57",
@@ -2696,7 +2775,8 @@
         "date_closed": "2026-04-13",
         "completion_note": "What has been completed: Completed the document and resubmitted\nWhere it is saved: See submittal on procore",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|58",
@@ -2721,7 +2801,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:17:52.905Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -2747,7 +2828,8 @@
         "updated_at": "2026-04-14T15:42:38.765Z",
         "urgent": true,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|60",
@@ -2780,7 +2862,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on email\nWhere it is saved: Email",
-        "date_closed": "2026-04-23"
+        "date_closed": "2026-04-23",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|03",
@@ -2811,7 +2894,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|19",
@@ -2842,7 +2926,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|20",
@@ -2873,7 +2958,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|26",
@@ -2898,7 +2984,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|33",
@@ -2941,7 +3028,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: All orders raised - TM Managing works\nWhere it is saved: Emails",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|53",
@@ -2978,7 +3066,8 @@
         "updated_at": "2026-04-30T11:39:07.446Z",
         "urgent": false,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|01",
@@ -3003,7 +3092,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|04",
@@ -3034,7 +3124,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|09",
@@ -3059,7 +3150,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|10",
@@ -3084,7 +3176,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|30",
@@ -3109,7 +3202,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|42",
@@ -3134,7 +3228,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:17:40.446Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|44",
@@ -3159,7 +3254,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|48",
@@ -3184,7 +3280,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -3235,7 +3332,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -3278,7 +3376,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -3314,7 +3413,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-08T07:42:05.362Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|16",
@@ -3355,7 +3455,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T08:04:20.868Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|03",
@@ -3406,7 +3507,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|09",
@@ -3437,7 +3539,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-30T11:40:25.464Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|08",
@@ -3468,7 +3571,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|03",
@@ -3493,7 +3597,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:16:42.138Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|04",
@@ -3518,7 +3623,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|06",
@@ -3543,7 +3649,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:16:54.143Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|07",
@@ -3568,7 +3675,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-10T08:16:59.416Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|11",
@@ -3593,7 +3701,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JW|01",
@@ -3618,7 +3727,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|62",
@@ -3655,7 +3765,8 @@
         "updated_at": "2026-04-10T09:59:49.641Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|63",
@@ -3687,7 +3798,8 @@
         "updated_at": "2026-04-10T09:43:37.094Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|64",
@@ -3713,7 +3825,8 @@
         "updated_at": "2026-04-10T08:22:37.882Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|65",
@@ -3785,7 +3898,8 @@
         "updated_at": "2026-04-10T09:43:33.540Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|05",
@@ -3826,7 +3940,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|13",
@@ -3857,7 +3972,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-14T10:52:56.371Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|14",
@@ -3898,7 +4014,8 @@
         "sheet": "TM",
         "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|14",
@@ -3929,7 +4046,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-14T12:09:07.575Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -3965,7 +4083,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-05-18T08:06:07.526Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|86",
@@ -4012,7 +4131,8 @@
         "sheet": "TM",
         "updated_at": "2026-04-20T13:24:30.863Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "LC|97",
@@ -4058,7 +4178,8 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-04-24T07:38:00.088Z",
-        "review_sender": "LC"
+        "review_sender": "LC",
+        "_deletedCommentSignatures": []
       }
     ],
     "JF": [
@@ -4091,7 +4212,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:13:09.786Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|72",
@@ -4122,7 +4244,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:12:07.504Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|71",
@@ -4153,7 +4276,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:11:21.084Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|70",
@@ -4189,7 +4313,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:10:38.219Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|69",
@@ -4220,7 +4345,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:09:36.419Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|68",
@@ -4251,7 +4377,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:07:40.705Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -4302,7 +4429,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -4345,7 +4473,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|06",
@@ -4391,7 +4520,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|07",
@@ -4427,7 +4557,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|08",
@@ -4460,7 +4591,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
-        "date_closed": "2026-05-08"
+        "date_closed": "2026-05-08",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|09",
@@ -4493,7 +4625,8 @@
         "urgent": false,
         "review_sender": "",
         "date_closed": "2026-04-20",
-        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note"
+        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|10",
@@ -4529,7 +4662,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|11",
@@ -4565,7 +4699,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T08:00:05.143Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|12",
@@ -4601,7 +4736,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|14",
@@ -4642,7 +4778,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -4678,7 +4815,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-08T07:42:05.362Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|16",
@@ -4719,7 +4857,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T08:04:20.868Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|01",
@@ -4757,7 +4896,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: closed\nWhere it is saved: on sheet",
-        "date_closed": "2026-05-08"
+        "date_closed": "2026-05-08",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|13",
@@ -4788,7 +4928,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|03",
@@ -4839,7 +4980,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -4870,7 +5012,8 @@
         "sheet": "JF",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|57",
@@ -4903,7 +5046,8 @@
         "date_closed": "2026-04-13",
         "completion_note": "What has been completed: Completed the document and resubmitted\nWhere it is saved: See submittal on procore",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|58",
@@ -4928,7 +5072,8 @@
         "sheet": "JF",
         "updated_at": "2026-04-10T08:17:52.906Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -4954,7 +5099,8 @@
         "updated_at": "2026-04-14T15:42:38.765Z",
         "urgent": true,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|60",
@@ -4987,7 +5133,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on email\nWhere it is saved: Email",
-        "date_closed": "2026-04-23"
+        "date_closed": "2026-04-23",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|04",
@@ -5018,7 +5165,8 @@
         "sheet": "JF",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|65",
@@ -5090,7 +5238,8 @@
         "updated_at": "2026-04-10T09:43:33.540Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|11",
@@ -5143,7 +5292,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Attended site, added snags\nWhere it is saved: Procore",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|67",
@@ -5179,7 +5329,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:07:04.532Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -5215,7 +5366,8 @@
         ],
         "sheet": "JF",
         "updated_at": "2026-05-18T08:06:07.526Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|105",
@@ -5276,7 +5428,8 @@
         "updated_at": "2026-05-18T07:26:14.493Z",
         "review_sender": "",
         "completion_note": "What has been completed: SRN survey pack obtained.\nWhere it is saved: HinkleyM69 MSA - SRN Signage /10. SRN Signage Surveys/3. Bethell Order",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|72",
@@ -5309,7 +5462,8 @@
         "updated_at": "2026-05-18T07:16:21.059Z",
         "review_sender": "",
         "completion_note": "What has been completed: Bethell notified stats\nWhere it is saved: n/a",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|71",
@@ -5342,7 +5496,8 @@
         "updated_at": "2026-05-18T07:15:15.501Z",
         "review_sender": "",
         "completion_note": "What has been completed: F10  issued\nWhere it is saved: emailed to team",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|09",
@@ -5373,7 +5528,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-30T11:40:25.464Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|10",
@@ -5398,7 +5554,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|12",
@@ -5423,7 +5580,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|13",
@@ -5454,7 +5612,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-14T10:52:56.376Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|08",
@@ -5485,7 +5644,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|03",
@@ -5510,7 +5670,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-10T08:16:42.139Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|02",
@@ -5535,7 +5696,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|04",
@@ -5560,7 +5722,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|06",
@@ -5585,7 +5748,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-10T08:16:54.144Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|07",
@@ -5610,7 +5774,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-10T08:16:59.417Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|11",
@@ -5635,7 +5800,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -5666,7 +5832,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|07",
@@ -5709,7 +5876,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Drawings shown to team\nWhere it is saved: Emailed drawings 13/05",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|11",
@@ -5762,7 +5930,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Attended site, added snags\nWhere it is saved: Procore",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|13",
@@ -5803,7 +5972,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-30T13:07:35.000Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|21",
@@ -5834,7 +6004,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-10T08:17:33.154Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|52",
@@ -5870,7 +6041,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T09:52:46.232Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -5896,7 +6068,8 @@
         "updated_at": "2026-04-14T15:42:38.765Z",
         "urgent": true,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|60",
@@ -5929,7 +6102,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on email\nWhere it is saved: Email",
-        "date_closed": "2026-04-23"
+        "date_closed": "2026-04-23",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|03",
@@ -5960,7 +6134,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-17T10:01:27.805Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|04",
@@ -5991,7 +6166,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|42",
@@ -6016,7 +6192,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-10T08:17:40.447Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|48",
@@ -6041,7 +6218,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -6084,7 +6262,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|06",
@@ -6130,7 +6309,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|14",
@@ -6171,7 +6351,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -6207,7 +6388,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-08T07:42:05.362Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|16",
@@ -6248,7 +6430,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T08:04:20.868Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|03",
@@ -6299,7 +6482,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|65",
@@ -6371,7 +6555,8 @@
         "updated_at": "2026-04-10T09:43:33.540Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|70",
@@ -6397,7 +6582,8 @@
         "updated_at": "2026-04-14T08:51:31.553Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|14",
@@ -6428,7 +6614,8 @@
         "sheet": "CS",
         "updated_at": "2026-04-14T12:09:07.580Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|75",
@@ -6466,7 +6653,8 @@
         "updated_at": "2026-04-14T15:57:48.360Z",
         "review_sender": "",
         "date_closed": "2026-04-14",
-        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email"
+        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -6502,7 +6690,8 @@
         ],
         "sheet": "CS",
         "updated_at": "2026-05-18T08:06:07.526Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|05",
@@ -6543,7 +6732,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -6594,7 +6784,8 @@
         "sheet": "CS",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|71",
@@ -6625,7 +6816,8 @@
         ],
         "sheet": "CS",
         "updated_at": "2026-05-18T08:11:19.951Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|105",
@@ -6650,7 +6842,8 @@
         "comments": [],
         "sheet": "CS",
         "updated_at": "2026-05-18T10:07:21.595Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       }
     ],
     "JW": [
@@ -6677,7 +6870,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|12",
@@ -6713,7 +6907,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-15T12:33:21.938Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|20",
@@ -6744,7 +6939,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -6795,7 +6991,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -6838,7 +7035,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|08",
@@ -6869,7 +7067,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-30T11:40:22.541Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -6900,7 +7099,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|07",
@@ -6943,7 +7143,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Drawings shown to team\nWhere it is saved: Emailed drawings 13/05",
-        "date_closed": "2026-05-13"
+        "date_closed": "2026-05-13",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|08",
@@ -6986,7 +7187,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Done\nWhere it is saved: Emails",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|16",
@@ -7022,7 +7224,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|17",
@@ -7068,7 +7271,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|18",
@@ -7104,7 +7308,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T09:49:35.642Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|32",
@@ -7140,7 +7345,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T09:54:00.388Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|37",
@@ -7188,7 +7394,8 @@
         "urgent": true,
         "review_sender": "",
         "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|38",
@@ -7221,7 +7428,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|51",
@@ -7259,7 +7467,8 @@
         "date_closed": "2026-04-10",
         "completion_note": "What has been completed: Resolved with Stantec - not an issue\nWhere it is saved: N/A",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|55",
@@ -7290,7 +7499,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|56",
@@ -7321,7 +7531,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|03",
@@ -7352,7 +7563,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|19",
@@ -7383,7 +7595,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|26",
@@ -7408,7 +7621,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|10",
@@ -7433,7 +7647,8 @@
         "sheet": "JW",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|07",
@@ -7469,7 +7684,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|08",
@@ -7502,7 +7718,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
-        "date_closed": "2026-05-08"
+        "date_closed": "2026-05-08",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|09",
@@ -7535,7 +7752,8 @@
         "urgent": false,
         "review_sender": "",
         "date_closed": "2026-04-20",
-        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note"
+        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|10",
@@ -7571,7 +7789,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|11",
@@ -7607,7 +7826,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T08:00:05.143Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|12",
@@ -7643,7 +7863,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|13",
@@ -7674,7 +7895,8 @@
         "sheet": "JW",
         "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|70",
@@ -7700,7 +7922,8 @@
         "updated_at": "2026-04-14T08:51:31.553Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|75",
@@ -7738,7 +7961,8 @@
         "updated_at": "2026-04-14T15:57:48.360Z",
         "review_sender": "",
         "date_closed": "2026-04-14",
-        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email"
+        "completion_note": "What has been completed: Call setup\nWhere it is saved: Email",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "LC|97",
@@ -7784,7 +8008,8 @@
         ],
         "sheet": "JW",
         "updated_at": "2026-04-24T07:38:00.091Z",
-        "review_sender": "LC"
+        "review_sender": "LC",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|71",
@@ -7815,7 +8040,8 @@
         ],
         "sheet": "JW",
         "updated_at": "2026-05-18T08:11:20.626Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|78",
@@ -7851,7 +8077,8 @@
         ],
         "sheet": "JW",
         "updated_at": "2026-05-18T09:42:32.517Z",
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|105",
@@ -7876,7 +8103,8 @@
         "comments": [],
         "sheet": "JW",
         "updated_at": "2026-05-18T10:07:03.628Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       }
     ],
     "LC": [
@@ -7924,7 +8152,8 @@
         ],
         "sheet": "LC",
         "updated_at": "2026-04-24T07:38:00.094Z",
-        "review_sender": "LC"
+        "review_sender": "LC",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|28",
@@ -7951,7 +8180,8 @@
         "date_closed": "2026-04-10",
         "completion_note": "LC sent email to Via on 9th April 2026",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|10",
@@ -7976,7 +8206,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|09",
@@ -8007,7 +8238,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-30T11:40:25.464Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|03",
@@ -8058,7 +8290,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -8089,7 +8322,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|38",
@@ -8122,7 +8356,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: n/a\nWhere it is saved: n/a",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|51",
@@ -8160,7 +8395,8 @@
         "date_closed": "2026-04-10",
         "completion_note": "What has been completed: Resolved with Stantec - not an issue\nWhere it is saved: N/A",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|10",
@@ -8185,7 +8421,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|42",
@@ -8210,7 +8447,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-10T08:17:40.447Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -8253,7 +8491,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|12",
@@ -8289,7 +8528,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|05",
@@ -8330,7 +8570,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|40",
@@ -8361,7 +8602,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-10T13:38:46.999Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|79",
@@ -8394,7 +8636,8 @@
         "updated_at": "2026-04-16T14:24:28.648Z",
         "review_sender": "",
         "date_closed": "2026-04-16",
-        "completion_note": "What has been completed: With Luke to raise PO\nWhere it is saved: Emails"
+        "completion_note": "What has been completed: With Luke to raise PO\nWhere it is saved: Emails",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|73",
@@ -8425,7 +8668,8 @@
         ],
         "sheet": "LC",
         "updated_at": "2026-04-16T14:25:53.148Z",
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|96",
@@ -8467,7 +8711,8 @@
         "sheet": "LC",
         "updated_at": "2026-04-23T13:54:37.723Z",
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -8518,7 +8763,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|33",
@@ -8561,7 +8807,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: All orders raised - TM Managing works\nWhere it is saved: Emails",
-        "date_closed": "2026-05-07"
+        "date_closed": "2026-05-07",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|71",
@@ -8592,7 +8839,8 @@
         ],
         "sheet": "LC",
         "updated_at": "2026-05-18T08:11:21.084Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|32",
@@ -8628,7 +8876,8 @@
         "sheet": "LC",
         "updated_at": "2026-05-18T09:54:00.388Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|105",
@@ -8653,7 +8902,8 @@
         "comments": [],
         "sheet": "LC",
         "updated_at": "2026-05-18T10:07:07.132Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       }
     ],
     "LN": [
@@ -8692,7 +8942,8 @@
         "updated_at": "2026-04-10T09:59:49.641Z",
         "_deleted": true,
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -8723,7 +8974,8 @@
         "sheet": "LN",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|06",
@@ -8769,7 +9021,8 @@
         "sheet": "LN",
         "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|16",
@@ -8810,7 +9063,8 @@
         "sheet": "LN",
         "updated_at": "2026-05-18T08:04:20.868Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|01",
@@ -8848,7 +9102,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: closed\nWhere it is saved: on sheet",
-        "date_closed": "2026-05-08"
+        "date_closed": "2026-05-08",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|02",
@@ -8873,7 +9128,8 @@
         "sheet": "LN",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|32",
@@ -8909,7 +9165,8 @@
         "sheet": "LN",
         "updated_at": "2026-05-18T09:54:06.988Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       }
     ],
     "SC": [
@@ -8936,7 +9193,8 @@
         "comments": [],
         "sheet": "SC",
         "updated_at": "2026-04-14T11:21:20.607Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "SC|70",
@@ -8969,7 +9227,8 @@
         "updated_at": "2026-05-18T08:21:20.210Z",
         "review_sender": "",
         "completion_note": "What has been completed: PO issued\nWhere it is saved: PO Folder",
-        "date_closed": "2026-05-18"
+        "date_closed": "2026-05-18",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|02",
@@ -9000,7 +9259,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|37",
@@ -9048,7 +9308,8 @@
         "urgent": true,
         "review_sender": "",
         "completion_note": "What has been completed: Liaised with Sam C to confirm routes\nWhere it is saved: Emails",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|52",
@@ -9084,7 +9345,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T09:52:46.232Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -9110,7 +9372,8 @@
         "updated_at": "2026-04-14T15:42:38.765Z",
         "urgent": true,
         "review_sender": "",
-        "_deleted": true
+        "_deleted": true,
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|60",
@@ -9143,7 +9406,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Reviewed on email\nWhere it is saved: Email",
-        "date_closed": "2026-04-23"
+        "date_closed": "2026-04-23",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|04",
@@ -9186,7 +9450,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: Review completed\nWhere it is saved: Meetings / email",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|06",
@@ -9232,7 +9497,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|07",
@@ -9268,7 +9534,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|08",
@@ -9301,7 +9568,8 @@
         "urgent": false,
         "review_sender": "",
         "completion_note": "What has been completed: monitoring workload\nWhere it is saved: on sheet",
-        "date_closed": "2026-05-08"
+        "date_closed": "2026-05-08",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|09",
@@ -9334,7 +9602,8 @@
         "urgent": false,
         "review_sender": "",
         "date_closed": "2026-04-20",
-        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note"
+        "completion_note": "What has been completed: Stantec assisting as much as possible, will review work load as m69 and Bridgewater progresses\nWhere it is saved: note",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|12",
@@ -9370,7 +9639,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|14",
@@ -9411,7 +9681,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -9447,7 +9718,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-08T07:42:05.362Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|13",
@@ -9478,7 +9750,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-08T07:54:43.512Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|03",
@@ -9529,7 +9802,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T07:55:47.741Z",
         "urgent": false,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|05",
@@ -9570,7 +9844,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-18T07:13:00.683Z",
         "urgent": true,
-        "review_sender": "TM"
+        "review_sender": "TM",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|04",
@@ -9595,7 +9870,8 @@
         "sheet": "SC",
         "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|06",
@@ -9620,7 +9896,8 @@
         "sheet": "SC",
         "updated_at": "2026-04-10T08:16:54.145Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "CS|07",
@@ -9645,7 +9922,8 @@
         "sheet": "SC",
         "updated_at": "2026-04-10T08:16:59.418Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|29",
@@ -9670,7 +9948,8 @@
         "sheet": "SC",
         "updated_at": "2026-04-08T18:44:53.277Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|69",
@@ -9718,7 +9997,8 @@
         "urgent": true,
         "review_sender": "",
         "completion_note": "What has been completed: Email sent summarising findings - green roof needed\nWhere it is saved: Emails",
-        "date_closed": "2026-04-30"
+        "date_closed": "2026-04-30",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|67",
@@ -9754,7 +10034,8 @@
         ],
         "sheet": "SC",
         "updated_at": "2026-05-18T08:07:04.532Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -9790,7 +10071,8 @@
         ],
         "sheet": "SC",
         "updated_at": "2026-05-18T08:06:07.526Z",
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -9841,7 +10123,8 @@
         "sheet": "SC",
         "updated_at": "2026-05-08T07:53:49.758Z",
         "urgent": false,
-        "review_sender": ""
+        "review_sender": "",
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|105",
@@ -15677,7 +15960,7 @@
     "viewer-mpb1lhdv-dh477y": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:18:15.856Z"
+      "at": "2026-05-18T10:18:54.282Z"
     }
   },
   "columnWidths": {
