@@ -1,6 +1,6 @@
 {
-  "version": 595,
-  "updatedAt": "2026-05-18T09:41:25.382Z",
+  "version": 596,
+  "updatedAt": "2026-05-18T09:41:35.967Z",
   "items": {
     "TM": [
       {
@@ -2489,9 +2489,15 @@
         "management": "",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T09:41:34.509Z",
+            "user": "TM",
+            "text": "Pull brief together to review with Stantec"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-05-18T09:41:34.509Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9510,6 +9516,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T09:41:34.515Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T09:41:34.512Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|54",
+      "key": "TM|54",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-18T09:40:06.644Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14729,7 +14755,7 @@
     "viewer-mpb05hdf-bwrfwy": {
       "name": "Tom Murphy",
       "clientId": "client-mpb05hdg-rx8k04",
-      "at": "2026-05-18T09:41:24.984Z"
+      "at": "2026-05-18T09:41:35.428Z"
     },
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
