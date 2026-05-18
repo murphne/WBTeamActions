@@ -1,6 +1,6 @@
 {
-  "version": 194,
-  "updatedAt": "2026-05-18T07:57:51.828Z",
+  "version": 195,
+  "updatedAt": "2026-05-18T07:59:30.818Z",
   "items": {
     "TM": [
       {
@@ -4222,13 +4222,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:59:29.246Z",
+            "user": "JF",
+            "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
+          },
+          {
             "timestamp": "2026-05-08T07:36:44.585Z",
             "user": "JF",
             "text": "have a procore meeting 12/05/26 to review training formats"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:36:44.585Z",
+        "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -7100,13 +7105,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:59:29.246Z",
+            "user": "JF",
+            "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
+          },
+          {
             "timestamp": "2026-05-08T07:36:44.585Z",
             "user": "JF",
             "text": "have a procore meeting 12/05/26 to review training formats"
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-08T07:36:44.585Z",
+        "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8636,13 +8646,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-05-18T07:59:29.246Z",
+            "user": "JF",
+            "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
+          },
+          {
             "timestamp": "2026-05-08T07:36:44.585Z",
             "user": "JF",
             "text": "have a procore meeting 12/05/26 to review training formats"
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-08T07:36:44.585Z",
+        "updated_at": "2026-05-18T07:59:29.246Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9202,6 +9217,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T07:59:29.254Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T07:59:29.250Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|07",
+      "key": "JF|07",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-18T07:57:50.665Z",
       "action": "ITEM_CHANGE",
@@ -13852,7 +13887,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T07:57:51.575Z"
+      "at": "2026-05-18T07:59:30.162Z"
     }
   }
 }
