@@ -1,6 +1,6 @@
 {
-  "version": 751,
-  "updatedAt": "2026-05-18T10:07:46.599Z",
+  "version": 752,
+  "updatedAt": "2026-05-18T10:07:57.832Z",
   "items": {
     "TM": [
       {
@@ -1344,7 +1344,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -4868,7 +4868,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -5638,7 +5638,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -6872,7 +6872,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8061,7 +8061,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8695,7 +8695,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -8972,7 +8972,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-14T18:50:14.095Z",
+        "updated_at": "2026-05-18T10:07:56.306Z",
         "urgent": false,
         "review_sender": ""
       },
@@ -9820,6 +9820,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-18T10:07:56.308Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comments updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-18T10:07:56.306Z",
+      "action": "DELETE_COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|02",
+      "key": "TM|02",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-05-18T10:07:26.072Z",
       "action": "ITEM_CHANGE",
@@ -15545,7 +15565,7 @@
     "viewer-mpb08rhx-jq8s10": {
       "name": "Tom Murphy",
       "clientId": "client-mnst5hiu-lojb2e",
-      "at": "2026-05-18T10:07:46.331Z"
+      "at": "2026-05-18T10:07:57.221Z"
     }
   },
   "columnWidths": {
