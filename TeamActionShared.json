@@ -1,6 +1,6 @@
 {
-  "version": 207,
-  "updatedAt": "2026-05-18T08:11:22.491Z",
+  "version": 208,
+  "updatedAt": "2026-05-18T08:12:08.708Z",
   "items": {
     "TM": [
       {
@@ -3971,9 +3971,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-18T08:12:07.503Z",
+            "user": "JF",
+            "text": "Harvey Jennings going to issue pack, however there is an outstanding invoice we have for him on this scheme we have not paid"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T08:28:56.103Z",
+        "updated_at": "2026-05-18T08:12:07.504Z",
         "review_sender": ""
       },
       {
@@ -9445,6 +9451,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-18T08:12:07.513Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-18T08:12:07.507Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|72",
+      "key": "JF|72",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-18T08:11:21.091Z",
       "action": "SEND",
       "origin_sheet": "JF",
@@ -14394,7 +14420,7 @@
     "viewer-mpawsnmn-8dju9y": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-18T08:11:22.023Z"
+      "at": "2026-05-18T08:12:08.422Z"
     }
   }
 }
