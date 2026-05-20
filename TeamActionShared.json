@@ -1,6 +1,6 @@
 {
-  "version": 1338,
-  "updatedAt": "2026-05-20T10:39:48.666Z",
+  "version": 1339,
+  "updatedAt": "2026-05-20T10:39:54.900Z",
   "items": {
     "TM": [
       {
@@ -1938,6 +1938,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-05-20T10:39:53.696Z",
+            "user": "TM",
+            "text": "Updated for JW meeting 20/05"
+          },
+          {
             "timestamp": "2026-05-18T09:49:59.364Z",
             "user": "TM",
             "text": "Update today 18/05"
@@ -1954,7 +1959,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-20T10:39:44.830Z",
+        "updated_at": "2026-05-20T10:39:53.696Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10442,6 +10447,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-20T10:39:53.704Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-20T10:39:53.700Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|22",
+      "key": "TM|22",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-20T10:39:44.840Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -10641,7 +10666,7 @@
     "viewer-mpdxi42g-bosvqr": {
       "name": "Tom Murphy",
       "clientId": "client-mpdxi42l-2y0v84",
-      "at": "2026-05-20T10:39:47.953Z"
+      "at": "2026-05-20T10:39:54.613Z"
     }
   },
   "columnWidths": {
