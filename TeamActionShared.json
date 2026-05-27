@@ -1,6 +1,6 @@
 {
-  "version": 1495,
-  "updatedAt": "2026-05-27T11:08:01.733Z",
+  "version": 1496,
+  "updatedAt": "2026-05-27T11:08:19.740Z",
   "items": {
     "TM": [
       {
@@ -12,7 +12,7 @@
         "programme_date": null,
         "project": "Hinckley M69",
         "description": "Grease Trap",
-        "action_required": "Speak to WTE or similar for size of grease trap @ Hinckley M69",
+        "action_required": "First speak to Paul Sweet, then speak to WTE or similar for size of grease trap @ Hinckley M69",
         "lead": "TM",
         "coord_TM": false,
         "coord_SC": false,
@@ -31,7 +31,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-27T11:06:51.641Z",
+        "updated_at": "2026-05-27T11:08:18.083Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -10479,6 +10479,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-27T11:08:18.093Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Action updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-05-27T11:08:18.083Z",
+      "action": "EDIT",
+      "origin_sheet": "TM",
+      "source_row": "TM|108",
+      "key": "TM|108",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-05-27T11:06:51.651Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -10738,7 +10758,7 @@
     "viewer-mpnyk3i5-ztvyqo": {
       "name": "Tom Murphy",
       "clientId": "client-mpnyk3ic-8m9udd",
-      "at": "2026-05-27T11:08:00.987Z"
+      "at": "2026-05-27T11:08:19.015Z"
     }
   },
   "columnWidths": {
