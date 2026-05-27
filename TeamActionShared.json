@@ -1,6 +1,6 @@
 {
-  "version": 1482,
-  "updatedAt": "2026-05-27T11:05:37.515Z",
+  "version": 1483,
+  "updatedAt": "2026-05-27T11:05:48.931Z",
   "items": {
     "TM": [
       {
@@ -10664,9 +10664,9 @@
   },
   "presence": {
     "viewer-mpnyk3i5-ztvyqo": {
-      "name": "User VYQO",
+      "name": "Tom Murphy",
       "clientId": "client-mpnyk3ic-8m9udd",
-      "at": "2026-05-27T11:05:36.914Z"
+      "at": "2026-05-27T11:05:48.639Z"
     }
   },
   "columnWidths": {
