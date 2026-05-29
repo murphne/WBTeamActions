@@ -1,6 +1,6 @@
 {
-  "version": 1799,
-  "updatedAt": "2026-05-29T10:21:18.223Z",
+  "version": 1800,
+  "updatedAt": "2026-05-29T10:21:35.522Z",
   "items": {
     "TM": [
       {
@@ -5562,6 +5562,11 @@
         "status": "Complete",
         "comments": [
           {
+            "timestamp": "2026-05-29T10:21:33.984Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: complete\nWhere it is saved: on system"
+          },
+          {
             "timestamp": "2026-05-29T10:21:15.000Z",
             "user": "JF",
             "text": "Complete\nWhat has been completed: completed\nWhere it is saved: on system"
@@ -5578,10 +5583,10 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-29T10:21:15.000Z",
+        "updated_at": "2026-05-29T10:21:33.984Z",
         "review_sender": "",
         "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: completed\nWhere it is saved: on system",
+        "completion_note": "What has been completed: complete\nWhere it is saved: on system",
         "date_closed": "2026-05-29"
       },
       {
@@ -10503,6 +10508,11 @@
         "status": "Complete",
         "comments": [
           {
+            "timestamp": "2026-05-29T10:21:33.984Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: complete\nWhere it is saved: on system"
+          },
+          {
             "timestamp": "2026-05-29T10:21:15.000Z",
             "user": "JF",
             "text": "Complete\nWhat has been completed: completed\nWhere it is saved: on system"
@@ -10519,10 +10529,10 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-29T10:21:15.000Z",
+        "updated_at": "2026-05-29T10:21:33.984Z",
         "review_sender": "",
         "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: completed\nWhere it is saved: on system",
+        "completion_note": "What has been completed: complete\nWhere it is saved: on system",
         "date_closed": "2026-05-29"
       },
       {
@@ -10703,6 +10713,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-29T10:21:33.989Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-29T10:21:33.984Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|67",
+      "key": "JF|67",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-29T10:21:15.006Z",
       "action": "ITEM_CHANGE",
@@ -11273,7 +11303,7 @@
     "viewer-mpqqre6h-cirnzb": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-29T10:21:17.857Z"
+      "at": "2026-05-29T10:21:34.897Z"
     },
     "viewer-mpqqxq7j-o05k0m": {
       "name": "Craig Stevens",
