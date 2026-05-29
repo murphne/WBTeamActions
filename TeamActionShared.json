@@ -1,6 +1,6 @@
 {
-  "version": 1824,
-  "updatedAt": "2026-05-29T10:26:02.977Z",
+  "version": 1825,
+  "updatedAt": "2026-05-29T10:26:10.728Z",
   "items": {
     "TM": [
       {
@@ -5559,7 +5559,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-05-29T10:21:33.984Z",
@@ -5583,11 +5583,9 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-29T10:21:33.984Z",
+        "updated_at": "2026-05-18T08:07:04.532Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: complete\nWhere it is saved: on system",
-        "date_closed": "2026-05-29"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -10505,7 +10503,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-05-29T10:21:33.984Z",
@@ -10529,11 +10527,9 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-29T10:21:33.984Z",
+        "updated_at": "2026-05-18T08:07:04.532Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: complete\nWhere it is saved: on system",
-        "date_closed": "2026-05-29"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|66",
@@ -11308,31 +11304,31 @@
     "viewer-mpqqxq7j-o05k0m": {
       "name": "Craig Stevens",
       "clientId": "client-mpqqxq7o-w9xj6v",
-      "at": "2026-05-29T10:25:10.018Z"
+      "at": "2026-05-29T10:26:10.086Z"
     }
   },
   "columnWidths": {
     "0": 34,
-    "1": 70,
-    "2": 111,
-    "3": 187,
-    "4": 320,
-    "5": 70,
-    "6": 96,
-    "7": 125,
-    "8": 97,
-    "9": 70,
+    "1": 96,
+    "2": 180,
+    "3": 300,
+    "4": 340,
+    "5": 92,
+    "6": 124,
+    "7": 150,
+    "8": 132,
+    "9": 96,
     "10": 156,
-    "11": 78,
-    "12": 623,
+    "11": 110,
+    "12": 250,
     "13": 132,
     "14": 280
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": true,
+    "owned-review": false,
     "received-coord": true,
-    "received-review": true,
+    "received-review": false,
     "completed-recent": true,
     "completed-historic": true
   }
