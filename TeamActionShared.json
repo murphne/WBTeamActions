@@ -1,6 +1,6 @@
 {
-  "version": 1735,
-  "updatedAt": "2026-05-29T10:04:52.906Z",
+  "version": 1736,
+  "updatedAt": "2026-05-29T10:04:57.753Z",
   "items": {
     "TM": [
       {
@@ -4411,7 +4411,7 @@
         "action_required": "ROOF LEAK REPORT- NOW TO COMPLETED WITH PHOTOS OF UPTURN",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
@@ -4421,7 +4421,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "JF",
-        "updated_at": "2026-05-29T10:04:49.351Z",
+        "updated_at": "2026-05-29T10:04:55.815Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -10647,10 +10647,56 @@
         "_deletedCommentSignatures": [],
         "review_sender": "",
         "_deleted": true
+      },
+      {
+        "key": "JF|107",
+        "priority": null,
+        "item_num": 107,
+        "urgent": false,
+        "effective_date": "2026-05-29",
+        "programme_date": null,
+        "project": "Rotherham",
+        "description": "FINISH REPORT-",
+        "action_required": "ROOF LEAK REPORT- NOW TO COMPLETED WITH PHOTOS OF UPTURN",
+        "lead": "JF",
+        "coord_TM": false,
+        "coord_SC": true,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "SC",
+        "updated_at": "2026-05-29T10:04:55.815Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": ""
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-29T10:04:55.823Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-29T10:04:55.815Z",
+      "action": "SEND",
+      "origin_sheet": "JF",
+      "source_row": "JF|107",
+      "key": "JF|107",
+      "dest_sheet": "SC",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-29T10:04:49.362Z",
       "action": "ITEM_CHANGE",
@@ -11161,7 +11207,7 @@
     "viewer-mpqqre6h-cirnzb": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-29T10:04:52.544Z"
+      "at": "2026-05-29T10:04:57.482Z"
     },
     "viewer-mpqqxq7j-o05k0m": {
       "name": "Craig Stevens",
