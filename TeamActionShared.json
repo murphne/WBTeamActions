@@ -1,6 +1,6 @@
 {
-  "version": 1738,
-  "updatedAt": "2026-05-29T10:05:26.956Z",
+  "version": 1739,
+  "updatedAt": "2026-05-29T10:05:35.015Z",
   "items": {
     "TM": [
       {
@@ -4419,9 +4419,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-29T10:05:33.442Z",
+            "user": "JF",
+            "text": "pictures recieved of west elevation upstand need other elevations SC and JF complete report"
+          }
+        ],
         "sheet": "JF",
-        "updated_at": "2026-05-29T10:04:55.815Z",
+        "updated_at": "2026-05-29T10:05:33.443Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -10668,15 +10674,41 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-05-29T10:05:33.442Z",
+            "user": "JF",
+            "text": "pictures recieved of west elevation upstand need other elevations SC and JF complete report"
+          }
+        ],
         "sheet": "SC",
-        "updated_at": "2026-05-29T10:04:55.815Z",
+        "updated_at": "2026-05-29T10:05:33.443Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-05-29T10:05:33.451Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-29T10:05:33.446Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|107",
+      "key": "JF|107",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-05-29T10:04:55.823Z",
       "action": "ITEM_CHANGE",
@@ -11207,7 +11239,7 @@
     "viewer-mpqqre6h-cirnzb": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-29T10:05:26.642Z"
+      "at": "2026-05-29T10:05:34.363Z"
     },
     "viewer-mpqqxq7j-o05k0m": {
       "name": "Craig Stevens",
