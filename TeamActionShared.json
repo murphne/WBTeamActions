@@ -1,6 +1,6 @@
 {
-  "version": 1733,
-  "updatedAt": "2026-05-29T10:04:39.396Z",
+  "version": 1734,
+  "updatedAt": "2026-05-29T10:04:50.779Z",
   "items": {
     "TM": [
       {
@@ -4399,6 +4399,31 @@
       }
     ],
     "JF": [
+      {
+        "key": "JF|107",
+        "priority": null,
+        "item_num": 107,
+        "urgent": false,
+        "effective_date": "2026-05-29",
+        "programme_date": null,
+        "project": "Rotherham",
+        "description": "FINISH REPORT-",
+        "action_required": "ROOF LEAK REPORT- NOW TO COMPLETED WITH PHOTOS OF UPTURN",
+        "lead": "JF",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "JF",
+        "updated_at": "2026-05-29T10:04:49.351Z",
+        "_deletedCommentSignatures": []
+      },
       {
         "key": "JF|73",
         "priority": null,
@@ -10626,6 +10651,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-05-29T10:04:49.362Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-05-29T10:04:49.352Z",
+      "action": "ADD",
+      "origin_sheet": "JF",
+      "source_row": "JF|107",
+      "key": "JF|107",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-05-29T10:02:25.853Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11115,7 +11160,7 @@
     "viewer-mpqqre6h-cirnzb": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-05-29T10:04:38.747Z"
+      "at": "2026-05-29T10:04:50.278Z"
     },
     "viewer-mpqqxq7j-o05k0m": {
       "name": "Craig Stevens",
