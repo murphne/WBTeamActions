@@ -1,6 +1,6 @@
 {
-  "version": 2333,
-  "updatedAt": "2026-06-01T09:31:51.018Z",
+  "version": 2334,
+  "updatedAt": "2026-06-01T09:31:56.836Z",
   "items": {
     "TM": [
       {
@@ -1565,6 +1565,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-01T09:31:55.264Z",
+            "user": "TM",
+            "text": "Meeting at their offices 3rd June 2026"
+          },
+          {
             "timestamp": "2026-05-18T09:30:23.726Z",
             "user": "TM",
             "text": "Meeting held, awaiting quote"
@@ -1596,7 +1601,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:30:23.726Z",
+        "updated_at": "2026-06-01T09:31:55.264Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10762,6 +10767,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-01T09:31:55.274Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-01T09:31:55.268Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|05",
+      "key": "TM|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-01T09:30:26.011Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11416,7 +11441,7 @@
     "viewer-mpv0bfyq-f6ssai": {
       "name": "Tom Murphy",
       "clientId": "client-mpv0bfyv-timswo",
-      "at": "2026-06-01T09:31:50.781Z"
+      "at": "2026-06-01T09:31:56.190Z"
     }
   },
   "columnWidths": {
