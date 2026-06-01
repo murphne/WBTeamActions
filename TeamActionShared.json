@@ -1,6 +1,6 @@
 {
-  "version": 2572,
-  "updatedAt": "2026-06-01T10:27:15.241Z",
+  "version": 2573,
+  "updatedAt": "2026-06-01T10:27:20.762Z",
   "items": {
     "TM": [
       {
@@ -2776,13 +2776,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-01T10:27:19.109Z",
+            "user": "TM",
+            "text": "Nudge Matt Grey on this"
+          },
+          {
             "timestamp": "2026-04-30T11:38:42.451Z",
             "user": "TM",
             "text": "Advertising consent applied for 23/04/26"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:24:26.126Z",
+        "updated_at": "2026-06-01T10:27:19.109Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10818,6 +10823,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-01T10:27:19.117Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-01T10:27:19.113Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|50",
+      "key": "TM|50",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-01T10:06:02.923Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11607,7 +11632,7 @@
     "viewer-mpv0bfyq-f6ssai": {
       "name": "Tom Murphy",
       "clientId": "client-mpv0bfyv-timswo",
-      "at": "2026-06-01T10:27:14.844Z"
+      "at": "2026-06-01T10:27:20.038Z"
     }
   },
   "columnWidths": {
