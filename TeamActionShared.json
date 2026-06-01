@@ -1,6 +1,6 @@
 {
-  "version": 2394,
-  "updatedAt": "2026-06-01T09:42:39.999Z",
+  "version": 2395,
+  "updatedAt": "2026-06-01T09:43:01.639Z",
   "items": {
     "TM": [
       {
@@ -2683,6 +2683,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-01T09:43:00.392Z",
+            "user": "TM",
+            "text": "First issue came. Not very good. TM to re-brief today 1st June 2026. Needs to show more local and be better."
+          },
+          {
             "timestamp": "2026-05-18T09:40:06.638Z",
             "user": "TM",
             "text": "Screenshot received. TM to get a drawing instead"
@@ -2704,7 +2709,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:40:06.638Z",
+        "updated_at": "2026-06-01T09:43:00.392Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10798,6 +10803,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-01T09:43:00.399Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-01T09:43:00.395Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-01T09:40:21.607Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11512,7 +11537,7 @@
     "viewer-mpv0bfyq-f6ssai": {
       "name": "Tom Murphy",
       "clientId": "client-mpv0bfyv-timswo",
-      "at": "2026-06-01T09:42:39.307Z"
+      "at": "2026-06-01T09:43:01.308Z"
     }
   },
   "columnWidths": {
