@@ -1,6 +1,6 @@
 {
-  "version": 2797,
-  "updatedAt": "2026-06-04T14:21:58.011Z",
+  "version": 2798,
+  "updatedAt": "2026-06-04T14:22:01.818Z",
   "items": {
     "TM": [
       {
@@ -11632,7 +11632,7 @@
     "viewer-mpzkw7hj-qd7bgg": {
       "name": "Craig Stevens",
       "clientId": "client-mpzkw7ho-atj296",
-      "at": "2026-06-04T14:21:57.527Z"
+      "at": "2026-06-04T14:22:01.386Z"
     }
   },
   "columnWidths": {
@@ -11658,6 +11658,6 @@
     "received-coord": false,
     "received-review": false,
     "completed-recent": true,
-    "completed-historic": true
+    "completed-historic": false
   }
 }
