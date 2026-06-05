@@ -1,6 +1,6 @@
 {
-  "version": 2801,
-  "updatedAt": "2026-06-04T14:22:45.617Z",
+  "version": 2802,
+  "updatedAt": "2026-06-05T09:13:06.622Z",
   "items": {
     "TM": [
       {
@@ -11629,10 +11629,10 @@
     }
   },
   "presence": {
-    "viewer-mpzkw7hj-qd7bgg": {
-      "name": "Craig Stevens",
-      "clientId": "client-mpzkw7ho-atj296",
-      "at": "2026-06-04T14:22:45.241Z"
+    "viewer-mpv0bfyq-f6ssai": {
+      "name": "Tom Murphy",
+      "clientId": "client-mpv0bfyv-timswo",
+      "at": "2026-06-05T09:13:06.366Z"
     }
   },
   "columnWidths": {
@@ -11654,10 +11654,10 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": false,
-    "received-coord": false,
-    "received-review": false,
+    "owned-review": true,
+    "received-coord": true,
+    "received-review": true,
     "completed-recent": true,
-    "completed-historic": false
+    "completed-historic": true
   }
 }
