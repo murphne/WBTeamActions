@@ -1,6 +1,6 @@
 {
-  "version": 2974,
-  "updatedAt": "2026-06-08T08:39:13.717Z",
+  "version": 2975,
+  "updatedAt": "2026-06-08T08:39:20.403Z",
   "items": {
     "TM": [
       {
@@ -4364,7 +4364,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4698,7 +4698,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:21.084Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4946,7 +4946,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5167,7 +5167,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5810,7 +5810,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6787,7 +6787,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7174,7 +7174,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7305,7 +7305,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:19.951Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8455,7 +8455,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8638,7 +8638,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:20.626Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9155,7 +9155,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9472,7 +9472,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:21.084Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9682,7 +9682,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10214,7 +10214,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10361,7 +10361,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10809,7 +10809,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11884,7 +11884,7 @@
     "viewer-mq4x3sx4-7src1r": {
       "name": "Craig Stevens",
       "clientId": "client-mq4x3sx7-fyagf5",
-      "at": "2026-06-08T08:38:17.144Z"
+      "at": "2026-06-08T08:39:19.878Z"
     },
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
@@ -11911,10 +11911,10 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": false,
+    "owned-review": true,
     "received-coord": true,
     "received-review": true,
     "completed-recent": true,
-    "completed-historic": false
+    "completed-historic": true
   }
 }
