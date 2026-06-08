@@ -1,6 +1,6 @@
 {
-  "version": 2949,
-  "updatedAt": "2026-06-08T08:34:59.788Z",
+  "version": 2950,
+  "updatedAt": "2026-06-08T08:35:03.921Z",
   "items": {
     "TM": [
       {
@@ -4348,6 +4348,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:35:02.590Z",
+            "user": "JF",
+            "text": "Abington Planning drawings received with team to review"
+          },
+          {
             "timestamp": "2026-05-18T08:06:07.526Z",
             "user": "JF",
             "text": "Completed site visit\ncosts sent to Welcome Break for review\nJF has meeting with AH today to discuss her comments and Applegreen- once received this will get sent to ADS for update and they need two weeks for planning pack for it then to be submitted to planning"
@@ -4359,7 +4364,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5784,6 +5789,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:35:02.590Z",
+            "user": "JF",
+            "text": "Abington Planning drawings received with team to review"
+          },
+          {
             "timestamp": "2026-05-18T08:06:07.526Z",
             "user": "JF",
             "text": "Completed site visit\ncosts sent to Welcome Break for review\nJF has meeting with AH today to discuss her comments and Applegreen- once received this will get sent to ADS for update and they need two weeks for planning pack for it then to be submitted to planning"
@@ -5795,7 +5805,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7143,6 +7153,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:35:02.590Z",
+            "user": "JF",
+            "text": "Abington Planning drawings received with team to review"
+          },
+          {
             "timestamp": "2026-05-18T08:06:07.526Z",
             "user": "JF",
             "text": "Completed site visit\ncosts sent to Welcome Break for review\nJF has meeting with AH today to discuss her comments and Applegreen- once received this will get sent to ADS for update and they need two weeks for planning pack for it then to be submitted to planning"
@@ -7154,7 +7169,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10758,6 +10773,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:35:02.590Z",
+            "user": "JF",
+            "text": "Abington Planning drawings received with team to review"
+          },
+          {
             "timestamp": "2026-05-18T08:06:07.526Z",
             "user": "JF",
             "text": "Completed site visit\ncosts sent to Welcome Break for review\nJF has meeting with AH today to discuss her comments and Applegreen- once received this will get sent to ADS for update and they need two weeks for planning pack for it then to be submitted to planning"
@@ -10769,7 +10789,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10914,6 +10934,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-08T08:35:02.599Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T08:35:02.594Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-08T08:32:52.318Z",
       "action": "ITEM_CHANGE",
@@ -11809,7 +11849,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:34:59.448Z"
+      "at": "2026-06-08T08:35:03.509Z"
     }
   },
   "columnWidths": {
