@@ -1,6 +1,6 @@
 {
-  "version": 3323,
-  "updatedAt": "2026-06-08T09:34:53.489Z",
+  "version": 3324,
+  "updatedAt": "2026-06-08T09:35:05.699Z",
   "items": {
     "TM": [
       {
@@ -80,12 +80,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-06-08T09:35:04.646Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: -\nWhere it is saved: -"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-06-01T09:35:58.468Z",
+        "updated_at": "2026-06-08T09:35:04.646Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: -\nWhere it is saved: -",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "TM|114",
@@ -11027,6 +11035,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:35:04.653Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:35:04.646Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|115",
+      "key": "TM|115",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:32:28.062Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12121,7 +12149,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:34:53.045Z"
+      "at": "2026-06-08T09:35:05.257Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
