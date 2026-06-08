@@ -1,6 +1,6 @@
 {
-  "version": 3120,
-  "updatedAt": "2026-06-08T09:09:12.066Z",
+  "version": 3121,
+  "updatedAt": "2026-06-08T09:09:12.565Z",
   "items": {
     "TM": [
       {
@@ -4779,7 +4779,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-05-18T08:09:36.419Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5112,7 +5112,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8419,7 +8419,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12029,7 +12029,7 @@
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
       "clientId": "client-mq4z4wid-x7v4hr",
-      "at": "2026-06-08T09:08:10.539Z"
+      "at": "2026-06-08T09:09:10.460Z"
     }
   },
   "columnWidths": {
@@ -12052,7 +12052,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": true,
+    "received-coord": false,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
