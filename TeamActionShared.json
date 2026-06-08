@@ -1,6 +1,6 @@
 {
-  "version": 2905,
-  "updatedAt": "2026-06-08T08:28:00.283Z",
+  "version": 2906,
+  "updatedAt": "2026-06-08T08:28:09.013Z",
   "items": {
     "TM": [
       {
@@ -4910,6 +4910,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:28:07.433Z",
+            "user": "JF",
+            "text": "down this week to close out remaining defects"
+          },
+          {
             "timestamp": "2026-05-18T07:57:50.652Z",
             "user": "JF",
             "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
@@ -4931,7 +4936,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -6736,6 +6741,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:28:07.433Z",
+            "user": "JF",
+            "text": "down this week to close out remaining defects"
+          },
+          {
             "timestamp": "2026-05-18T07:57:50.652Z",
             "user": "JF",
             "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
@@ -6757,7 +6767,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9596,6 +9606,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:28:07.433Z",
+            "user": "JF",
+            "text": "down this week to close out remaining defects"
+          },
+          {
             "timestamp": "2026-05-18T07:57:50.652Z",
             "user": "JF",
             "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
@@ -9617,7 +9632,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10123,6 +10138,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:28:07.433Z",
+            "user": "JF",
+            "text": "down this week to close out remaining defects"
+          },
+          {
             "timestamp": "2026-05-18T07:57:50.652Z",
             "user": "JF",
             "text": "Phase 2, painting works to complete.\nPhase 1, product defects left outstanding with long leading"
@@ -10144,7 +10164,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10874,6 +10894,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-08T08:28:07.444Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T08:28:07.438Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|06",
+      "key": "JF|06",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-05T14:18:55.729Z",
       "action": "ITEM_CHANGE",
@@ -11729,7 +11769,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:27:59.724Z"
+      "at": "2026-06-08T08:28:08.390Z"
     }
   },
   "columnWidths": {
