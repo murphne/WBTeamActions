@@ -1,6 +1,6 @@
 {
-  "version": 3008,
-  "updatedAt": "2026-06-08T08:50:59.954Z",
+  "version": 3009,
+  "updatedAt": "2026-06-08T08:51:08.253Z",
   "items": {
     "TM": [
       {
@@ -4270,8 +4270,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T08:51:06.731Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Complete on Procore\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-05-18T08:02:41.978Z",
             "user": "JF",
@@ -4289,10 +4294,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "TM|14",
@@ -5197,8 +5204,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T08:51:06.731Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Complete on Procore\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-05-18T08:02:41.978Z",
             "user": "JF",
@@ -5216,10 +5228,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -6817,8 +6831,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T08:51:06.731Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Complete on Procore\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-05-18T08:02:41.978Z",
             "user": "JF",
@@ -6836,10 +6855,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -10391,8 +10412,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T08:51:06.731Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Complete on Procore\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-05-18T08:02:41.978Z",
             "user": "JF",
@@ -10410,10 +10436,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -10961,6 +10989,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-08T08:51:06.736Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T08:51:06.731Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|14",
+      "key": "JF|14",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-08T08:40:26.005Z",
       "action": "ITEM_CHANGE",
@@ -11916,7 +11964,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:50:59.618Z"
+      "at": "2026-06-08T08:51:07.645Z"
     }
   },
   "columnWidths": {
