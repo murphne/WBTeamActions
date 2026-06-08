@@ -1,6 +1,6 @@
 {
-  "version": 3360,
-  "updatedAt": "2026-06-08T09:39:17.476Z",
+  "version": 3361,
+  "updatedAt": "2026-06-08T09:39:20.022Z",
   "items": {
     "TM": [
       {
@@ -31,7 +31,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:09:28.111Z",
+        "updated_at": "2026-06-05T14:18:55.723Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -57,10 +57,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:20.611Z",
+        "updated_at": "2026-06-05T09:13:20.490Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       },
       {
         "key": "TM|115",
@@ -81,7 +80,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:35:04.646Z",
@@ -90,11 +89,9 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:04.646Z",
+        "updated_at": "2026-06-01T09:35:58.468Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "completion_note": "What has been completed: -\nWhere it is saved: -",
-        "date_closed": "2026-06-08"
+        "review_sender": ""
       },
       {
         "key": "TM|114",
@@ -124,7 +121,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:32:28.058Z",
+        "updated_at": "2026-06-01T09:30:09.536Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -2053,7 +2050,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -2807,7 +2804,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:38:37.064Z",
+        "updated_at": "2026-06-01T09:43:00.392Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -4301,7 +4298,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Complete",
+        "status": "Requires Coordination",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -4325,12 +4322,10 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:51:06.731Z",
+        "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|14",
@@ -4402,7 +4397,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4672,7 +4667,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:09:40.165Z",
+        "updated_at": "2026-05-18T08:13:09.786Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4741,7 +4736,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:21.084Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4820,7 +4815,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-05-18T08:09:36.419Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4843,7 +4838,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-06-08T08:40:26.001Z",
@@ -4857,11 +4852,9 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:40:26.001Z",
+        "updated_at": "2026-05-18T08:07:40.705Z",
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Reported issued\nWhere it is saved: on system",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|02",
@@ -5006,7 +4999,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5153,7 +5146,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5232,7 +5225,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5255,7 +5248,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Complete",
+        "status": "Requires Coordination",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -5279,12 +5272,10 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:51:06.731Z",
+        "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -5882,7 +5873,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6859,7 +6850,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -6882,7 +6873,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Complete",
+        "status": "Requires Coordination",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -6906,12 +6897,10 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:51:06.731Z",
+        "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -7253,7 +7242,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7384,7 +7373,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:19.951Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7942,7 +7931,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8465,7 +8454,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8544,7 +8533,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8727,7 +8716,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:20.626Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9244,7 +9233,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9561,7 +9550,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-05-18T08:11:21.084Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9771,7 +9760,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10303,7 +10292,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-05-18T07:57:50.652Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10450,7 +10439,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-05-18T08:01:40.243Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10473,7 +10462,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Complete",
+        "status": "Requires Coordination",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -10497,12 +10486,10 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:51:06.731Z",
+        "updated_at": "2026-05-18T08:02:41.978Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "JF|15",
@@ -10905,7 +10892,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-05-18T08:06:07.526Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12235,32 +12222,32 @@
     "viewer-mq4x3sx4-7src1r": {
       "name": "Craig Stevens",
       "clientId": "client-mq4x3sx7-fyagf5",
-      "at": "2026-06-08T09:38:16.921Z"
+      "at": "2026-06-08T09:39:16.860Z"
     }
   },
   "columnWidths": {
     "0": 34,
-    "1": 70,
-    "2": 93,
-    "3": 149,
-    "4": 252,
-    "5": 70,
-    "6": 99,
-    "7": 93,
-    "8": 89,
-    "9": 70,
-    "10": 70,
-    "11": 70,
+    "1": 96,
+    "2": 117,
+    "3": 183,
+    "4": 340,
+    "5": 92,
+    "6": 124,
+    "7": 150,
+    "8": 132,
+    "9": 96,
+    "10": 156,
+    "11": 110,
     "12": 726,
     "13": 132,
     "14": 280
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": false,
+    "owned-review": true,
     "received-coord": true,
     "received-review": true,
     "completed-recent": true,
-    "completed-historic": false
+    "completed-historic": true
   }
 }
