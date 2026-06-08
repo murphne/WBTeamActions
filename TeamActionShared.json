@@ -1,6 +1,6 @@
 {
-  "version": 2972,
-  "updatedAt": "2026-06-08T08:39:00.132Z",
+  "version": 2973,
+  "updatedAt": "2026-06-08T08:39:11.503Z",
   "items": {
     "TM": [
       {
@@ -4687,13 +4687,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:39:10.146Z",
+            "user": "JF",
+            "text": "review had, document created need to be stripped out and schedules created"
+          },
+          {
             "timestamp": "2026-05-18T08:11:13.650Z",
             "user": "JF",
             "text": "JF issued to team for review"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7289,13 +7294,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:39:10.146Z",
+            "user": "JF",
+            "text": "review had, document created need to be stripped out and schedules created"
+          },
+          {
             "timestamp": "2026-05-18T08:11:13.650Z",
             "user": "JF",
             "text": "JF issued to team for review"
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:11:19.951Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8617,13 +8627,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:39:10.146Z",
+            "user": "JF",
+            "text": "review had, document created need to be stripped out and schedules created"
+          },
+          {
             "timestamp": "2026-05-18T08:11:13.650Z",
             "user": "JF",
             "text": "JF issued to team for review"
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:11:20.626Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9446,13 +9461,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T08:39:10.146Z",
+            "user": "JF",
+            "text": "review had, document created need to be stripped out and schedules created"
+          },
+          {
             "timestamp": "2026-05-18T08:11:13.650Z",
             "user": "JF",
             "text": "JF issued to team for review"
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10935,6 +10955,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T08:39:10.152Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T08:39:10.148Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|71",
+      "key": "JF|71",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-08T08:35:02.599Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11849,7 +11889,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:38:59.783Z"
+      "at": "2026-06-08T08:39:11.060Z"
     }
   },
   "columnWidths": {
