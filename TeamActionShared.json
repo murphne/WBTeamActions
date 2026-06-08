@@ -1,6 +1,6 @@
 {
-  "version": 3127,
-  "updatedAt": "2026-06-08T09:09:31.700Z",
+  "version": 3128,
+  "updatedAt": "2026-06-08T09:09:41.504Z",
   "items": {
     "TM": [
       {
@@ -31,7 +31,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:09:28.111Z",
+        "updated_at": "2026-06-05T14:18:55.723Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -4636,13 +4636,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:09:40.165Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-05-18T08:13:09.786Z",
             "user": "JF",
             "text": "documentation requires review,\nJF has dates for all defects with lead times, just need to put it on Procore to update system"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:13:09.786Z",
+        "updated_at": "2026-06-08T09:09:40.165Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4785,7 +4790,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:09:36.419Z",
+        "updated_at": "2026-06-08T09:08:11.298Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5118,7 +5123,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8425,7 +8430,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11011,6 +11016,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:09:40.174Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T09:09:40.169Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|73",
+      "key": "JF|73",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-08T09:09:28.116Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12045,7 +12070,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T09:09:27.064Z"
+      "at": "2026-06-08T09:09:41.085Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
