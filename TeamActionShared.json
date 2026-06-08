@@ -1,6 +1,6 @@
 {
-  "version": 3373,
-  "updatedAt": "2026-06-08T09:40:53.572Z",
+  "version": 3374,
+  "updatedAt": "2026-06-08T09:41:02.847Z",
   "items": {
     "TM": [
       {
@@ -4604,9 +4604,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-06-08T09:41:01.407Z",
+            "user": "TM",
+            "text": "Run by JW when done"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-29T10:47:59.199Z",
+        "updated_at": "2026-06-08T09:41:01.407Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -11061,6 +11067,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:41:01.417Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:41:01.411Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|113",
+      "key": "TM|113",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:39:35.865Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12255,7 +12281,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:40:53.204Z"
+      "at": "2026-06-08T09:41:02.336Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
