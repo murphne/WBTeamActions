@@ -1,6 +1,6 @@
 {
-  "version": 3107,
-  "updatedAt": "2026-06-08T09:07:59.972Z",
+  "version": 3108,
+  "updatedAt": "2026-06-08T09:08:11.786Z",
   "items": {
     "TM": [
       {
@@ -4768,13 +4768,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:08:11.298Z",
+            "user": "JF",
+            "text": "reviewed programme with team, agreed strategy with revised Programme."
+          },
+          {
             "timestamp": "2026-05-18T08:09:36.418Z",
             "user": "JF",
             "text": "Programme update with team today. \n6 week current delay but this will be dependant on procurement strategy we take- SC currently doing levelling up exercise and will then be reviewing our strategy"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:09:36.419Z",
+        "updated_at": "2026-06-08T09:08:11.298Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10990,6 +10995,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:08:11.306Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T09:08:11.302Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-08T08:51:06.736Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -11964,7 +11989,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T09:07:59.470Z"
+      "at": "2026-06-08T09:08:11.382Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
