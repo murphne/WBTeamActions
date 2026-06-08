@@ -1,6 +1,6 @@
 {
-  "version": 3113,
-  "updatedAt": "2026-06-08T09:08:25.970Z",
+  "version": 3114,
+  "updatedAt": "2026-06-08T09:08:35.264Z",
   "items": {
     "TM": [
       {
@@ -4270,7 +4270,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -4294,10 +4294,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "TM|14",
@@ -4369,7 +4371,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4703,7 +4705,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4777,7 +4779,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:09:36.419Z",
+        "updated_at": "2026-06-08T09:08:11.298Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4800,7 +4802,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-08T08:40:26.001Z",
@@ -4814,9 +4816,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:07:40.705Z",
+        "updated_at": "2026-06-08T08:40:26.001Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Reported issued\nWhere it is saved: on system",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|02",
@@ -4961,7 +4965,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5092,6 +5096,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:08:33.561Z",
+            "user": "JF",
+            "text": "no progress in period still with team"
+          },
+          {
             "timestamp": "2026-05-18T07:59:40.622Z",
             "user": "JF",
             "text": "with team for final comment"
@@ -5103,7 +5112,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5182,7 +5191,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5205,7 +5214,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -5229,10 +5238,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -5830,7 +5841,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6807,7 +6818,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -6830,7 +6841,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -6854,10 +6865,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -7199,7 +7212,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7330,7 +7343,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:11:19.951Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8390,6 +8403,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:08:33.561Z",
+            "user": "JF",
+            "text": "no progress in period still with team"
+          },
+          {
             "timestamp": "2026-05-18T07:59:40.622Z",
             "user": "JF",
             "text": "with team for final comment"
@@ -8401,7 +8419,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8480,7 +8498,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8663,7 +8681,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:11:20.626Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9180,7 +9198,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9497,7 +9515,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9707,7 +9725,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10239,7 +10257,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10386,7 +10404,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10409,7 +10427,7 @@
         "coord_JW": false,
         "management": "Coordinate with CS and TM",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-08T08:51:06.731Z",
@@ -10433,10 +10451,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:02:41.978Z",
+        "updated_at": "2026-06-08T08:51:06.731Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|15",
@@ -10839,7 +10859,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10984,6 +11004,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-08T09:08:33.568Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T09:08:33.564Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|10",
+      "key": "JF|10",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-08T09:08:11.306Z",
       "action": "ITEM_CHANGE",
@@ -11979,7 +12019,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T09:08:23.761Z"
+      "at": "2026-06-08T09:08:34.481Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
@@ -12011,10 +12051,10 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": true,
+    "owned-review": false,
     "received-coord": true,
     "received-review": true,
     "completed-recent": true,
-    "completed-historic": true
+    "completed-historic": false
   }
 }
