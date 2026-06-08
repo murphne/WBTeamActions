@@ -1,6 +1,6 @@
 {
-  "version": 3383,
-  "updatedAt": "2026-06-08T09:41:57.501Z",
+  "version": 3384,
+  "updatedAt": "2026-06-08T09:42:08.719Z",
   "items": {
     "TM": [
       {
@@ -433,13 +433,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:42:07.204Z",
+            "user": "TM",
+            "text": "TM to re-read, then get Commercials to appoint and CS to arrange works"
+          },
+          {
             "timestamp": "2026-05-18T09:24:42.795Z",
             "user": "TM",
             "text": "Arranged for 1pm on 19/05"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:41:56.196Z",
+        "updated_at": "2026-06-08T09:42:07.204Z",
         "review_sender": "",
         "_deletedCommentSignatures": [
           "1780911695018|tm|TM to get Commercials to appoint and CS to arrange works"
@@ -11069,6 +11074,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:42:07.213Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:42:07.208Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|100",
+      "key": "TM|100",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:41:56.202Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12323,7 +12348,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:41:57.118Z"
+      "at": "2026-06-08T09:42:08.127Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
