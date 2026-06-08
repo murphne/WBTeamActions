@@ -1,6 +1,6 @@
 {
-  "version": 3047,
-  "updatedAt": "2026-06-08T08:56:41.751Z",
+  "version": 3048,
+  "updatedAt": "2026-06-08T08:56:46.611Z",
   "items": {
     "TM": [
       {
@@ -11964,7 +11964,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:55:46.045Z"
+      "at": "2026-06-08T08:56:45.913Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
@@ -11997,7 +11997,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": false,
+    "received-coord": true,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
