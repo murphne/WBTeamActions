@@ -1,6 +1,6 @@
 {
-  "version": 3394,
-  "updatedAt": "2026-06-08T09:43:20.631Z",
+  "version": 3395,
+  "updatedAt": "2026-06-08T09:43:34.159Z",
   "items": {
     "TM": [
       {
@@ -960,6 +960,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:43:32.551Z",
+            "user": "TM",
+            "text": "Meeting with WP on 09/06."
+          },
+          {
             "timestamp": "2026-05-18T09:46:12.020Z",
             "user": "TM",
             "text": "Next meeting 27/05. GDR response recieved, reply to be sent by Link. TM to review Specs"
@@ -971,7 +976,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:57:55.483Z",
+        "updated_at": "2026-06-08T09:43:32.551Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11074,6 +11079,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:43:32.559Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:43:32.554Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|81",
+      "key": "TM|81",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:42:07.213Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12348,7 +12373,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:43:19.743Z"
+      "at": "2026-06-08T09:43:33.486Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
