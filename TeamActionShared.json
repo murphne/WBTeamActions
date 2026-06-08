@@ -1,6 +1,6 @@
 {
-  "version": 2943,
-  "updatedAt": "2026-06-08T08:33:57.354Z",
+  "version": 2944,
+  "updatedAt": "2026-06-08T08:34:01.022Z",
   "items": {
     "TM": [
       {
@@ -11809,7 +11809,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:33:55.769Z"
+      "at": "2026-06-08T08:34:00.614Z"
     }
   },
   "columnWidths": {
@@ -11831,7 +11831,7 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": true,
+    "owned-review": false,
     "received-coord": true,
     "received-review": true,
     "completed-recent": true,
