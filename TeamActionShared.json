@@ -1,6 +1,6 @@
 {
-  "version": 3571,
-  "updatedAt": "2026-06-08T10:56:02.666Z",
+  "version": 3572,
+  "updatedAt": "2026-06-08T10:56:08.597Z",
   "items": {
     "TM": [
       {
@@ -8913,6 +8913,31 @@
     ],
     "LC": [
       {
+        "key": "LC|107",
+        "priority": null,
+        "item_num": 107,
+        "urgent": false,
+        "effective_date": "2026-06-08",
+        "programme_date": "2026-06-10",
+        "project": "Rotherham",
+        "description": "Place instruction for the design of the Emergency Exit Signage required for 278 sign off.",
+        "action_required": "Instruction to place with SCP",
+        "lead": "LC",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "LC",
+        "updated_at": "2026-06-08T10:56:06.953Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "LC|97",
         "priority": null,
         "item_num": 97,
@@ -11139,6 +11164,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T10:56:06.969Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-06-08T10:56:06.954Z",
+      "action": "ADD",
+      "origin_sheet": "LC",
+      "source_row": "LC|107",
+      "key": "LC|107",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-06-08T09:57:46.126Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12568,7 +12613,7 @@
     "viewer-mq4x3sx4-7src1r": {
       "name": "Craig Stevens",
       "clientId": "client-mq4x3sx7-fyagf5",
-      "at": "2026-06-08T10:56:01.906Z"
+      "at": "2026-06-08T10:56:07.899Z"
     }
   },
   "columnWidths": {
