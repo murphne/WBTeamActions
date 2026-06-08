@@ -1,6 +1,6 @@
 {
-  "version": 3475,
-  "updatedAt": "2026-06-08T09:54:29.454Z",
+  "version": 3476,
+  "updatedAt": "2026-06-08T09:54:34.668Z",
   "items": {
     "TM": [
       {
@@ -2479,8 +2479,13 @@
         "coord_JW": false,
         "management": "Issue to JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T09:54:33.291Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Conditions now received\nWhere it is saved: See TM planning tracker"
+          },
           {
             "timestamp": "2026-04-13T09:51:52.379Z",
             "user": "TM",
@@ -2493,10 +2498,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-13T09:51:52.379Z",
+        "updated_at": "2026-06-08T09:54:33.291Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Conditions now received\nWhere it is saved: See TM planning tracker",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "TM|35",
@@ -11114,6 +11121,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:54:33.297Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:54:33.291Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|34",
+      "key": "TM|34",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:53:34.773Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12488,7 +12515,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:54:29.095Z"
+      "at": "2026-06-08T09:54:34.218Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
