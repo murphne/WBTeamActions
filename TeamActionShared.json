@@ -1,6 +1,6 @@
 {
-  "version": 3349,
-  "updatedAt": "2026-06-08T09:37:53.505Z",
+  "version": 3350,
+  "updatedAt": "2026-06-08T09:37:58.948Z",
   "items": {
     "TM": [
       {
@@ -2027,6 +2027,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:37:57.632Z",
+            "user": "TM",
+            "text": "TM to keep pressure on TJ and Andrew B"
+          },
+          {
             "timestamp": "2026-05-18T09:39:11.267Z",
             "user": "TM",
             "text": "TM to chase Stantec"
@@ -2048,7 +2053,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:39:11.267Z",
+        "updated_at": "2026-06-08T09:37:57.632Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7906,6 +7911,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:37:57.632Z",
+            "user": "TM",
+            "text": "TM to keep pressure on TJ and Andrew B"
+          },
+          {
             "timestamp": "2026-05-18T09:39:11.267Z",
             "user": "TM",
             "text": "TM to chase Stantec"
@@ -7927,7 +7937,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T09:39:11.267Z",
+        "updated_at": "2026-06-08T09:37:57.632Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11036,6 +11046,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:37:57.639Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:37:57.635Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|17",
+      "key": "TM|17",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:35:20.618Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -12170,7 +12200,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:37:53.207Z"
+      "at": "2026-06-08T09:37:58.554Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
