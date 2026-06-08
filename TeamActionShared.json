@@ -1,6 +1,6 @@
 {
-  "version": 3485,
-  "updatedAt": "2026-06-08T09:56:05.568Z",
+  "version": 3486,
+  "updatedAt": "2026-06-08T09:56:10.598Z",
   "items": {
     "TM": [
       {
@@ -31,7 +31,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:09:28.111Z",
+        "updated_at": "2026-06-05T14:18:55.723Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -57,10 +57,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:20.611Z",
+        "updated_at": "2026-06-05T09:13:20.490Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       },
       {
         "key": "TM|115",
@@ -81,7 +80,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:35:04.646Z",
@@ -90,11 +89,9 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:04.646Z",
+        "updated_at": "2026-06-01T09:35:58.468Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "completion_note": "What has been completed: -\nWhere it is saved: -",
-        "date_closed": "2026-06-08"
+        "review_sender": ""
       },
       {
         "key": "TM|114",
@@ -124,7 +121,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:32:28.058Z",
+        "updated_at": "2026-06-01T09:30:09.536Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -385,7 +382,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:45:00.194Z",
+        "updated_at": "2026-06-01T09:49:03.151Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -449,7 +446,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:42:07.204Z",
+        "updated_at": "2026-05-18T09:43:22.395Z",
         "review_sender": "",
         "_deletedCommentSignatures": [
           "1780911695018|tm|TM to get Commercials to appoint and CS to arrange works"
@@ -981,7 +978,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:43:32.551Z",
+        "updated_at": "2026-05-18T09:57:55.483Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -2023,7 +2020,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:55:53.985Z",
+        "updated_at": "2026-04-13T09:42:18.454Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -2075,7 +2072,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -2484,7 +2481,7 @@
         "coord_JW": false,
         "management": "Issue to JW",
         "programme_date": null,
-        "status": "Complete",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-06-08T09:54:33.291Z",
@@ -2503,12 +2500,10 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:54:33.291Z",
+        "updated_at": "2026-04-13T09:51:52.379Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: Conditions now received\nWhere it is saved: See TM planning tracker",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|35",
@@ -2836,7 +2831,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:38:37.064Z",
+        "updated_at": "2026-06-01T09:43:00.392Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -3044,7 +3039,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:39:35.856Z",
+        "updated_at": "2026-04-13T10:01:21.385Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -3133,7 +3128,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:49:45.217Z",
@@ -3142,12 +3137,10 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:49:45.217Z",
+        "updated_at": "2026-04-10T08:17:52.905Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: TM has sent report to JF\nWhere it is saved: Email",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -4562,7 +4555,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:50:23.305Z",
@@ -4571,11 +4564,9 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:50:23.305Z",
+        "updated_at": "2026-05-27T12:41:38.680Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "completion_note": "What has been completed: Agreed go to foul based on time risk\nWhere it is saved: -",
-        "date_closed": "2026-06-08"
+        "review_sender": ""
       },
       {
         "key": "TM|109",
@@ -4631,7 +4622,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:53:34.763Z",
+        "updated_at": "2026-05-29T09:59:59.499Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -4663,7 +4654,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:41:01.407Z",
+        "updated_at": "2026-05-29T10:47:59.199Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -4734,7 +4725,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:09:40.165Z",
+        "updated_at": "2026-05-18T08:13:09.786Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4882,7 +4873,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-05-18T08:09:36.419Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5215,7 +5206,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5631,7 +5622,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:49:45.217Z",
@@ -5640,12 +5631,10 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:49:45.217Z",
+        "updated_at": "2026-04-10T08:17:52.906Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": [],
-        "completion_note": "What has been completed: TM has sent report to JF\nWhere it is saved: Email",
-        "date_closed": "2026-06-08"
+        "_deletedCommentSignatures": []
       },
       {
         "key": "TM|59",
@@ -7965,7 +7954,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:55:53.985Z",
+        "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8017,7 +8006,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8250,7 +8239,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:39:35.856Z",
+        "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8545,7 +8534,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12550,7 +12539,7 @@
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
       "clientId": "client-mq4z4wid-x7v4hr",
-      "at": "2026-06-08T09:55:13.236Z"
+      "at": "2026-06-08T09:56:10.190Z"
     },
     "viewer-mq4x3sx4-7src1r": {
       "name": "Craig Stevens",
@@ -12560,17 +12549,17 @@
   },
   "columnWidths": {
     "0": 34,
-    "1": 70,
-    "2": 93,
-    "3": 149,
-    "4": 252,
-    "5": 70,
-    "6": 99,
-    "7": 93,
-    "8": 89,
-    "9": 70,
-    "10": 70,
-    "11": 70,
+    "1": 96,
+    "2": 117,
+    "3": 183,
+    "4": 340,
+    "5": 92,
+    "6": 124,
+    "7": 150,
+    "8": 132,
+    "9": 96,
+    "10": 156,
+    "11": 110,
     "12": 726,
     "13": 132,
     "14": 280
@@ -12578,7 +12567,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": true,
+    "received-coord": false,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
