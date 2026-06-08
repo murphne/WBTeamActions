@@ -1,6 +1,6 @@
 {
-  "version": 3492,
-  "updatedAt": "2026-06-08T09:57:05.571Z",
+  "version": 3493,
+  "updatedAt": "2026-06-08T09:57:17.272Z",
   "items": {
     "TM": [
       {
@@ -12545,17 +12545,12 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:57:04.885Z"
+      "at": "2026-06-08T09:57:16.897Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
       "clientId": "client-mq4z4wid-x7v4hr",
       "at": "2026-06-08T09:56:10.190Z"
-    },
-    "viewer-mq4x3sx4-7src1r": {
-      "name": "Craig Stevens",
-      "clientId": "client-mq4x3sx7-fyagf5",
-      "at": "2026-06-08T09:52:16.905Z"
     }
   },
   "columnWidths": {
