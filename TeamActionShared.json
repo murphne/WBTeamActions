@@ -1,6 +1,6 @@
 {
-  "version": 3362,
-  "updatedAt": "2026-06-08T09:39:29.824Z",
+  "version": 3363,
+  "updatedAt": "2026-06-08T09:39:37.198Z",
   "items": {
     "TM": [
       {
@@ -3004,13 +3004,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:39:35.856Z",
+            "user": "TM",
+            "text": "TM finalise Derby East piece and send to JD. Will take some format"
+          },
+          {
             "timestamp": "2026-04-13T10:01:21.385Z",
             "user": "TM",
             "text": "Speak to Pells - what do we have, what is compliant, how would we refresh them?"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-13T10:01:21.385Z",
+        "updated_at": "2026-06-08T09:39:35.856Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8164,13 +8169,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:39:35.856Z",
+            "user": "TM",
+            "text": "TM finalise Derby East piece and send to JD. Will take some format"
+          },
+          {
             "timestamp": "2026-04-13T10:01:21.385Z",
             "user": "TM",
             "text": "Speak to Pells - what do we have, what is compliant, how would we refresh them?"
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-04-08T18:18:10.650Z",
+        "updated_at": "2026-06-08T09:39:35.856Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11051,6 +11061,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:39:35.865Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:39:35.859Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|55",
+      "key": "TM|55",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:38:37.074Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12225,7 +12255,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:39:29.165Z"
+      "at": "2026-06-08T09:39:36.778Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
