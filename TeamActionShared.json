@@ -1,6 +1,6 @@
 {
-  "version": 3048,
-  "updatedAt": "2026-06-08T08:56:46.611Z",
+  "version": 3049,
+  "updatedAt": "2026-06-08T08:56:53.835Z",
   "items": {
     "TM": [
       {
@@ -11974,7 +11974,7 @@
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
       "clientId": "client-mq4z4wid-x7v4hr",
-      "at": "2026-06-08T08:56:41.328Z"
+      "at": "2026-06-08T08:56:53.478Z"
     }
   },
   "columnWidths": {
@@ -11997,7 +11997,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": true,
+    "received-coord": false,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
