@@ -1,6 +1,6 @@
 {
-  "version": 3391,
-  "updatedAt": "2026-06-08T09:43:05.606Z",
+  "version": 3392,
+  "updatedAt": "2026-06-08T09:43:10.954Z",
   "items": {
     "TM": [
       {
@@ -31,7 +31,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:09:28.111Z",
+        "updated_at": "2026-06-05T14:18:55.723Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -57,10 +57,9 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:20.611Z",
+        "updated_at": "2026-06-05T09:13:20.490Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "_deleted": true
+        "review_sender": ""
       },
       {
         "key": "TM|115",
@@ -81,7 +80,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Complete",
+        "status": "",
         "comments": [
           {
             "timestamp": "2026-06-08T09:35:04.646Z",
@@ -90,11 +89,9 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:35:04.646Z",
+        "updated_at": "2026-06-01T09:35:58.468Z",
         "_deletedCommentSignatures": [],
-        "review_sender": "",
-        "completion_note": "What has been completed: -\nWhere it is saved: -",
-        "date_closed": "2026-06-08"
+        "review_sender": ""
       },
       {
         "key": "TM|114",
@@ -124,7 +121,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:32:28.058Z",
+        "updated_at": "2026-06-01T09:30:09.536Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -444,7 +441,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:42:07.204Z",
+        "updated_at": "2026-05-18T09:43:22.395Z",
         "review_sender": "",
         "_deletedCommentSignatures": [
           "1780911695018|tm|TM to get Commercials to appoint and CS to arrange works"
@@ -2060,7 +2057,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -2814,7 +2811,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:38:37.064Z",
+        "updated_at": "2026-06-01T09:43:00.392Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -3022,7 +3019,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:39:35.856Z",
+        "updated_at": "2026-04-13T10:01:21.385Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -4619,7 +4616,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:41:01.407Z",
+        "updated_at": "2026-05-29T10:47:59.199Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -4690,7 +4687,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:09:40.165Z",
+        "updated_at": "2026-05-18T08:13:09.786Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4838,7 +4835,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-05-18T08:09:36.419Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5171,7 +5168,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7960,7 +7957,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:37:57.632Z",
+        "updated_at": "2026-05-18T09:39:11.267Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8193,7 +8190,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:39:35.856Z",
+        "updated_at": "2026-04-08T18:18:10.650Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8488,7 +8485,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-05-18T07:59:40.623Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12353,7 +12350,7 @@
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
       "clientId": "client-mq4z4wid-x7v4hr",
-      "at": "2026-06-08T09:42:10.331Z"
+      "at": "2026-06-08T09:43:10.444Z"
     },
     "viewer-mq4x3sx4-7src1r": {
       "name": "Craig Stevens",
@@ -12363,17 +12360,17 @@
   },
   "columnWidths": {
     "0": 34,
-    "1": 70,
-    "2": 93,
-    "3": 149,
-    "4": 252,
-    "5": 70,
-    "6": 99,
-    "7": 93,
-    "8": 89,
-    "9": 70,
-    "10": 70,
-    "11": 70,
+    "1": 96,
+    "2": 117,
+    "3": 183,
+    "4": 340,
+    "5": 92,
+    "6": 124,
+    "7": 150,
+    "8": 132,
+    "9": 96,
+    "10": 156,
+    "11": 110,
     "12": 726,
     "13": 132,
     "14": 280
@@ -12381,7 +12378,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": true,
+    "received-coord": false,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
