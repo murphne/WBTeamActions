@@ -1,6 +1,6 @@
 {
-  "version": 3467,
-  "updatedAt": "2026-06-08T09:53:29.559Z",
+  "version": 3468,
+  "updatedAt": "2026-06-08T09:53:36.141Z",
   "items": {
     "TM": [
       {
@@ -4611,9 +4611,15 @@
         "coord_JW": false,
         "management": "",
         "status": "Ongoing",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-06-08T09:53:34.763Z",
+            "user": "TM",
+            "text": "TM to check with Nico on Parkway calcs. Check in with LC if SCP have their PO sorted"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-29T09:59:59.499Z",
+        "updated_at": "2026-06-08T09:53:34.763Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -11108,6 +11114,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:53:34.773Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:53:34.767Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|112",
+      "key": "TM|112",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:50:23.310Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12462,7 +12488,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:53:29.169Z"
+      "at": "2026-06-08T09:53:35.695Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
