@@ -1,6 +1,6 @@
 {
-  "version": 3354,
-  "updatedAt": "2026-06-08T09:38:19.813Z",
+  "version": 3355,
+  "updatedAt": "2026-06-08T09:38:40.749Z",
   "items": {
     "TM": [
       {
@@ -2776,6 +2776,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-08T09:38:37.064Z",
+            "user": "TM",
+            "text": "Issued to JD. JW to discuss on a call to be arranged"
+          },
+          {
             "timestamp": "2026-06-01T09:43:00.392Z",
             "user": "TM",
             "text": "First issue came. Not very good. TM to re-brief today 1st June 2026. Needs to show more local and be better."
@@ -2802,7 +2807,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-01T09:43:00.392Z",
+        "updated_at": "2026-06-08T09:38:37.064Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11046,6 +11051,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-08T09:38:37.074Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-08T09:38:37.068Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-08T09:37:57.639Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12200,7 +12225,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-08T09:38:17.268Z"
+      "at": "2026-06-08T09:38:37.997Z"
     },
     "viewer-mq4z4wia-uc4t6c": {
       "name": "Sam Camino",
