@@ -1,6 +1,6 @@
 {
-  "version": 2980,
-  "updatedAt": "2026-06-08T08:40:17.955Z",
+  "version": 2981,
+  "updatedAt": "2026-06-08T08:40:28.903Z",
   "items": {
     "TM": [
       {
@@ -4364,7 +4364,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4698,7 +4698,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4790,8 +4790,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-08T08:40:26.001Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Reported issued\nWhere it is saved: on system"
+          },
           {
             "timestamp": "2026-05-18T08:07:40.705Z",
             "user": "JF",
@@ -4799,9 +4804,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:07:40.705Z",
+        "updated_at": "2026-06-08T08:40:26.001Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Reported issued\nWhere it is saved: on system",
+        "date_closed": "2026-06-08"
       },
       {
         "key": "JF|02",
@@ -4946,7 +4953,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5167,7 +5174,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5810,7 +5817,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6787,7 +6794,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7174,7 +7181,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7305,7 +7312,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:11:19.951Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8455,7 +8462,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8638,7 +8645,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:11:20.626Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9155,7 +9162,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9472,7 +9479,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T08:11:21.084Z",
+        "updated_at": "2026-06-08T08:39:10.146Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9682,7 +9689,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10214,7 +10221,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:57:50.652Z",
+        "updated_at": "2026-06-08T08:28:07.433Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10361,7 +10368,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:01:40.243Z",
+        "updated_at": "2026-06-08T08:32:52.310Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10809,7 +10816,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:06:07.526Z",
+        "updated_at": "2026-06-08T08:35:02.590Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10954,6 +10961,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-08T08:40:26.005Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-08T08:40:26.001Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|68",
+      "key": "JF|68",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-08T08:39:10.152Z",
       "action": "ITEM_CHANGE",
@@ -11889,7 +11916,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T08:40:11.691Z"
+      "at": "2026-06-08T08:40:26.923Z"
     }
   },
   "columnWidths": {
@@ -11911,10 +11938,10 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": true,
+    "owned-review": false,
     "received-coord": true,
     "received-review": true,
     "completed-recent": true,
-    "completed-historic": true
+    "completed-historic": false
   }
 }
