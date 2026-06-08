@@ -1,6 +1,6 @@
 {
-  "version": 3309,
-  "updatedAt": "2026-06-08T09:33:11.391Z",
+  "version": 3310,
+  "updatedAt": "2026-06-08T09:33:18.191Z",
   "items": {
     "TM": [
       {
@@ -4653,7 +4653,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:13:09.786Z",
+        "updated_at": "2026-06-08T09:09:40.165Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4764,7 +4764,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:10:38.219Z",
+        "updated_at": "2026-06-08T09:10:09.446Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4801,7 +4801,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:09:36.419Z",
+        "updated_at": "2026-06-08T09:08:11.298Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5134,7 +5134,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8441,7 +8441,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:40.623Z",
+        "updated_at": "2026-06-08T09:08:33.561Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12116,7 +12116,7 @@
     "viewer-mq4y6c4k-efizwp": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-08T09:32:59.832Z"
+      "at": "2026-06-08T09:33:12.516Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
@@ -12154,7 +12154,7 @@
   "actionSectionCollapsed": {
     "owned-active": false,
     "owned-review": false,
-    "received-coord": false,
+    "received-coord": true,
     "received-review": true,
     "completed-recent": true,
     "completed-historic": false
