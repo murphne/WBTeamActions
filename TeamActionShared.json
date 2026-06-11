@@ -1,6 +1,6 @@
 {
-  "version": 3952,
-  "updatedAt": "2026-06-11T13:44:59.169Z",
+  "version": 3953,
+  "updatedAt": "2026-06-11T13:45:03.511Z",
   "items": {
     "TM": [
       {
@@ -4781,9 +4781,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-06-11T13:45:02.209Z",
+            "user": "TM",
+            "text": "Told Fri 12th for Parkway. Emergency access PO needs sign off from LC"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T10:59:28.605Z",
+        "updated_at": "2026-06-11T13:45:02.209Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -11277,6 +11283,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-11T13:45:02.218Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-11T13:45:02.213Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|118",
+      "key": "TM|118",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-11T13:44:27.294Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -12859,7 +12885,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-11T13:44:58.636Z"
+      "at": "2026-06-11T13:45:03.143Z"
     }
   },
   "columnWidths": {
