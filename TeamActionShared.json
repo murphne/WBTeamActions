@@ -1,6 +1,6 @@
 {
-  "version": 4596,
-  "updatedAt": "2026-06-15T09:44:40.312Z",
+  "version": 4597,
+  "updatedAt": "2026-06-15T09:44:46.003Z",
   "items": {
     "TM": [
       {
@@ -1053,6 +1053,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T09:44:44.538Z",
+            "user": "TM",
+            "text": "Send Dave S email about strategy - i.e. we are escalating so how do we do this"
+          },
+          {
             "timestamp": "2026-06-08T09:43:32.551Z",
             "user": "TM",
             "text": "Meeting with WP on 09/06."
@@ -1069,7 +1074,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:43:32.551Z",
+        "updated_at": "2026-06-15T09:44:44.538Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11586,6 +11591,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T09:44:44.546Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T09:44:44.542Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|81",
+      "key": "TM|81",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T09:42:08.835Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13688,7 +13713,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T09:44:39.806Z"
+      "at": "2026-06-15T09:44:45.460Z"
     }
   },
   "columnWidths": {
