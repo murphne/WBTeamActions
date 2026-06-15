@@ -1,6 +1,6 @@
 {
-  "version": 4814,
-  "updatedAt": "2026-06-15T11:29:49.765Z",
+  "version": 4815,
+  "updatedAt": "2026-06-15T11:29:52.862Z",
   "items": {
     "TM": [
       {
@@ -75,9 +75,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-06-15T11:29:51.361Z",
+            "user": "TM",
+            "text": "Have read report - queries raised with acoustic consultant over fence requirement"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-06-10T08:11:01.758Z",
+        "updated_at": "2026-06-15T11:29:51.361Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -11658,6 +11664,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T11:29:51.366Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T11:29:51.363Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|121",
+      "key": "TM|121",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T10:51:40.303Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13900,7 +13926,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T11:29:49.518Z"
+      "at": "2026-06-15T11:29:52.283Z"
     }
   },
   "columnWidths": {
