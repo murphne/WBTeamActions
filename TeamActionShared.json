@@ -1,6 +1,6 @@
 {
-  "version": 4208,
-  "updatedAt": "2026-06-15T08:25:36.435Z",
+  "version": 4209,
+  "updatedAt": "2026-06-15T08:25:45.650Z",
   "items": {
     "TM": [
       {
@@ -4878,6 +4878,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:25:44.406Z",
+            "user": "JF",
+            "text": "No progress in period"
+          },
+          {
             "timestamp": "2026-06-08T09:09:40.165Z",
             "user": "JF",
             "text": "no progress in period"
@@ -4889,7 +4894,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:09:40.165Z",
+        "updated_at": "2026-06-15T08:25:44.406Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11558,6 +11563,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T08:25:44.413Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:25:44.409Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|73",
+      "key": "JF|73",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-15T08:25:22.779Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13545,7 +13570,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:25:34.737Z"
+      "at": "2026-06-15T08:25:45.324Z"
     }
   },
   "columnWidths": {
