@@ -1,6 +1,6 @@
 {
-  "version": 4084,
-  "updatedAt": "2026-06-15T08:01:59.528Z",
+  "version": 4085,
+  "updatedAt": "2026-06-15T08:02:01.011Z",
   "items": {
     "TM": [
       {
@@ -3889,11 +3889,6 @@
         "status": "Ongoing",
         "comments": [
           {
-            "timestamp": "2026-06-15T07:59:37.068Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -3925,10 +3920,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T07:59:37.068Z",
+        "updated_at": "2026-06-15T08:01:59.758Z",
         "urgent": false,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       },
       {
         "key": "CS|09",
@@ -5677,11 +5674,6 @@
         "status": "Ongoing",
         "comments": [
           {
-            "timestamp": "2026-06-15T07:59:37.068Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -5713,10 +5705,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-15T07:59:37.068Z",
+        "updated_at": "2026-06-15T08:01:59.758Z",
         "urgent": false,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       },
       {
         "key": "TM|02",
@@ -7258,11 +7252,6 @@
         "status": "Ongoing",
         "comments": [
           {
-            "timestamp": "2026-06-15T07:59:37.068Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -7294,10 +7283,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-15T07:59:37.068Z",
+        "updated_at": "2026-06-15T08:01:59.758Z",
         "urgent": false,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       },
       {
         "key": "TM|65",
@@ -9253,11 +9244,6 @@
         "status": "Ongoing",
         "comments": [
           {
-            "timestamp": "2026-06-15T07:59:37.068Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -9289,10 +9275,12 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-15T07:59:37.068Z",
+        "updated_at": "2026-06-15T08:01:59.758Z",
         "urgent": false,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       },
       {
         "key": "TM|02",
@@ -10924,11 +10912,6 @@
         "status": "Ongoing",
         "comments": [
           {
-            "timestamp": "2026-06-15T07:59:37.068Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -10960,10 +10943,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-15T07:59:37.068Z",
+        "updated_at": "2026-06-15T08:01:59.758Z",
         "urgent": false,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       },
       {
         "key": "CS|05",
@@ -11390,6 +11375,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T08:01:59.765Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comments updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T08:01:59.758Z",
+      "action": "DELETE_COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-06-15T08:00:29.038Z",
       "action": "ITEM_CHANGE",
@@ -13123,7 +13128,7 @@
     "viewer-mqexc7hz-sfgzdq": {
       "name": "Tom Murphy",
       "clientId": "client-mqexc7i2-czgn33",
-      "at": "2026-06-15T08:01:53.161Z"
+      "at": "2026-06-15T08:02:00.678Z"
     }
   },
   "columnWidths": {
