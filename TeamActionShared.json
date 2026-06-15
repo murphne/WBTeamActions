@@ -1,6 +1,6 @@
 {
-  "version": 4546,
-  "updatedAt": "2026-06-15T09:36:04.164Z",
+  "version": 4547,
+  "updatedAt": "2026-06-15T09:36:07.379Z",
   "items": {
     "TM": [
       {
@@ -2867,6 +2867,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T09:36:05.897Z",
+            "user": "TM",
+            "text": "John D wants a meeting with SLT to review. JW has also issued to Emma Teuten"
+          },
+          {
             "timestamp": "2026-06-08T09:38:37.064Z",
             "user": "TM",
             "text": "Issued to JD. JW to discuss on a call to be arranged"
@@ -2898,7 +2903,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:38:37.064Z",
+        "updated_at": "2026-06-15T09:36:05.897Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11550,6 +11555,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T09:36:05.905Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T09:36:05.900Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T09:34:46.150Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13597,7 +13622,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T09:36:03.438Z"
+      "at": "2026-06-15T09:36:06.816Z"
     }
   },
   "columnWidths": {
