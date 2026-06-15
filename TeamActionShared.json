@@ -1,6 +1,6 @@
 {
-  "version": 4168,
-  "updatedAt": "2026-06-15T08:21:23.320Z",
+  "version": 4169,
+  "updatedAt": "2026-06-15T08:21:26.739Z",
   "items": {
     "TM": [
       {
@@ -4984,6 +4984,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:21:25.498Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-08T09:10:09.446Z",
             "user": "JF",
             "text": "reviewed, Document to be split up and shedules created"
@@ -5000,7 +5005,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:10:38.219Z",
+        "updated_at": "2026-06-15T08:21:25.498Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11488,6 +11493,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T08:21:25.505Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:21:25.501Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|70",
+      "key": "JF|70",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-15T08:20:42.710Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13355,7 +13380,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:21:22.816Z"
+      "at": "2026-06-15T08:21:26.415Z"
     }
   },
   "columnWidths": {
