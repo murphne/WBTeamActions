@@ -1,34 +1,8 @@
 {
-  "version": 4565,
-  "updatedAt": "2026-06-15T09:38:49.997Z",
+  "version": 4566,
+  "updatedAt": "2026-06-15T09:38:58.254Z",
   "items": {
     "TM": [
-      {
-        "key": "TM|122",
-        "priority": null,
-        "item_num": 122,
-        "urgent": false,
-        "effective_date": "2026-06-15",
-        "programme_date": null,
-        "project": "Bridgwater",
-        "description": "S104 - Stantec",
-        "action_required": "Agree @ 1124 and sort appointment",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-06-15T09:38:12.827Z",
-        "_deletedCommentSignatures": [],
-        "review_sender": ""
-      },
       {
         "key": "TM|121",
         "priority": null,
@@ -2163,8 +2137,8 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T09:34:46.142Z",
-        "urgent": true,
+        "updated_at": "2026-06-08T09:37:57.632Z",
+        "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -2929,7 +2903,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T09:36:05.897Z",
+        "updated_at": "2026-06-08T09:38:37.064Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -4853,6 +4827,32 @@
         ],
         "sheet": "TM",
         "updated_at": "2026-06-11T13:45:02.209Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": ""
+      },
+      {
+        "key": "TM|122",
+        "priority": null,
+        "item_num": 122,
+        "urgent": false,
+        "effective_date": "2026-06-15",
+        "programme_date": null,
+        "project": "Bridgwater",
+        "description": "S104 - Stantec",
+        "action_required": "Agree @ 1124 and sort appointment",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-06-15T09:38:12.827Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -8320,8 +8320,8 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-15T09:34:46.143Z",
-        "urgent": true,
+        "updated_at": "2026-06-08T09:37:57.632Z",
+        "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -13663,7 +13663,7 @@
     "viewer-mqez1mht-zc3xke": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T09:38:31.374Z"
+      "at": "2026-06-15T09:38:57.877Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
@@ -13682,9 +13682,9 @@
     "7": 93,
     "8": 89,
     "9": 70,
-    "10": 145,
-    "11": 127,
-    "12": 870,
+    "10": 70,
+    "11": 70,
+    "12": 726,
     "13": 132,
     "14": 280
   },
