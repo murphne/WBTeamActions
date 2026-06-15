@@ -1,6 +1,6 @@
 {
-  "version": 4089,
-  "updatedAt": "2026-06-15T08:02:23.486Z",
+  "version": 4090,
+  "updatedAt": "2026-06-15T08:02:29.468Z",
   "items": {
     "TM": [
       {
@@ -5438,6 +5438,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:28.132Z",
+            "user": "JF",
+            "text": "Email to be sent from senior team"
+          },
+          {
             "timestamp": "2026-06-08T08:32:52.310Z",
             "user": "JF",
             "text": "need to send HML a response"
@@ -5454,7 +5459,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8804,6 +8809,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:28.132Z",
+            "user": "JF",
+            "text": "Email to be sent from senior team"
+          },
+          {
             "timestamp": "2026-06-08T08:32:52.310Z",
             "user": "JF",
             "text": "need to send HML a response"
@@ -8820,7 +8830,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9511,6 +9521,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:28.132Z",
+            "user": "JF",
+            "text": "Email to be sent from senior team"
+          },
+          {
             "timestamp": "2026-06-08T08:32:52.310Z",
             "user": "JF",
             "text": "need to send HML a response"
@@ -9527,7 +9542,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10762,6 +10777,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:28.132Z",
+            "user": "JF",
+            "text": "Email to be sent from senior team"
+          },
+          {
             "timestamp": "2026-06-08T08:32:52.310Z",
             "user": "JF",
             "text": "need to send HML a response"
@@ -10778,7 +10798,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11385,6 +11405,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T08:02:28.141Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:02:28.137Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|12",
+      "key": "JF|12",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T08:02:09.579Z",
       "action": "ITEM_CHANGE",
@@ -13153,7 +13193,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:02:22.827Z"
+      "at": "2026-06-15T08:02:29.049Z"
     },
     "viewer-mqexc7hz-sfgzdq": {
       "name": "Tom Murphy",
