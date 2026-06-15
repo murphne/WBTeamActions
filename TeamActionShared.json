@@ -1,6 +1,6 @@
 {
-  "version": 4001,
-  "updatedAt": "2026-06-12T15:01:14.979Z",
+  "version": 4002,
+  "updatedAt": "2026-06-15T07:46:02.720Z",
   "items": {
     "TM": [
       {
@@ -12907,10 +12907,10 @@
     }
   },
   "presence": {
-    "viewer-mq4z23io-jgelp0": {
-      "name": "Tom Murphy",
-      "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-12T15:01:14.332Z"
+    "viewer-mqewsmsy-9hjkli": {
+      "name": "User JKLI",
+      "clientId": "client-mqewsmt1-bixlxf",
+      "at": "2026-06-15T07:46:02.104Z"
     }
   },
   "columnWidths": {
