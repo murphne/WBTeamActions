@@ -1,6 +1,6 @@
 {
-  "version": 4652,
-  "updatedAt": "2026-06-15T09:59:38.107Z",
+  "version": 4653,
+  "updatedAt": "2026-06-15T09:59:45.377Z",
   "items": {
     "TM": [
       {
@@ -3079,8 +3079,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T09:59:43.815Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: -\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:52:46.232Z",
             "user": "TM",
@@ -3093,10 +3098,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:52:46.232Z",
+        "updated_at": "2026-06-15T09:59:43.815Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: -\nWhere it is saved: -",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "TM|54",
@@ -6925,8 +6932,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T09:59:43.815Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: -\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:52:46.232Z",
             "user": "TM",
@@ -6939,10 +6951,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T09:52:46.232Z",
+        "updated_at": "2026-06-15T09:59:43.815Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: -\nWhere it is saved: -",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "TM|59",
@@ -10642,8 +10656,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T09:59:43.815Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: -\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:52:46.232Z",
             "user": "TM",
@@ -10656,10 +10675,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T09:52:46.232Z",
+        "updated_at": "2026-06-15T09:59:43.815Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: -\nWhere it is saved: -",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "TM|59",
@@ -11597,6 +11618,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T09:59:43.821Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T09:59:43.815Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|52",
+      "key": "TM|52",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-06-15T09:52:09.063Z",
       "action": "ITEM_CHANGE",
@@ -13740,7 +13781,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T09:59:37.569Z"
+      "at": "2026-06-15T09:59:44.737Z"
     }
   },
   "columnWidths": {
