@@ -1,6 +1,6 @@
 {
-  "version": 4262,
-  "updatedAt": "2026-06-15T08:44:06.543Z",
+  "version": 4263,
+  "updatedAt": "2026-06-15T08:44:11.679Z",
   "items": {
     "TM": [
       {
@@ -3807,7 +3807,7 @@
         "coord_JW": false,
         "management": "completed defects lists and categorized accordingly",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:06:22.245Z",
@@ -3826,10 +3826,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-08T07:42:05.362Z",
+        "updated_at": "2026-06-15T08:06:22.245Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -3873,7 +3875,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-15T08:07:33.057Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -3930,7 +3932,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -4531,7 +4533,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4892,7 +4894,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:09:40.165Z",
+        "updated_at": "2026-06-15T08:25:44.406Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4924,7 +4926,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:12:07.504Z",
+        "updated_at": "2026-06-15T08:25:22.775Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4966,7 +4968,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-06-15T08:25:05.666Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -4989,7 +4991,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:21:54.434Z",
@@ -5018,9 +5020,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:10:38.219Z",
+        "updated_at": "2026-06-15T08:21:58.634Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15",
+        "_deleted": true
       },
       {
         "key": "JF|69",
@@ -5060,7 +5065,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-06-15T08:22:43.096Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -5217,7 +5222,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -5251,10 +5256,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -5293,7 +5300,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5408,7 +5415,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-06-15T08:00:29.028Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5450,7 +5457,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:00:05.143Z",
+        "updated_at": "2026-06-15T08:02:09.569Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5497,7 +5504,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5569,7 +5576,7 @@
         "coord_JW": false,
         "management": "completed defects lists and categorized accordingly",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:06:22.245Z",
@@ -5588,10 +5595,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-08T07:42:05.362Z",
+        "updated_at": "2026-06-15T08:06:22.245Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -5635,7 +5644,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-15T08:07:33.057Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5763,7 +5772,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -6106,7 +6115,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:20:42.702Z",
@@ -6135,9 +6144,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:07:04.532Z",
+        "updated_at": "2026-06-15T08:20:42.702Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|66",
@@ -6182,7 +6193,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7130,7 +7141,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -7164,10 +7175,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|14",
@@ -7236,7 +7249,7 @@
         "coord_JW": false,
         "management": "completed defects lists and categorized accordingly",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:06:22.245Z",
@@ -7255,10 +7268,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-08T07:42:05.362Z",
+        "updated_at": "2026-06-15T08:06:22.245Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -7302,7 +7317,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-15T08:07:33.057Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7359,7 +7374,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7580,7 +7595,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7716,7 +7731,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-06-15T08:25:05.666Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8702,7 +8717,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8817,7 +8832,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-06-15T08:00:29.028Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8859,7 +8874,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:00:05.143Z",
+        "updated_at": "2026-06-15T08:02:09.569Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -8906,7 +8921,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9094,7 +9109,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-06-15T08:25:05.666Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9376,7 +9391,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9623,7 +9638,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9945,7 +9960,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-08T08:39:10.146Z",
+        "updated_at": "2026-06-15T08:25:05.666Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10184,7 +10199,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -10218,10 +10233,12 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -10265,7 +10282,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-15T08:07:33.057Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10726,7 +10743,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -10760,10 +10777,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -10802,7 +10821,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10917,7 +10936,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:32:52.310Z",
+        "updated_at": "2026-06-15T08:02:28.132Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10989,7 +11008,7 @@
         "coord_JW": false,
         "management": "completed defects lists and categorized accordingly",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:06:22.245Z",
@@ -11008,10 +11027,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-08T07:42:05.362Z",
+        "updated_at": "2026-06-15T08:06:22.245Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete on Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|13",
@@ -11097,7 +11118,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11318,7 +11339,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T08:20:42.702Z",
@@ -11347,9 +11368,11 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:07:04.532Z",
+        "updated_at": "2026-06-15T08:20:42.703Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Complete\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|66",
@@ -11394,7 +11417,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -13547,7 +13570,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:43:55.114Z"
+      "at": "2026-06-15T08:44:11.069Z"
     }
   },
   "columnWidths": {
