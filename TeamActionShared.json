@@ -1,6 +1,6 @@
 {
-  "version": 4172,
-  "updatedAt": "2026-06-15T08:21:47.056Z",
+  "version": 4173,
+  "updatedAt": "2026-06-15T08:21:55.683Z",
   "items": {
     "TM": [
       {
@@ -4981,8 +4981,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T08:21:54.434Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Procore\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-06-15T08:21:25.498Z",
             "user": "JF",
@@ -5005,9 +5010,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-15T08:21:25.498Z",
+        "updated_at": "2026-06-15T08:21:54.434Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Procore\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|69",
@@ -11493,6 +11500,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T08:21:54.438Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:21:54.434Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|70",
+      "key": "JF|70",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-15T08:21:25.505Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13380,7 +13407,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:21:46.820Z"
+      "at": "2026-06-15T08:21:55.361Z"
     }
   },
   "columnWidths": {
