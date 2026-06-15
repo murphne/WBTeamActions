@@ -1,6 +1,6 @@
 {
-  "version": 4789,
-  "updatedAt": "2026-06-15T10:51:37.739Z",
+  "version": 4790,
+  "updatedAt": "2026-06-15T10:51:41.834Z",
   "items": {
     "TM": [
       {
@@ -2438,8 +2438,13 @@
         "coord_JW": false,
         "management": "Coordinate with JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T10:51:40.299Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: All discharged\nWhere it is saved: Saved on procore in planning"
+          },
           {
             "timestamp": "2026-06-01T10:06:02.916Z",
             "user": "TM",
@@ -2462,10 +2467,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-01T10:06:02.916Z",
+        "updated_at": "2026-06-15T10:51:40.299Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: All discharged\nWhere it is saved: Saved on procore in planning",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "TM|28",
@@ -11651,6 +11658,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T10:51:40.303Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T10:51:40.299Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|27",
+      "key": "TM|27",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T10:51:01.320Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13873,7 +13900,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T10:51:37.439Z"
+      "at": "2026-06-15T10:51:41.224Z"
     }
   },
   "columnWidths": {
