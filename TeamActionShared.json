@@ -1,6 +1,6 @@
 {
-  "version": 4173,
-  "updatedAt": "2026-06-15T08:21:55.683Z",
+  "version": 4174,
+  "updatedAt": "2026-06-15T08:21:59.480Z",
   "items": {
     "TM": [
       {
@@ -5010,11 +5010,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-15T08:21:54.434Z",
+        "updated_at": "2026-06-15T08:21:58.634Z",
         "review_sender": "",
         "_deletedCommentSignatures": [],
         "completion_note": "What has been completed: Procore\nWhere it is saved: Procore",
-        "date_closed": "2026-06-15"
+        "date_closed": "2026-06-15",
+        "_deleted": true
       },
       {
         "key": "JF|69",
@@ -11500,6 +11501,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T08:21:58.641Z",
+      "action": "DELETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|70",
+      "key": "JF|70",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:21:58.639Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-15T08:21:54.438Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13407,7 +13428,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:21:55.361Z"
+      "at": "2026-06-15T08:21:58.699Z"
     }
   },
   "columnWidths": {
