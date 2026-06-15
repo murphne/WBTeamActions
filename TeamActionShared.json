@@ -1,6 +1,6 @@
 {
-  "version": 4659,
-  "updatedAt": "2026-06-15T10:00:37.934Z",
+  "version": 4660,
+  "updatedAt": "2026-06-15T10:00:44.933Z",
   "items": {
     "TM": [
       {
@@ -4744,9 +4744,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-06-15T10:00:43.419Z",
+            "user": "TM",
+            "text": "Fidn JW calcs from Rotherham"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-27T12:41:16.365Z",
+        "updated_at": "2026-06-15T10:00:43.419Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -11619,6 +11625,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T10:00:43.427Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T10:00:43.423Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|109",
+      "key": "TM|109",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T09:59:43.821Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13781,7 +13807,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T10:00:37.551Z"
+      "at": "2026-06-15T10:00:44.339Z"
     }
   },
   "columnWidths": {
