@@ -1,6 +1,6 @@
 {
-  "version": 4065,
-  "updatedAt": "2026-06-15T07:59:35.454Z",
+  "version": 4066,
+  "updatedAt": "2026-06-15T07:59:38.488Z",
   "items": {
     "TM": [
       {
@@ -3889,6 +3889,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:59:37.068Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -3920,7 +3925,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T07:52:08.138Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -5667,6 +5672,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:59:37.068Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -5698,7 +5708,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-15T07:52:08.138Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -7243,6 +7253,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:59:37.068Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -7274,7 +7289,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-15T07:52:08.138Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -9228,6 +9243,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:59:37.068Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -9259,7 +9279,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-15T07:52:08.138Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -10894,6 +10914,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:59:37.068Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -10925,7 +10950,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-15T07:52:08.138Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -11355,6 +11380,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T07:59:37.074Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T07:59:37.070Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T07:55:08.366Z",
       "action": "ITEM_CHANGE",
@@ -13043,7 +13088,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T07:59:35.062Z"
+      "at": "2026-06-15T07:59:37.984Z"
     }
   },
   "columnWidths": {
