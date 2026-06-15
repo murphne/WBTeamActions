@@ -1,6 +1,6 @@
 {
-  "version": 4040,
-  "updatedAt": "2026-06-15T07:55:06.179Z",
+  "version": 4041,
+  "updatedAt": "2026-06-15T07:55:10.795Z",
   "items": {
     "TM": [
       {
@@ -3920,7 +3920,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:52:08.138Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -5175,7 +5175,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -5209,10 +5209,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -5235,6 +5237,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:55:08.357Z",
+            "user": "JF",
+            "text": "Roadmap in creation for the training to be tailored"
+          },
+          {
             "timestamp": "2026-05-18T07:59:29.246Z",
             "user": "JF",
             "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
@@ -5246,7 +5253,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5691,7 +5698,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:52:08.138Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -7046,7 +7053,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -7080,10 +7087,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|14",
@@ -7265,7 +7274,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:52:08.138Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -8580,6 +8589,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:55:08.357Z",
+            "user": "JF",
+            "text": "Roadmap in creation for the training to be tailored"
+          },
+          {
             "timestamp": "2026-05-18T07:59:29.246Z",
             "user": "JF",
             "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
@@ -8591,7 +8605,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9245,7 +9259,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:52:08.138Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -10009,7 +10023,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -10043,10 +10057,12 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -10546,7 +10562,7 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
           {
             "timestamp": "2026-06-15T07:53:28.969Z",
@@ -10580,10 +10596,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -10606,6 +10624,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T07:55:08.357Z",
+            "user": "JF",
+            "text": "Roadmap in creation for the training to be tailored"
+          },
+          {
             "timestamp": "2026-05-18T07:59:29.246Z",
             "user": "JF",
             "text": "Procore meeting held, training modules ready need to format it in the correct order and discuss getting it on Highways"
@@ -10617,7 +10640,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-15T07:55:08.357Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10902,7 +10925,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-15T07:52:08.138Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": []
@@ -11332,6 +11355,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T07:55:08.366Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T07:55:08.360Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|07",
+      "key": "JF|07",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T07:53:28.974Z",
       "action": "ITEM_CHANGE",
@@ -13000,7 +13043,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T07:54:58.974Z"
+      "at": "2026-06-15T07:55:09.282Z"
     }
   },
   "columnWidths": {
