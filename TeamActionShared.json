@@ -1,6 +1,6 @@
 {
-  "version": 4538,
-  "updatedAt": "2026-06-15T09:34:52.102Z",
+  "version": 4539,
+  "updatedAt": "2026-06-15T09:35:02.255Z",
   "items": {
     "TM": [
       {
@@ -2137,8 +2137,8 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T09:34:46.142Z",
-        "urgent": true,
+        "updated_at": "2026-06-08T09:37:57.632Z",
+        "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8289,8 +8289,8 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-15T09:34:46.143Z",
-        "urgent": true,
+        "updated_at": "2026-06-08T09:37:57.632Z",
+        "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -13592,7 +13592,7 @@
     "viewer-mqez1mht-zc3xke": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T09:34:38.071Z"
+      "at": "2026-06-15T09:35:01.647Z"
     },
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
@@ -13611,9 +13611,9 @@
     "7": 93,
     "8": 89,
     "9": 70,
-    "10": 145,
-    "11": 127,
-    "12": 870,
+    "10": 70,
+    "11": 70,
+    "12": 726,
     "13": 132,
     "14": 280
   },
