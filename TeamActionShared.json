@@ -1,6 +1,6 @@
 {
-  "version": 4086,
-  "updatedAt": "2026-06-15T08:02:06.167Z",
+  "version": 4087,
+  "updatedAt": "2026-06-15T08:02:10.866Z",
   "items": {
     "TM": [
       {
@@ -3920,7 +3920,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T08:01:59.758Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -5396,6 +5396,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:09.569Z",
+            "user": "JF",
+            "text": "Meeting this afternoon with stantec"
+          },
+          {
             "timestamp": "2026-05-18T08:00:05.143Z",
             "user": "JF",
             "text": "JF chasing lawlers for confirmation on submission"
@@ -5407,7 +5412,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:00:05.143Z",
+        "updated_at": "2026-06-15T08:02:09.569Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5705,7 +5710,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-15T08:01:59.758Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7283,7 +7288,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-15T08:01:59.758Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -8757,6 +8762,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:02:09.569Z",
+            "user": "JF",
+            "text": "Meeting this afternoon with stantec"
+          },
+          {
             "timestamp": "2026-05-18T08:00:05.143Z",
             "user": "JF",
             "text": "JF chasing lawlers for confirmation on submission"
@@ -8768,7 +8778,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T08:00:05.143Z",
+        "updated_at": "2026-06-15T08:02:09.569Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9275,7 +9285,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-15T08:01:59.758Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -10943,7 +10953,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-15T08:01:59.758Z",
+        "updated_at": "2026-06-15T07:59:37.068Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11375,6 +11385,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T08:02:09.579Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:02:09.572Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|11",
+      "key": "JF|11",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T08:01:59.765Z",
       "action": "ITEM_CHANGE",
@@ -13123,7 +13153,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:01:58.891Z"
+      "at": "2026-06-15T08:02:10.491Z"
     },
     "viewer-mqexc7hz-sfgzdq": {
       "name": "Tom Murphy",
