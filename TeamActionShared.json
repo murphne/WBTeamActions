@@ -1,6 +1,6 @@
 {
-  "version": 4029,
-  "updatedAt": "2026-06-15T07:53:23.488Z",
+  "version": 4030,
+  "updatedAt": "2026-06-15T07:53:30.200Z",
   "items": {
     "TM": [
       {
@@ -5175,8 +5175,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T07:53:28.969Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-06-08T08:28:07.433Z",
             "user": "JF",
@@ -5204,10 +5209,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -7041,8 +7048,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T07:53:28.969Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-06-08T08:28:07.433Z",
             "user": "JF",
@@ -7070,10 +7082,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|14",
@@ -9999,8 +10013,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T07:53:28.969Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-06-08T08:28:07.433Z",
             "user": "JF",
@@ -10028,10 +10047,12 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|16",
@@ -10531,8 +10552,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-15T07:53:28.969Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-06-08T08:28:07.433Z",
             "user": "JF",
@@ -10560,10 +10586,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:28:07.433Z",
+        "updated_at": "2026-06-15T07:53:28.969Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Snags updated on Procore- internal defects close\nWhere it is saved: Procore",
+        "date_closed": "2026-06-15"
       },
       {
         "key": "JF|07",
@@ -11312,6 +11340,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T07:53:28.974Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T07:53:28.969Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|06",
+      "key": "JF|06",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T07:52:08.149Z",
       "action": "ITEM_CHANGE",
@@ -12960,7 +13008,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T07:53:22.898Z"
+      "at": "2026-06-15T07:53:29.887Z"
     }
   },
   "columnWidths": {
