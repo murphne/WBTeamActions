@@ -1,6 +1,6 @@
 {
-  "version": 4331,
-  "updatedAt": "2026-06-15T08:59:43.786Z",
+  "version": 4332,
+  "updatedAt": "2026-06-15T08:59:46.031Z",
   "items": {
     "TM": [
       {
@@ -4912,7 +4912,7 @@
         "coord_LN": false,
         "coord_JF": false,
         "coord_CS": false,
-        "coord_LC": false,
+        "coord_LC": true,
         "coord_JW": false,
         "management": "",
         "status": "",
@@ -13547,7 +13547,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T08:59:43.267Z"
+      "at": "2026-06-15T08:59:45.428Z"
     }
   },
   "columnWidths": {
