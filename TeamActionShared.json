@@ -1,6 +1,6 @@
 {
-  "version": 4151,
-  "updatedAt": "2026-06-15T08:18:31.057Z",
+  "version": 4152,
+  "updatedAt": "2026-06-15T08:18:47.558Z",
   "items": {
     "TM": [
       {
@@ -4512,6 +4512,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:18:46.210Z",
+            "user": "JF",
+            "text": "Planning drawing review today for submission"
+          },
+          {
             "timestamp": "2026-06-08T08:35:02.590Z",
             "user": "JF",
             "text": "Abington Planning drawings received with team to review"
@@ -4528,7 +4533,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6132,6 +6137,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:18:46.210Z",
+            "user": "JF",
+            "text": "Planning drawing review today for submission"
+          },
+          {
             "timestamp": "2026-06-08T08:35:02.590Z",
             "user": "JF",
             "text": "Abington Planning drawings received with team to review"
@@ -6148,7 +6158,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7529,6 +7539,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:18:46.210Z",
+            "user": "JF",
+            "text": "Planning drawing review today for submission"
+          },
+          {
             "timestamp": "2026-06-08T08:35:02.590Z",
             "user": "JF",
             "text": "Abington Planning drawings received with team to review"
@@ -7545,7 +7560,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11292,6 +11307,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T08:18:46.210Z",
+            "user": "JF",
+            "text": "Planning drawing review today for submission"
+          },
+          {
             "timestamp": "2026-06-08T08:35:02.590Z",
             "user": "JF",
             "text": "Abington Planning drawings received with team to review"
@@ -11308,7 +11328,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-15T08:18:46.211Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11453,6 +11473,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-15T08:18:46.217Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-15T08:18:46.213Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-15T08:07:33.064Z",
       "action": "ITEM_CHANGE",
@@ -13281,7 +13321,7 @@
     "viewer-mqewyh5w-vushba": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-15T08:18:30.759Z"
+      "at": "2026-06-15T08:18:46.895Z"
     }
   },
   "columnWidths": {
