@@ -1,6 +1,6 @@
 {
-  "version": 4582,
-  "updatedAt": "2026-06-15T09:42:04.750Z",
+  "version": 4583,
+  "updatedAt": "2026-06-15T09:42:10.427Z",
   "items": {
     "TM": [
       {
@@ -521,6 +521,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-15T09:42:08.826Z",
+            "user": "TM",
+            "text": "Early Mid-July - awaiting EPS email this week (15/06). Pass on to CS. Chase up a PO with LC."
+          },
+          {
             "timestamp": "2026-06-08T09:42:07.204Z",
             "user": "TM",
             "text": "TM to re-read, then get Commercials to appoint and CS to arrange works"
@@ -532,7 +537,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T09:42:07.204Z",
+        "updated_at": "2026-06-15T09:42:08.826Z",
         "review_sender": "",
         "_deletedCommentSignatures": [
           "1780911695018|tm|TM to get Commercials to appoint and CS to arrange works"
@@ -11581,6 +11586,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-15T09:42:08.835Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-06-15T09:42:08.830Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|100",
+      "key": "TM|100",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-06-15T09:38:12.834Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13668,7 +13693,7 @@
     "viewer-mq4z23io-jgelp0": {
       "name": "Tom Murphy",
       "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-15T09:42:04.077Z"
+      "at": "2026-06-15T09:42:09.753Z"
     }
   },
   "columnWidths": {
