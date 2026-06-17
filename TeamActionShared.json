@@ -1,6 +1,6 @@
 {
-  "version": 4975,
-  "updatedAt": "2026-06-16T15:56:17.826Z",
+  "version": 4976,
+  "updatedAt": "2026-06-17T07:22:58.438Z",
   "items": {
     "TM": [
       {
@@ -13989,10 +13989,10 @@
     }
   },
   "presence": {
-    "viewer-mq4z23io-jgelp0": {
-      "name": "Tom Murphy",
-      "clientId": "client-mq4z23iq-9bnc35",
-      "at": "2026-06-16T15:56:17.192Z"
+    "viewer-mqhquo4k-mktt4r": {
+      "name": "User TT4R",
+      "clientId": "client-mqhquo4p-t3tptt",
+      "at": "2026-06-17T07:22:58.070Z"
     }
   },
   "columnWidths": {
