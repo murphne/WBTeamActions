@@ -1,6 +1,6 @@
 {
-  "version": 5131,
-  "updatedAt": "2026-06-22T07:36:42.163Z",
+  "version": 5132,
+  "updatedAt": "2026-06-22T07:36:47.332Z",
   "items": {
     "TM": [
       {
@@ -4080,8 +4080,13 @@
         "coord_JW": false,
         "management": "Updated list issued to HML on 02.04.26. 54Nr defects overdue.",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-22T07:36:45.827Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-04-30T11:40:25.464Z",
             "user": "TM",
@@ -4089,10 +4094,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T11:40:25.464Z",
+        "updated_at": "2026-06-22T07:36:45.827Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team",
+        "date_closed": "2026-06-22"
       },
       {
         "key": "CS|08",
@@ -6675,8 +6682,13 @@
         "coord_JW": false,
         "management": "Updated list issued to HML on 02.04.26. 54Nr defects overdue.",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-22T07:36:45.827Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-04-30T11:40:25.464Z",
             "user": "TM",
@@ -6684,10 +6696,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-30T11:40:25.464Z",
+        "updated_at": "2026-06-22T07:36:45.827Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team",
+        "date_closed": "2026-06-22"
       },
       {
         "key": "CS|10",
@@ -9635,8 +9649,13 @@
         "coord_JW": false,
         "management": "Updated list issued to HML on 02.04.26. 54Nr defects overdue.",
         "programme_date": null,
-        "status": "Ready for Review",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-22T07:36:45.827Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-04-30T11:40:25.464Z",
             "user": "TM",
@@ -9644,10 +9663,12 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-04-30T11:40:25.464Z",
+        "updated_at": "2026-06-22T07:36:45.827Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Meeting Held with HML - Outstanding list issued to all\nWhere it is saved: emailed to team",
+        "date_closed": "2026-06-22"
       },
       {
         "key": "JF|03",
@@ -11871,6 +11892,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T07:36:45.837Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-06-22T07:36:45.828Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|09",
+      "key": "CS|09",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-06-22T07:10:40.518Z",
       "action": "ITEM_CHANGE",
@@ -14314,7 +14355,7 @@
     "viewer-mqov22yk-8l56ji": {
       "name": "Craig Stevens",
       "clientId": "client-mqov22yn-9zad37",
-      "at": "2026-06-22T07:36:41.730Z"
+      "at": "2026-06-22T07:36:46.769Z"
     }
   },
   "columnWidths": {
