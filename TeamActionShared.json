@@ -1,6 +1,6 @@
 {
-  "version": 5333,
-  "updatedAt": "2026-06-22T08:25:33.116Z",
+  "version": 5334,
+  "updatedAt": "2026-06-22T08:25:43.315Z",
   "items": {
     "TM": [
       {
@@ -4013,7 +4013,7 @@
         "action_required": "Formal notice to appoint consultants",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": true,
         "coord_CS": false,
@@ -4055,7 +4055,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-22T08:25:05.477Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -5859,7 +5859,7 @@
         "action_required": "Formal notice to appoint consultants",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": true,
         "coord_CS": false,
@@ -5901,7 +5901,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-22T08:25:05.477Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7651,7 +7651,7 @@
         "action_required": "Formal notice to appoint consultants",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": true,
         "coord_CS": false,
@@ -7693,7 +7693,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-22T08:25:05.477Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9680,7 +9680,7 @@
         "action_required": "Formal notice to appoint consultants",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": true,
         "coord_CS": false,
@@ -9722,7 +9722,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-22T08:25:05.477Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11408,7 +11408,7 @@
         "action_required": "Formal notice to appoint consultants",
         "lead": "JF",
         "coord_TM": false,
-        "coord_SC": false,
+        "coord_SC": true,
         "coord_LN": false,
         "coord_JF": true,
         "coord_CS": false,
@@ -11450,7 +11450,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:55:47.741Z",
+        "updated_at": "2026-06-22T08:25:05.477Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -14370,7 +14370,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:25:30.675Z"
+      "at": "2026-06-22T08:25:42.954Z"
     }
   },
   "columnWidths": {
