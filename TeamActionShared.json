@@ -1,6 +1,6 @@
 {
-  "version": 5374,
-  "updatedAt": "2026-06-22T08:39:55.411Z",
+  "version": 5375,
+  "updatedAt": "2026-06-22T08:40:07.086Z",
   "items": {
     "TM": [
       {
@@ -4659,6 +4659,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:40:05.547Z",
+            "user": "JF",
+            "text": "planning drawings sent to Tom J and Matt G"
+          },
+          {
             "timestamp": "2026-06-15T08:18:46.210Z",
             "user": "JF",
             "text": "Planning drawing review today for submission"
@@ -4680,7 +4685,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-22T08:40:05.547Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6360,6 +6365,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:40:05.547Z",
+            "user": "JF",
+            "text": "planning drawings sent to Tom J and Matt G"
+          },
+          {
             "timestamp": "2026-06-15T08:18:46.210Z",
             "user": "JF",
             "text": "Planning drawing review today for submission"
@@ -6381,7 +6391,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-22T08:40:05.547Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7978,6 +7988,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:40:05.547Z",
+            "user": "JF",
+            "text": "planning drawings sent to Tom J and Matt G"
+          },
+          {
             "timestamp": "2026-06-15T08:18:46.210Z",
             "user": "JF",
             "text": "Planning drawing review today for submission"
@@ -7999,7 +8014,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-22T08:40:05.547Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -11882,6 +11897,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:40:05.547Z",
+            "user": "JF",
+            "text": "planning drawings sent to Tom J and Matt G"
+          },
+          {
             "timestamp": "2026-06-15T08:18:46.210Z",
             "user": "JF",
             "text": "Planning drawing review today for submission"
@@ -11903,7 +11923,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-08T08:35:02.590Z",
+        "updated_at": "2026-06-22T08:40:05.547Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12048,6 +12068,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T08:40:05.561Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:40:05.554Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:39:45.313Z",
       "action": "ITEM_CHANGE",
@@ -14681,7 +14721,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:39:54.738Z"
+      "at": "2026-06-22T08:40:06.488Z"
     }
   },
   "columnWidths": {
