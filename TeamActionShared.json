@@ -1,6 +1,6 @@
 {
-  "version": 5358,
-  "updatedAt": "2026-06-22T08:37:30.904Z",
+  "version": 5359,
+  "updatedAt": "2026-06-22T08:37:43.258Z",
   "items": {
     "TM": [
       {
@@ -5542,6 +5542,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:37:42.015Z",
+            "user": "JF",
+            "text": "with team, no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T08:00:29.028Z",
             "user": "JF",
             "text": "With team to review, no Progress in period"
@@ -5563,7 +5568,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-06-22T08:37:42.015Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9174,6 +9179,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:37:42.015Z",
+            "user": "JF",
+            "text": "with team, no progress in period"
+          },
+          {
             "timestamp": "2026-06-15T08:00:29.028Z",
             "user": "JF",
             "text": "With team to review, no Progress in period"
@@ -9195,7 +9205,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-08T09:08:33.561Z",
+        "updated_at": "2026-06-22T08:37:42.015Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11961,6 +11971,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-22T08:37:42.027Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:37:42.020Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|10",
+      "key": "JF|10",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-22T08:37:29.465Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14493,7 +14523,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:37:30.393Z"
+      "at": "2026-06-22T08:37:42.735Z"
     }
   },
   "columnWidths": {
