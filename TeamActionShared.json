@@ -1,6 +1,6 @@
 {
-  "version": 5376,
-  "updatedAt": "2026-06-22T08:40:09.090Z",
+  "version": 5377,
+  "updatedAt": "2026-06-22T08:40:17.717Z",
   "items": {
     "TM": [
       {
@@ -6310,8 +6310,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-22T08:40:16.422Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: complete\nWhere it is saved: procore"
+          },
           {
             "timestamp": "2026-06-15T08:20:42.702Z",
             "user": "JF",
@@ -6339,9 +6344,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:07:04.532Z",
+        "updated_at": "2026-06-22T08:40:16.422Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: complete\nWhere it is saved: procore",
+        "date_closed": "2026-06-22"
       },
       {
         "key": "JF|66",
@@ -11842,8 +11849,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-06-22T08:40:16.422Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: complete\nWhere it is saved: procore"
+          },
           {
             "timestamp": "2026-06-15T08:20:42.702Z",
             "user": "JF",
@@ -11871,9 +11883,11 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T08:07:04.532Z",
+        "updated_at": "2026-06-22T08:40:16.422Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: complete\nWhere it is saved: procore",
+        "date_closed": "2026-06-22"
       },
       {
         "key": "JF|66",
@@ -12068,6 +12082,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T08:40:16.431Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:40:16.422Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|67",
+      "key": "JF|67",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:40:05.561Z",
       "action": "ITEM_CHANGE",
@@ -14721,7 +14755,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:40:08.778Z"
+      "at": "2026-06-22T08:40:17.356Z"
     }
   },
   "columnWidths": {
