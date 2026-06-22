@@ -1,6 +1,6 @@
 {
-  "version": 5357,
-  "updatedAt": "2026-06-22T08:37:19.652Z",
+  "version": 5358,
+  "updatedAt": "2026-06-22T08:37:30.904Z",
   "items": {
     "TM": [
       {
@@ -5427,6 +5427,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:37:29.454Z",
+            "user": "JF",
+            "text": "sent roadmap to Procore, Procore reviewing"
+          },
+          {
             "timestamp": "2026-06-15T07:55:08.357Z",
             "user": "JF",
             "text": "Roadmap in creation for the training to be tailored"
@@ -5443,7 +5448,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-22T08:37:29.454Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9054,6 +9059,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:37:29.454Z",
+            "user": "JF",
+            "text": "sent roadmap to Procore, Procore reviewing"
+          },
+          {
             "timestamp": "2026-06-15T07:55:08.357Z",
             "user": "JF",
             "text": "Roadmap in creation for the training to be tailored"
@@ -9070,7 +9080,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-22T08:37:29.454Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11187,6 +11197,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:37:29.454Z",
+            "user": "JF",
+            "text": "sent roadmap to Procore, Procore reviewing"
+          },
+          {
             "timestamp": "2026-06-15T07:55:08.357Z",
             "user": "JF",
             "text": "Roadmap in creation for the training to be tailored"
@@ -11203,7 +11218,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:59:29.246Z",
+        "updated_at": "2026-06-22T08:37:29.454Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11945,6 +11960,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T08:37:29.465Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:37:29.459Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|07",
+      "key": "JF|07",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:37:10.201Z",
       "action": "ITEM_CHANGE",
@@ -14458,7 +14493,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:37:18.992Z"
+      "at": "2026-06-22T08:37:30.393Z"
     }
   },
   "columnWidths": {
