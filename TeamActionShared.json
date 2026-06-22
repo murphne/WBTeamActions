@@ -1,6 +1,6 @@
 {
-  "version": 5372,
-  "updatedAt": "2026-06-22T08:39:33.449Z",
+  "version": 5373,
+  "updatedAt": "2026-06-22T08:39:46.821Z",
   "items": {
     "TM": [
       {
@@ -3984,6 +3984,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:39:45.301Z",
+            "user": "JF",
+            "text": "still working through comments"
+          },
+          {
             "timestamp": "2026-06-15T08:07:33.057Z",
             "user": "JF",
             "text": "Had first review from assesor, working through comments"
@@ -4005,7 +4010,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-22T08:39:45.301Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5798,6 +5803,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:39:45.301Z",
+            "user": "JF",
+            "text": "still working through comments"
+          },
+          {
             "timestamp": "2026-06-15T08:07:33.057Z",
             "user": "JF",
             "text": "Had first review from assesor, working through comments"
@@ -5819,7 +5829,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-22T08:39:45.301Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7680,6 +7690,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:39:45.301Z",
+            "user": "JF",
+            "text": "still working through comments"
+          },
+          {
             "timestamp": "2026-06-15T08:07:33.057Z",
             "user": "JF",
             "text": "Had first review from assesor, working through comments"
@@ -7701,7 +7716,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-22T08:39:45.301Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10697,6 +10712,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:39:45.301Z",
+            "user": "JF",
+            "text": "still working through comments"
+          },
+          {
             "timestamp": "2026-06-15T08:07:33.057Z",
             "user": "JF",
             "text": "Had first review from assesor, working through comments"
@@ -10718,7 +10738,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T08:04:20.868Z",
+        "updated_at": "2026-06-22T08:39:45.301Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12028,6 +12048,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T08:39:45.313Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:39:45.307Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|16",
+      "key": "JF|16",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:39:27.299Z",
       "action": "ITEM_CHANGE",
@@ -14641,7 +14681,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:39:30.662Z"
+      "at": "2026-06-22T08:39:46.239Z"
     }
   },
   "columnWidths": {
