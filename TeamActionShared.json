@@ -1,6 +1,6 @@
 {
-  "version": 5353,
-  "updatedAt": "2026-06-22T08:36:43.654Z",
+  "version": 5354,
+  "updatedAt": "2026-06-22T08:36:55.902Z",
   "items": {
     "TM": [
       {
@@ -4024,6 +4024,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -4055,7 +4060,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-22T08:25:05.477Z",
+        "updated_at": "2026-06-22T08:36:54.580Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -5870,6 +5875,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -5901,7 +5911,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-22T08:25:05.477Z",
+        "updated_at": "2026-06-22T08:36:54.580Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7662,6 +7672,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -7693,7 +7708,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-22T08:25:05.477Z",
+        "updated_at": "2026-06-22T08:36:54.580Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9691,6 +9706,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -9722,7 +9742,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-22T08:25:05.477Z",
+        "updated_at": "2026-06-22T08:36:54.580Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11419,6 +11439,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
             "timestamp": "2026-06-15T07:52:08.138Z",
             "user": "JF",
             "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
@@ -11450,7 +11475,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-22T08:25:05.477Z",
+        "updated_at": "2026-06-22T08:36:54.580Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11892,6 +11917,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-22T08:36:54.598Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:36:54.588Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:25:06.215Z",
       "action": "ITEM_CHANGE",
@@ -14365,7 +14410,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:36:42.989Z"
+      "at": "2026-06-22T08:36:55.529Z"
     }
   },
   "columnWidths": {
