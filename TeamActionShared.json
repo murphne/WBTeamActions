@@ -1,6 +1,6 @@
 {
-  "version": 5039,
-  "updatedAt": "2026-06-22T06:58:54.047Z",
+  "version": 5040,
+  "updatedAt": "2026-06-22T06:59:05.433Z",
   "items": {
     "TM": [
       {
@@ -6374,6 +6374,31 @@
     ],
     "CS": [
       {
+        "key": "CS|108",
+        "priority": null,
+        "item_num": 108,
+        "urgent": false,
+        "effective_date": "2026-06-22",
+        "programme_date": "2026-06-26",
+        "project": "Hinckley M69",
+        "description": "Dice Earthworks strategy to be  finalised",
+        "action_required": "Dice Earthworks strategy to be  finalised",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-06-22T06:59:04.000Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|73",
         "priority": null,
         "item_num": 73,
@@ -11690,6 +11715,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-22T06:59:04.014Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-06-22T06:59:04.000Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|108",
+      "key": "CS|108",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-06-15T14:31:03.691Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -13992,7 +14037,7 @@
     "viewer-mqov22yk-8l56ji": {
       "name": "Craig Stevens",
       "clientId": "client-mqov22yn-9zad37",
-      "at": "2026-06-22T06:58:53.720Z"
+      "at": "2026-06-22T06:59:04.943Z"
     },
     "viewer-mqov3flz-6zkdtb": {
       "name": "User KDTB",
