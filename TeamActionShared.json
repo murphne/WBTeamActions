@@ -1,6 +1,6 @@
 {
-  "version": 5381,
-  "updatedAt": "2026-06-22T08:41:07.024Z",
+  "version": 5382,
+  "updatedAt": "2026-06-22T08:41:12.548Z",
   "items": {
     "TM": [
       {
@@ -5204,6 +5204,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-22T08:41:10.981Z",
+            "user": "JF",
+            "text": "MSI pre start this week. brand Ga reviewed and coordinated"
+          },
+          {
             "timestamp": "2026-06-15T08:22:43.096Z",
             "user": "JF",
             "text": "Programme updated, JF reviewing RIBA 4 drawing progress"
@@ -5220,7 +5225,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-08T09:08:11.298Z",
+        "updated_at": "2026-06-22T08:41:10.981Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12083,6 +12088,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-22T08:41:10.996Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-22T08:41:10.988Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-22T08:40:16.431Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -14755,7 +14780,7 @@
     "viewer-mqoy9kzl-0ve2x3": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T08:41:06.654Z"
+      "at": "2026-06-22T08:41:11.917Z"
     }
   },
   "columnWidths": {
