@@ -1,6 +1,6 @@
 {
-  "version": 5477,
-  "updatedAt": "2026-06-22T09:38:01.588Z",
+  "version": 5478,
+  "updatedAt": "2026-06-23T06:49:27.884Z",
   "items": {
     "TM": [
       {
@@ -14869,10 +14869,10 @@
     }
   },
   "presence": {
-    "viewer-mqoy9kzl-0ve2x3": {
-      "name": "Jordan Fraser",
-      "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-22T09:38:01.252Z"
+    "viewer-mqoxdywc-6pa5va": {
+      "name": "Craig Stevens",
+      "clientId": "client-mqoxdywf-hju1w4",
+      "at": "2026-06-23T06:49:27.506Z"
     }
   },
   "columnWidths": {
