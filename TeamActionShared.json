@@ -1,6 +1,6 @@
 {
-  "version": 5552,
-  "updatedAt": "2026-06-29T07:40:55.575Z",
+  "version": 5553,
+  "updatedAt": "2026-06-29T07:40:59.249Z",
   "items": {
     "TM": [
       {
@@ -5700,6 +5700,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:40:57.645Z",
+            "user": "JF",
+            "text": "inspection undertaken, need to send Mclarron an email"
+          },
+          {
             "timestamp": "2026-06-22T08:39:13.356Z",
             "user": "JF",
             "text": "booking in final inspection, inspectors confriming date"
@@ -5726,7 +5731,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-22T08:39:13.356Z",
+        "updated_at": "2026-06-29T07:40:57.645Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9418,6 +9423,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:40:57.645Z",
+            "user": "JF",
+            "text": "inspection undertaken, need to send Mclarron an email"
+          },
+          {
             "timestamp": "2026-06-22T08:39:13.356Z",
             "user": "JF",
             "text": "booking in final inspection, inspectors confriming date"
@@ -9444,7 +9454,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-22T08:39:13.356Z",
+        "updated_at": "2026-06-29T07:40:57.645Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10162,6 +10172,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:40:57.645Z",
+            "user": "JF",
+            "text": "inspection undertaken, need to send Mclarron an email"
+          },
+          {
             "timestamp": "2026-06-22T08:39:13.356Z",
             "user": "JF",
             "text": "booking in final inspection, inspectors confriming date"
@@ -10188,7 +10203,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-22T08:39:13.356Z",
+        "updated_at": "2026-06-29T07:40:57.645Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11502,6 +11517,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:40:57.645Z",
+            "user": "JF",
+            "text": "inspection undertaken, need to send Mclarron an email"
+          },
+          {
             "timestamp": "2026-06-22T08:39:13.356Z",
             "user": "JF",
             "text": "booking in final inspection, inspectors confriming date"
@@ -11528,7 +11548,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-22T08:39:13.356Z",
+        "updated_at": "2026-06-29T07:40:57.645Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12179,6 +12199,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-29T07:40:57.660Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-29T07:40:57.651Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|12",
+      "key": "JF|12",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-29T07:40:35.446Z",
       "action": "ITEM_CHANGE",
@@ -15012,7 +15052,7 @@
     "viewer-mqywpwfi-5zad8d": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-29T07:40:54.985Z"
+      "at": "2026-06-29T07:40:58.577Z"
     }
   },
   "columnWidths": {
