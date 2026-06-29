@@ -1,6 +1,6 @@
 {
-  "version": 5574,
-  "updatedAt": "2026-06-29T07:45:31.569Z",
+  "version": 5575,
+  "updatedAt": "2026-06-29T07:45:37.450Z",
   "items": {
     "TM": [
       {
@@ -5236,6 +5236,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:45:36.228Z",
+            "user": "JF",
+            "text": "Fuel drawings to finalized this week \nMSI Pre start didnt happen last week needs to happen this week (due to MSI commercials reviewing )\nBrands- elevations to start \nSite layout and east boundary to sort \nLEED rmeetings happening- need a formal review with all parties once completed"
+          },
+          {
             "timestamp": "2026-06-22T08:41:10.981Z",
             "user": "JF",
             "text": "MSI pre start this week. brand Ga reviewed and coordinated"
@@ -5257,7 +5262,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-22T08:41:10.981Z",
+        "updated_at": "2026-06-29T07:45:36.229Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12240,6 +12245,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-06-29T07:45:36.242Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-29T07:45:36.234Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-06-29T07:43:40.760Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -15132,7 +15157,7 @@
     "viewer-mqywpwfi-5zad8d": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-29T07:45:30.899Z"
+      "at": "2026-06-29T07:45:37.161Z"
     }
   },
   "columnWidths": {
