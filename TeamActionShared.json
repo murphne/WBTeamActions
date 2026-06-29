@@ -1,6 +1,6 @@
 {
-  "version": 5542,
-  "updatedAt": "2026-06-29T07:39:23.869Z",
+  "version": 5543,
+  "updatedAt": "2026-06-29T07:39:36.628Z",
   "items": {
     "TM": [
       {
@@ -4036,6 +4036,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
             "timestamp": "2026-06-22T08:36:54.580Z",
             "user": "JF",
             "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
@@ -4072,7 +4077,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-22T08:36:54.580Z",
+        "updated_at": "2026-06-29T07:39:35.362Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -5953,6 +5958,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
             "timestamp": "2026-06-22T08:36:54.580Z",
             "user": "JF",
             "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
@@ -5989,7 +5999,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-22T08:36:54.580Z",
+        "updated_at": "2026-06-29T07:39:35.362Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7781,6 +7791,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
             "timestamp": "2026-06-22T08:36:54.580Z",
             "user": "JF",
             "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
@@ -7817,7 +7832,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-22T08:36:54.580Z",
+        "updated_at": "2026-06-29T07:39:35.362Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9850,6 +9865,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
             "timestamp": "2026-06-22T08:36:54.580Z",
             "user": "JF",
             "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
@@ -9886,7 +9906,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-22T08:36:54.580Z",
+        "updated_at": "2026-06-29T07:39:35.362Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11629,6 +11649,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
             "timestamp": "2026-06-22T08:36:54.580Z",
             "user": "JF",
             "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
@@ -11665,7 +11690,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-22T08:36:54.580Z",
+        "updated_at": "2026-06-29T07:39:35.362Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12119,6 +12144,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-06-29T07:39:35.384Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-06-29T07:39:35.370Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-22T08:42:12.239Z",
       "action": "ITEM_CHANGE",
@@ -14872,7 +14917,7 @@
     "viewer-mqywpwfi-5zad8d": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-06-29T07:39:19.370Z"
+      "at": "2026-06-29T07:39:36.311Z"
     }
   },
   "columnWidths": {
