@@ -1,6 +1,6 @@
 {
-  "version": 5899,
-  "updatedAt": "2026-07-06T08:25:20.143Z",
+  "version": 5900,
+  "updatedAt": "2026-07-06T08:25:31.467Z",
   "items": {
     "TM": [
       {
@@ -5092,9 +5092,10 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:46:17.712Z",
+        "updated_at": "2026-07-06T08:25:29.904Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "JF|72",
@@ -12395,6 +12396,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-06T08:25:29.914Z",
+      "action": "DELETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|73",
+      "key": "JF|73",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:25:29.911Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-07-06T08:24:10.799Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -15527,7 +15548,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:25:19.607Z"
+      "at": "2026-07-06T08:25:30.833Z"
     }
   },
   "columnWidths": {
