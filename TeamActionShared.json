@@ -1,6 +1,6 @@
 {
-  "version": 5840,
-  "updatedAt": "2026-07-06T08:12:56.284Z",
+  "version": 5841,
+  "updatedAt": "2026-07-06T08:13:08.115Z",
   "items": {
     "TM": [
       {
@@ -5506,6 +5506,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:13:06.948Z",
+            "user": "JF",
+            "text": "sent chaser email to Procore as not had any update on training days"
+          },
+          {
             "timestamp": "2026-06-29T07:39:59.474Z",
             "user": "JF",
             "text": "JF to chase Procore on training day options"
@@ -5532,7 +5537,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:39:59.474Z",
+        "updated_at": "2026-07-06T08:13:06.948Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9264,6 +9269,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:13:06.948Z",
+            "user": "JF",
+            "text": "sent chaser email to Procore as not had any update on training days"
+          },
+          {
             "timestamp": "2026-06-29T07:39:59.474Z",
             "user": "JF",
             "text": "JF to chase Procore on training day options"
@@ -9290,7 +9300,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-29T07:39:59.474Z",
+        "updated_at": "2026-07-06T08:13:06.948Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11492,6 +11502,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:13:06.948Z",
+            "user": "JF",
+            "text": "sent chaser email to Procore as not had any update on training days"
+          },
+          {
             "timestamp": "2026-06-29T07:39:59.474Z",
             "user": "JF",
             "text": "JF to chase Procore on training day options"
@@ -11518,7 +11533,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-29T07:39:59.474Z",
+        "updated_at": "2026-07-06T08:13:06.948Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12304,6 +12319,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:13:06.963Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:13:06.954Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|07",
+      "key": "JF|07",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-06T08:10:42.065Z",
       "action": "ITEM_CHANGE",
@@ -15317,7 +15352,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:12:55.794Z"
+      "at": "2026-07-06T08:13:07.656Z"
     }
   },
   "columnWidths": {
