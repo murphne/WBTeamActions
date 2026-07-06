@@ -1,6 +1,6 @@
 {
-  "version": 5831,
-  "updatedAt": "2026-07-06T08:10:20.375Z",
+  "version": 5832,
+  "updatedAt": "2026-07-06T08:10:29.868Z",
   "items": {
     "TM": [
       {
@@ -4032,7 +4032,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -4082,7 +4082,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-29T07:39:35.362Z",
+        "updated_at": "2026-07-06T08:10:27.649Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -5993,75 +5993,6 @@
         "_deletedCommentSignatures": []
       },
       {
-        "key": "JF|03",
-        "priority": null,
-        "item_num": 3,
-        "effective_date": "2026-03-11",
-        "project": "Bridgwater",
-        "description": "RIBA Stage 4 - building",
-        "action_required": "Formal notice to appoint consultants",
-        "lead": "JF",
-        "coord_TM": false,
-        "coord_SC": true,
-        "coord_LN": false,
-        "coord_JF": true,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "CEA required. Critical path issue. 4 weeks delay",
-        "programme_date": null,
-        "status": "Ongoing",
-        "comments": [
-          {
-            "timestamp": "2026-06-29T07:39:35.361Z",
-            "user": "JF",
-            "text": "with commercials, no progress in period"
-          },
-          {
-            "timestamp": "2026-06-22T08:36:54.580Z",
-            "user": "JF",
-            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
-          },
-          {
-            "timestamp": "2026-06-15T07:52:08.138Z",
-            "user": "JF",
-            "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
-          },
-          {
-            "timestamp": "2026-05-18T07:55:47.740Z",
-            "user": "JF",
-            "text": "no progress in period"
-          },
-          {
-            "timestamp": "2026-05-08T07:33:40.476Z",
-            "user": "JF",
-            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
-          },
-          {
-            "timestamp": "2026-04-24T07:31:22.051Z",
-            "user": "LC",
-            "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
-          },
-          {
-            "timestamp": "2026-04-14T10:47:20.084Z",
-            "user": "JF",
-            "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
-          },
-          {
-            "timestamp": "2026-04-08T00:00:00",
-            "user": "Legacy",
-            "text": "letters complete, agreeing costs with Architect"
-          }
-        ],
-        "sheet": "JF",
-        "updated_at": "2026-06-29T07:39:35.362Z",
-        "urgent": false,
-        "review_sender": "TM",
-        "_deletedCommentSignatures": [
-          "1781510377068|jf|no progress in period"
-        ]
-      },
-      {
         "key": "TM|02",
         "priority": null,
         "item_num": 2,
@@ -6547,6 +6478,75 @@
         "_deletedCommentSignatures": [],
         "review_sender": "",
         "_deleted": true
+      },
+      {
+        "key": "JF|03",
+        "priority": null,
+        "item_num": 3,
+        "effective_date": "2026-03-11",
+        "project": "Bridgwater",
+        "description": "RIBA Stage 4 - building",
+        "action_required": "Formal notice to appoint consultants",
+        "lead": "JF",
+        "coord_TM": false,
+        "coord_SC": true,
+        "coord_LN": false,
+        "coord_JF": true,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "CEA required. Critical path issue. 4 weeks delay",
+        "programme_date": null,
+        "status": "Ongoing",
+        "comments": [
+          {
+            "timestamp": "2026-06-29T07:39:35.361Z",
+            "user": "JF",
+            "text": "with commercials, no progress in period"
+          },
+          {
+            "timestamp": "2026-06-22T08:36:54.580Z",
+            "user": "JF",
+            "text": "meeting held with Corgan and Sam C, discussed costs. Sam C agreeing number"
+          },
+          {
+            "timestamp": "2026-06-15T07:52:08.138Z",
+            "user": "JF",
+            "text": "sam trying to get hold of corgans, tried last week but they didnt answer, he is trying again today"
+          },
+          {
+            "timestamp": "2026-05-18T07:55:47.740Z",
+            "user": "JF",
+            "text": "no progress in period"
+          },
+          {
+            "timestamp": "2026-05-08T07:33:40.476Z",
+            "user": "JF",
+            "text": "Welcome Break have requested a change to the GA, Riba 4 currently on hold, JF gone out to external consultants for cause and effect of change. received T&L and Corgans last night- not yet reviewed"
+          },
+          {
+            "timestamp": "2026-04-24T07:31:22.051Z",
+            "user": "LC",
+            "text": "SC/JF have agreed a variation for the Architect to complete stage 3 update."
+          },
+          {
+            "timestamp": "2026-04-14T10:47:20.084Z",
+            "user": "JF",
+            "text": "Ready for Review\nWhat has been done: Outstanding items reviewed. With others to send once ready\nWhere it is saved: Job folder - sub Orders"
+          },
+          {
+            "timestamp": "2026-04-08T00:00:00",
+            "user": "Legacy",
+            "text": "letters complete, agreeing costs with Architect"
+          }
+        ],
+        "sheet": "JF",
+        "updated_at": "2026-06-29T07:39:35.362Z",
+        "urgent": false,
+        "review_sender": "TM",
+        "_deletedCommentSignatures": [
+          "1781510377068|jf|no progress in period"
+        ]
       }
     ],
     "CS": [
@@ -7847,7 +7847,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -7897,7 +7897,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-29T07:39:35.362Z",
+        "updated_at": "2026-07-06T08:10:27.649Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9956,7 +9956,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -10006,7 +10006,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-29T07:39:35.362Z",
+        "updated_at": "2026-07-06T08:10:27.649Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11770,7 +11770,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -11820,7 +11820,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-29T07:39:35.362Z",
+        "updated_at": "2026-07-06T08:10:27.649Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12279,6 +12279,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:10:27.659Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item removed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:10:27.649Z",
+      "action": "REMOVE_COORD",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "JF",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-06-29T07:46:17.726Z",
       "action": "ITEM_CHANGE",
@@ -15252,7 +15272,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:10:19.799Z"
+      "at": "2026-07-06T08:10:29.315Z"
     }
   },
   "columnWidths": {
