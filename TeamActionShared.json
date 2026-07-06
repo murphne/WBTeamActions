@@ -1,6 +1,6 @@
 {
-  "version": 5832,
-  "updatedAt": "2026-07-06T08:10:29.868Z",
+  "version": 5833,
+  "updatedAt": "2026-07-06T08:10:43.713Z",
   "items": {
     "TM": [
       {
@@ -4041,6 +4041,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:10:42.051Z",
+            "user": "JF",
+            "text": "With commercials to provide change request form"
+          },
+          {
             "timestamp": "2026-06-29T07:39:35.361Z",
             "user": "JF",
             "text": "with commercials, no progress in period"
@@ -4082,7 +4087,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-06T08:10:27.649Z",
+        "updated_at": "2026-07-06T08:10:42.052Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -6491,7 +6496,7 @@
         "coord_TM": false,
         "coord_SC": true,
         "coord_LN": false,
-        "coord_JF": true,
+        "coord_JF": false,
         "coord_CS": false,
         "coord_LC": false,
         "coord_JW": false,
@@ -6499,6 +6504,11 @@
         "programme_date": null,
         "status": "Ongoing",
         "comments": [
+          {
+            "timestamp": "2026-07-06T08:10:42.051Z",
+            "user": "JF",
+            "text": "With commercials to provide change request form"
+          },
           {
             "timestamp": "2026-06-29T07:39:35.361Z",
             "user": "JF",
@@ -6541,7 +6551,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:39:35.362Z",
+        "updated_at": "2026-07-06T08:10:42.052Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7856,6 +7866,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:10:42.051Z",
+            "user": "JF",
+            "text": "With commercials to provide change request form"
+          },
+          {
             "timestamp": "2026-06-29T07:39:35.361Z",
             "user": "JF",
             "text": "with commercials, no progress in period"
@@ -7897,7 +7912,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-07-06T08:10:27.649Z",
+        "updated_at": "2026-07-06T08:10:42.052Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -9965,6 +9980,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:10:42.051Z",
+            "user": "JF",
+            "text": "With commercials to provide change request form"
+          },
+          {
             "timestamp": "2026-06-29T07:39:35.361Z",
             "user": "JF",
             "text": "with commercials, no progress in period"
@@ -10006,7 +10026,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-07-06T08:10:27.649Z",
+        "updated_at": "2026-07-06T08:10:42.052Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11779,6 +11799,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:10:42.051Z",
+            "user": "JF",
+            "text": "With commercials to provide change request form"
+          },
+          {
             "timestamp": "2026-06-29T07:39:35.361Z",
             "user": "JF",
             "text": "with commercials, no progress in period"
@@ -11820,7 +11845,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-06T08:10:27.649Z",
+        "updated_at": "2026-07-06T08:10:42.052Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12279,6 +12304,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:10:42.065Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:10:42.058Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-06T08:10:27.659Z",
       "action": "ITEM_CHANGE",
@@ -15272,7 +15317,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:10:29.315Z"
+      "at": "2026-07-06T08:10:42.987Z"
     }
   },
   "columnWidths": {
