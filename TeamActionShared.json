@@ -1,6 +1,6 @@
 {
-  "version": 5863,
-  "updatedAt": "2026-07-06T08:17:32.478Z",
+  "version": 5864,
+  "updatedAt": "2026-07-06T08:17:38.593Z",
   "items": {
     "TM": [
       {
@@ -4679,6 +4679,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:36.938Z",
+            "user": "JF",
+            "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
+          },
+          {
             "timestamp": "2026-06-29T07:43:40.748Z",
             "user": "JF",
             "text": "with planning team"
@@ -4710,7 +4715,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-29T07:43:40.748Z",
+        "updated_at": "2026-07-06T08:17:36.938Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6420,6 +6425,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:36.938Z",
+            "user": "JF",
+            "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
+          },
+          {
             "timestamp": "2026-06-29T07:43:40.748Z",
             "user": "JF",
             "text": "with planning team"
@@ -6451,7 +6461,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:43:40.749Z",
+        "updated_at": "2026-07-06T08:17:36.938Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8142,6 +8152,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:36.938Z",
+            "user": "JF",
+            "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
+          },
+          {
             "timestamp": "2026-06-29T07:43:40.748Z",
             "user": "JF",
             "text": "with planning team"
@@ -8173,7 +8188,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-29T07:43:40.749Z",
+        "updated_at": "2026-07-06T08:17:36.938Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12193,6 +12208,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:36.938Z",
+            "user": "JF",
+            "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
+          },
+          {
             "timestamp": "2026-06-29T07:43:40.748Z",
             "user": "JF",
             "text": "with planning team"
@@ -12224,7 +12244,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-06-29T07:43:40.749Z",
+        "updated_at": "2026-07-06T08:17:36.938Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12369,6 +12389,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:17:36.952Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:17:36.943Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-06T08:17:02.856Z",
       "action": "ITEM_CHANGE",
@@ -15462,7 +15502,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:17:31.885Z"
+      "at": "2026-07-06T08:17:37.869Z"
     }
   },
   "columnWidths": {
