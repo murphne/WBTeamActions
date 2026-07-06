@@ -1,6 +1,6 @@
 {
-  "version": 5901,
-  "updatedAt": "2026-07-06T08:25:35.196Z",
+  "version": 5902,
+  "updatedAt": "2026-07-06T08:25:52.621Z",
   "items": {
     "TM": [
       {
@@ -5034,13 +5034,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:25:51.107Z",
+            "user": "JF",
+            "text": "linked to Roof leak"
+          },
+          {
             "timestamp": "2026-05-29T10:05:33.442Z",
             "user": "JF",
             "text": "pictures recieved of west elevation upstand need other elevations SC and JF complete report"
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-05-29T10:05:33.443Z",
+        "updated_at": "2026-07-06T08:25:51.107Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -12382,19 +12387,44 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:25:51.107Z",
+            "user": "JF",
+            "text": "linked to Roof leak"
+          },
+          {
             "timestamp": "2026-05-29T10:05:33.442Z",
             "user": "JF",
             "text": "pictures recieved of west elevation upstand need other elevations SC and JF complete report"
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-29T10:05:33.443Z",
+        "updated_at": "2026-07-06T08:25:51.107Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:25:51.119Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:25:51.111Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|107",
+      "key": "JF|107",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-06T08:25:29.914Z",
       "action": "DELETE",
@@ -15548,7 +15578,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:25:33.310Z"
+      "at": "2026-07-06T08:25:52.040Z"
     }
   },
   "columnWidths": {
