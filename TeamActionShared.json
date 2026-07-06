@@ -1,6 +1,6 @@
 {
-  "version": 5859,
-  "updatedAt": "2026-07-06T08:16:56.443Z",
+  "version": 5860,
+  "updatedAt": "2026-07-06T08:17:04.447Z",
   "items": {
     "TM": [
       {
@@ -3984,6 +3984,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:02.843Z",
+            "user": "JF",
+            "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
+          },
+          {
             "timestamp": "2026-06-29T07:43:15.466Z",
             "user": "JF",
             "text": "Still working through comments, \nAftercare document-complete\nBuilding user guide they want split up into technical and none technical \n-\tCommitment to undertake a POE 1 year after occupation\n-\tDEFRA Metric calculation tool of site ecology."
@@ -4015,7 +4020,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-29T07:43:15.466Z",
+        "updated_at": "2026-07-06T08:17:02.843Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5905,6 +5910,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:02.843Z",
+            "user": "JF",
+            "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
+          },
+          {
             "timestamp": "2026-06-29T07:43:15.466Z",
             "user": "JF",
             "text": "Still working through comments, \nAftercare document-complete\nBuilding user guide they want split up into technical and none technical \n-\tCommitment to undertake a POE 1 year after occupation\n-\tDEFRA Metric calculation tool of site ecology."
@@ -5936,7 +5946,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:43:15.466Z",
+        "updated_at": "2026-07-06T08:17:02.843Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7824,6 +7834,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:02.843Z",
+            "user": "JF",
+            "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
+          },
+          {
             "timestamp": "2026-06-29T07:43:15.466Z",
             "user": "JF",
             "text": "Still working through comments, \nAftercare document-complete\nBuilding user guide they want split up into technical and none technical \n-\tCommitment to undertake a POE 1 year after occupation\n-\tDEFRA Metric calculation tool of site ecology."
@@ -7855,7 +7870,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-29T07:43:15.466Z",
+        "updated_at": "2026-07-06T08:17:02.843Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10961,6 +10976,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-06T08:17:02.843Z",
+            "user": "JF",
+            "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
+          },
+          {
             "timestamp": "2026-06-29T07:43:15.466Z",
             "user": "JF",
             "text": "Still working through comments, \nAftercare document-complete\nBuilding user guide they want split up into technical and none technical \n-\tCommitment to undertake a POE 1 year after occupation\n-\tDEFRA Metric calculation tool of site ecology."
@@ -10992,7 +11012,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-06-29T07:43:15.466Z",
+        "updated_at": "2026-07-06T08:17:02.843Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12349,6 +12369,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-06T08:17:02.856Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-06T08:17:02.848Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|16",
+      "key": "JF|16",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-06T08:15:37.297Z",
       "action": "ITEM_CHANGE",
@@ -15422,7 +15462,7 @@
     "viewer-mr8xwr8o-hcs4gn": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-06T08:16:55.986Z"
+      "at": "2026-07-06T08:17:03.774Z"
     }
   },
   "columnWidths": {
