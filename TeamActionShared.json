@@ -1,6 +1,6 @@
 {
-  "version": 6299,
-  "updatedAt": "2026-07-13T08:28:47.848Z",
+  "version": 6300,
+  "updatedAt": "2026-07-13T08:29:23.221Z",
   "items": {
     "TM": [
       {
@@ -5202,6 +5202,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:29:16.521Z",
+            "user": "JF",
+            "text": "working progress. done Procore section. need other areas completing. LEED been a big one not to miss"
+          },
+          {
             "timestamp": "2026-06-29T07:45:47.314Z",
             "user": "JF",
             "text": "need to issue schedules out"
@@ -5228,7 +5233,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-06-29T07:45:47.314Z",
+        "updated_at": "2026-07-13T08:29:16.521Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8405,6 +8410,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:29:16.521Z",
+            "user": "JF",
+            "text": "working progress. done Procore section. need other areas completing. LEED been a big one not to miss"
+          },
+          {
             "timestamp": "2026-06-29T07:45:47.314Z",
             "user": "JF",
             "text": "need to issue schedules out"
@@ -8431,7 +8441,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-06-29T07:45:47.314Z",
+        "updated_at": "2026-07-13T08:29:16.521Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -9863,6 +9873,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:29:16.521Z",
+            "user": "JF",
+            "text": "working progress. done Procore section. need other areas completing. LEED been a big one not to miss"
+          },
+          {
             "timestamp": "2026-06-29T07:45:47.314Z",
             "user": "JF",
             "text": "need to issue schedules out"
@@ -9889,7 +9904,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-06-29T07:45:47.314Z",
+        "updated_at": "2026-07-13T08:29:16.521Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -10771,6 +10786,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:29:16.521Z",
+            "user": "JF",
+            "text": "working progress. done Procore section. need other areas completing. LEED been a big one not to miss"
+          },
+          {
             "timestamp": "2026-06-29T07:45:47.314Z",
             "user": "JF",
             "text": "need to issue schedules out"
@@ -10797,7 +10817,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-06-29T07:45:47.314Z",
+        "updated_at": "2026-07-13T08:29:16.521Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12531,6 +12551,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-13T08:29:16.534Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-13T08:29:16.527Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|71",
+      "key": "JF|71",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-13T08:28:40.223Z",
       "action": "ITEM_CHANGE",
@@ -15844,7 +15884,7 @@
     "viewer-mriy9hj2-yz5sxl": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T08:28:46.147Z"
+      "at": "2026-07-13T08:29:17.324Z"
     }
   },
   "columnWidths": {
