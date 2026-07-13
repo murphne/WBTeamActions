@@ -1,6 +1,6 @@
 {
-  "version": 6287,
-  "updatedAt": "2026-07-13T08:25:34.497Z",
+  "version": 6288,
+  "updatedAt": "2026-07-13T08:25:52.913Z",
   "items": {
     "TM": [
       {
@@ -3984,6 +3984,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:25:44.294Z",
+            "user": "JF",
+            "text": "still in process of breaking building user guide docs out. chasing HML for infomation missing from construction that has been advised last week"
+          },
+          {
             "timestamp": "2026-07-06T08:17:02.843Z",
             "user": "JF",
             "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
@@ -4020,7 +4025,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-06T08:17:02.843Z",
+        "updated_at": "2026-07-13T08:25:44.294Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5967,6 +5972,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:25:44.294Z",
+            "user": "JF",
+            "text": "still in process of breaking building user guide docs out. chasing HML for infomation missing from construction that has been advised last week"
+          },
+          {
             "timestamp": "2026-07-06T08:17:02.843Z",
             "user": "JF",
             "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
@@ -6003,7 +6013,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-06T08:17:02.843Z",
+        "updated_at": "2026-07-13T08:25:44.294Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7901,6 +7911,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:25:44.294Z",
+            "user": "JF",
+            "text": "still in process of breaking building user guide docs out. chasing HML for infomation missing from construction that has been advised last week"
+          },
+          {
             "timestamp": "2026-07-06T08:17:02.843Z",
             "user": "JF",
             "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
@@ -7937,7 +7952,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-07-06T08:17:02.843Z",
+        "updated_at": "2026-07-13T08:25:44.294Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11073,6 +11088,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:25:44.294Z",
+            "user": "JF",
+            "text": "still in process of breaking building user guide docs out. chasing HML for infomation missing from construction that has been advised last week"
+          },
+          {
             "timestamp": "2026-07-06T08:17:02.843Z",
             "user": "JF",
             "text": "issued after care document for review \nassessor has requested for buildign user guide to be issued as a technical and a non techinal document"
@@ -11109,7 +11129,7 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-07-06T08:17:02.843Z",
+        "updated_at": "2026-07-13T08:25:44.294Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12486,6 +12506,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-13T08:25:44.310Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-13T08:25:44.299Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|16",
+      "key": "JF|16",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-13T08:24:57.602Z",
       "action": "ITEM_CHANGE",
@@ -15739,7 +15779,7 @@
     "viewer-mriy9hj2-yz5sxl": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T08:25:34.086Z"
+      "at": "2026-07-13T08:25:45.232Z"
     }
   },
   "columnWidths": {
