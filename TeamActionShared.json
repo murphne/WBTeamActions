@@ -1,6 +1,6 @@
 {
-  "version": 6290,
-  "updatedAt": "2026-07-13T08:26:05.093Z",
+  "version": 6291,
+  "updatedAt": "2026-07-13T08:26:28.764Z",
   "items": {
     "TM": [
       {
@@ -4689,6 +4689,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:26:21.210Z",
+            "user": "JF",
+            "text": "waiting instruction from senior team on direction of design"
+          },
+          {
             "timestamp": "2026-07-06T08:17:36.938Z",
             "user": "JF",
             "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
@@ -4725,7 +4730,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-06T08:17:36.938Z",
+        "updated_at": "2026-07-13T08:26:21.210Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -6487,6 +6492,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:26:21.210Z",
+            "user": "JF",
+            "text": "waiting instruction from senior team on direction of design"
+          },
+          {
             "timestamp": "2026-07-06T08:17:36.938Z",
             "user": "JF",
             "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
@@ -6523,7 +6533,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-06T08:17:36.938Z",
+        "updated_at": "2026-07-13T08:26:21.210Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8229,6 +8239,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:26:21.210Z",
+            "user": "JF",
+            "text": "waiting instruction from senior team on direction of design"
+          },
+          {
             "timestamp": "2026-07-06T08:17:36.938Z",
             "user": "JF",
             "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
@@ -8265,7 +8280,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-07-06T08:17:36.938Z",
+        "updated_at": "2026-07-13T08:26:21.210Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12320,6 +12335,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:26:21.210Z",
+            "user": "JF",
+            "text": "waiting instruction from senior team on direction of design"
+          },
+          {
             "timestamp": "2026-07-06T08:17:36.938Z",
             "user": "JF",
             "text": "issued phasing plan to WB, Programme based on submission of planning today, \n\nphasing plan for externals required"
@@ -12356,7 +12376,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-06T08:17:36.938Z",
+        "updated_at": "2026-07-13T08:26:21.210Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12506,6 +12526,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-13T08:26:21.226Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-13T08:26:21.218Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-13T08:25:44.310Z",
       "action": "ITEM_CHANGE",
@@ -15779,7 +15819,7 @@
     "viewer-mriy9hj2-yz5sxl": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T08:26:04.387Z"
+      "at": "2026-07-13T08:26:22.151Z"
     }
   },
   "columnWidths": {
