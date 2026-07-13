@@ -1,6 +1,6 @@
 {
-  "version": 6469,
-  "updatedAt": "2026-07-13T09:36:12.407Z",
+  "version": 6470,
+  "updatedAt": "2026-07-13T09:40:47.034Z",
   "items": {
     "TM": [
       {
@@ -15987,31 +15987,31 @@
     }
   },
   "presence": {
-    "viewer-mriy9hj2-yz5sxl": {
-      "name": "Jordan Fraser",
-      "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T09:35:24.213Z"
-    },
     "viewer-mrizdie7-x97hcv": {
       "name": "Tom Murphy",
       "clientId": "client-mrizdiea-721vck",
       "at": "2026-07-13T09:36:11.988Z"
+    },
+    "viewer-mriy9hj2-yz5sxl": {
+      "name": "Jordan Fraser",
+      "clientId": "client-mnydehd7-bs3cjr",
+      "at": "2026-07-13T09:40:44.453Z"
     }
   },
   "columnWidths": {
     "0": 34,
-    "1": 96,
-    "2": 137,
-    "3": 300,
-    "4": 340,
-    "5": 92,
-    "6": 124,
-    "7": 150,
-    "8": 132,
-    "9": 96,
-    "10": 156,
-    "11": 110,
-    "12": 250,
+    "1": 70,
+    "2": 93,
+    "3": 149,
+    "4": 252,
+    "5": 70,
+    "6": 99,
+    "7": 93,
+    "8": 89,
+    "9": 70,
+    "10": 94,
+    "11": 81,
+    "12": 870,
     "13": 132,
     "14": 280
   },
