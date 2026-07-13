@@ -1,6 +1,6 @@
 {
-  "version": 6283,
-  "updatedAt": "2026-07-13T08:24:44.087Z",
+  "version": 6284,
+  "updatedAt": "2026-07-13T08:24:59.968Z",
   "items": {
     "TM": [
       {
@@ -5802,6 +5802,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:24:57.589Z",
+            "user": "JF",
+            "text": "legals checking letter to issue to MClarron"
+          },
+          {
             "timestamp": "2026-07-06T08:15:37.283Z",
             "user": "JF",
             "text": "Confrimation had from LEe C that commercial response to MClarron will be issued this week"
@@ -5838,7 +5843,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-06T08:15:37.283Z",
+        "updated_at": "2026-07-13T08:24:57.589Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9610,6 +9615,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:24:57.589Z",
+            "user": "JF",
+            "text": "legals checking letter to issue to MClarron"
+          },
+          {
             "timestamp": "2026-07-06T08:15:37.283Z",
             "user": "JF",
             "text": "Confrimation had from LEe C that commercial response to MClarron will be issued this week"
@@ -9646,7 +9656,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-07-06T08:15:37.283Z",
+        "updated_at": "2026-07-13T08:24:57.589Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10379,6 +10389,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:24:57.589Z",
+            "user": "JF",
+            "text": "legals checking letter to issue to MClarron"
+          },
+          {
             "timestamp": "2026-07-06T08:15:37.283Z",
             "user": "JF",
             "text": "Confrimation had from LEe C that commercial response to MClarron will be issued this week"
@@ -10415,7 +10430,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-07-06T08:15:37.283Z",
+        "updated_at": "2026-07-13T08:24:57.589Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11754,6 +11769,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:24:57.589Z",
+            "user": "JF",
+            "text": "legals checking letter to issue to MClarron"
+          },
+          {
             "timestamp": "2026-07-06T08:15:37.283Z",
             "user": "JF",
             "text": "Confrimation had from LEe C that commercial response to MClarron will be issued this week"
@@ -11790,7 +11810,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-06T08:15:37.283Z",
+        "updated_at": "2026-07-13T08:24:57.589Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12466,6 +12486,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-13T08:24:57.602Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-13T08:24:57.595Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|12",
+      "key": "JF|12",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-07-13T08:24:42.806Z",
       "action": "ITEM_CHANGE",
@@ -15699,7 +15739,7 @@
     "viewer-mriy9hj2-yz5sxl": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T08:24:43.719Z"
+      "at": "2026-07-13T08:24:58.518Z"
     }
   },
   "columnWidths": {
