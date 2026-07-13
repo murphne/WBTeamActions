@@ -1,6 +1,6 @@
 {
-  "version": 6297,
-  "updatedAt": "2026-07-13T08:28:22.659Z",
+  "version": 6298,
+  "updatedAt": "2026-07-13T08:28:42.242Z",
   "items": {
     "TM": [
       {
@@ -5313,6 +5313,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-13T08:28:40.206Z",
+            "user": "JF",
+            "text": "Final site plan issued, final coordination under way. construction issue drawing target 07/08/26\nBrand detailed packs starting this week, target to complete 07/08/26 as per programme \nPC appointment urgent- interviews this week and faircloth visit thursday \nground worker appointment urgent"
+          },
+          {
             "timestamp": "2026-07-06T08:24:10.786Z",
             "user": "JF",
             "text": "MSI started design. \npre start with Forecourt for Starbucks DT tomorrow \nSite layout finalized- update now required by ADS on forecourt area following this kerb change \nLEED- Dice meeting held, WCA and T&L still required- then a final meeting with WB-"
@@ -5344,7 +5349,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-06T08:24:10.786Z",
+        "updated_at": "2026-07-13T08:28:40.206Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12527,6 +12532,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-13T08:28:40.223Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-07-13T08:28:40.213Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-07-13T08:26:21.226Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -15819,7 +15844,7 @@
     "viewer-mriy9hj2-yz5sxl": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-07-13T08:28:21.706Z"
+      "at": "2026-07-13T08:28:41.135Z"
     }
   },
   "columnWidths": {
