@@ -1,6 +1,6 @@
 {
-  "version": 6859,
-  "updatedAt": "2026-07-20T09:27:24.305Z",
+  "version": 6860,
+  "updatedAt": "2026-07-20T09:27:28.881Z",
   "items": {
     "TM": [
       {
@@ -324,11 +324,12 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-05-27T11:08:22.449Z",
+        "updated_at": "2026-07-20T09:27:27.540Z",
         "_deletedCommentSignatures": [
           "1779880011641|tm|Speak with Paul Sweet as well"
         ],
-        "review_sender": ""
+        "review_sender": "",
+        "_deleted": true
       },
       {
         "key": "TM|107",
@@ -12640,6 +12641,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T09:27:27.545Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|108",
+      "key": "TM|108",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T09:27:27.544Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T09:27:12.834Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16322,7 +16343,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T09:27:23.797Z"
+      "at": "2026-07-20T09:27:28.455Z"
     }
   },
   "columnWidths": {
