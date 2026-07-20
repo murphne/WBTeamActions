@@ -1,6 +1,6 @@
 {
-  "version": 6779,
-  "updatedAt": "2026-07-20T08:39:21.802Z",
+  "version": 6780,
+  "updatedAt": "2026-07-20T08:39:29.130Z",
   "items": {
     "TM": [
       {
@@ -2721,6 +2721,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:39:27.687Z",
+            "user": "TM",
+            "text": "CS wants to issue bill by 3rd August. TM to pickup this week (20/07)"
+          },
+          {
             "timestamp": "2026-06-01T09:40:21.598Z",
             "user": "TM",
             "text": "Get back into this - May need to start earthworks in November so not ideal. Need to discuss strategy on this."
@@ -2732,7 +2737,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-01T09:40:21.598Z",
+        "updated_at": "2026-07-20T08:39:27.687Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12603,6 +12608,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:39:27.692Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:39:27.689Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|35",
+      "key": "TM|35",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:38:51.077Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16125,7 +16150,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:39:21.477Z"
+      "at": "2026-07-20T08:39:28.606Z"
     }
   },
   "columnWidths": {
