@@ -1,6 +1,6 @@
 {
-  "version": 6770,
-  "updatedAt": "2026-07-20T08:37:59.281Z",
+  "version": 6771,
+  "updatedAt": "2026-07-20T08:38:08.213Z",
   "items": {
     "TM": [
       {
@@ -2128,6 +2128,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:06.663Z",
+            "user": "TM",
+            "text": "Currently 1 week delay due to drainage. All other info received, TM and CS to review by 22/07"
+          },
+          {
             "timestamp": "2026-04-30T11:35:30.166Z",
             "user": "TM",
             "text": "Weekly meeting setup. Reporting ongoing"
@@ -2144,7 +2149,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-04-30T13:07:35.000Z",
+        "updated_at": "2026-07-20T08:38:06.663Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -7446,6 +7451,11 @@
         "status": "Requires Coordination",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:06.663Z",
+            "user": "TM",
+            "text": "Currently 1 week delay due to drainage. All other info received, TM and CS to review by 22/07"
+          },
+          {
             "timestamp": "2026-04-30T11:35:30.166Z",
             "user": "TM",
             "text": "Weekly meeting setup. Reporting ongoing"
@@ -7462,7 +7472,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-04-30T13:07:35.000Z",
+        "updated_at": "2026-07-20T08:38:06.663Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12573,6 +12583,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:38:06.668Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:38:06.665Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|13",
+      "key": "TM|13",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:36:36.687Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16015,7 +16045,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:37:58.672Z"
+      "at": "2026-07-20T08:38:07.589Z"
     }
   },
   "columnWidths": {
