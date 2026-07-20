@@ -1,6 +1,6 @@
 {
-  "version": 6773,
-  "updatedAt": "2026-07-20T08:38:25.996Z",
+  "version": 6774,
+  "updatedAt": "2026-07-20T08:38:33.102Z",
   "items": {
     "TM": [
       {
@@ -2217,6 +2217,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:31.815Z",
+            "user": "TM",
+            "text": "With TJ and DM to sort"
+          },
+          {
             "timestamp": "2026-06-15T09:34:36.023Z",
             "user": "TM",
             "text": "TM to chase TJ"
@@ -2248,7 +2253,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:38:24.406Z",
+        "updated_at": "2026-07-20T08:38:31.815Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9004,6 +9009,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:31.815Z",
+            "user": "TM",
+            "text": "With TJ and DM to sort"
+          },
+          {
             "timestamp": "2026-06-15T09:34:36.023Z",
             "user": "TM",
             "text": "TM to chase TJ"
@@ -9035,7 +9045,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-07-20T08:38:24.406Z",
+        "updated_at": "2026-07-20T08:38:31.815Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12583,6 +12593,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:38:31.821Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:38:31.818Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|17",
+      "key": "TM|17",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:38:24.413Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16065,7 +16095,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:38:25.326Z"
+      "at": "2026-07-20T08:38:32.731Z"
     }
   },
   "columnWidths": {
