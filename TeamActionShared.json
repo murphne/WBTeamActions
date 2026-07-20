@@ -1,6 +1,6 @@
 {
-  "version": 6781,
-  "updatedAt": "2026-07-20T08:39:34.022Z",
+  "version": 6782,
+  "updatedAt": "2026-07-20T08:39:40.536Z",
   "items": {
     "TM": [
       {
@@ -2761,9 +2761,15 @@
         "management": "Liaise with JW and LC and CS",
         "programme_date": null,
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-07-20T08:39:39.010Z",
+            "user": "TM",
+            "text": "CS wants to issue bill by 3rd August. TM to pickup this week (20/07)"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:24:16.390Z",
+        "updated_at": "2026-07-20T08:39:39.010Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12608,6 +12614,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:39:39.016Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:39:39.013Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|36",
+      "key": "TM|36",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:39:27.692Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16150,7 +16176,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:39:33.625Z"
+      "at": "2026-07-20T08:39:39.925Z"
     }
   },
   "columnWidths": {
