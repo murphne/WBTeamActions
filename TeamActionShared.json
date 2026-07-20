@@ -1,6 +1,6 @@
 {
-  "version": 6788,
-  "updatedAt": "2026-07-20T08:40:11.023Z",
+  "version": 6789,
+  "updatedAt": "2026-07-20T08:40:24.983Z",
   "items": {
     "TM": [
       {
@@ -2980,13 +2980,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:40:23.601Z",
+            "user": "TM",
+            "text": "TM has produced alternative alignment. now with SCP. Chased 20.07"
+          },
+          {
             "timestamp": "2026-04-13T09:55:38.882Z",
             "user": "TM",
             "text": "TM to arrange a meeting for a discussion w/c 13th April 2026"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T10:18:55.337Z",
+        "updated_at": "2026-07-20T08:40:23.601Z",
         "urgent": true,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12620,6 +12625,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:40:23.607Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:40:23.604Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|43",
+      "key": "TM|43",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:40:07.168Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16222,7 +16247,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:40:10.389Z"
+      "at": "2026-07-20T08:40:24.525Z"
     }
   },
   "columnWidths": {
