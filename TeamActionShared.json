@@ -1,6 +1,6 @@
 {
-  "version": 6775,
-  "updatedAt": "2026-07-20T08:38:34.961Z",
+  "version": 6776,
+  "updatedAt": "2026-07-20T08:38:52.321Z",
   "items": {
     "TM": [
       {
@@ -2279,6 +2279,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:51.072Z",
+            "user": "TM",
+            "text": "TM working up proposal to be issued 20/07"
+          },
+          {
             "timestamp": "2026-05-18T09:49:35.642Z",
             "user": "TM",
             "text": "First review held - awaiting updated drawing from Dice"
@@ -2290,7 +2295,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:49:35.642Z",
+        "updated_at": "2026-07-20T08:38:51.072Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9071,6 +9076,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-07-20T08:38:51.072Z",
+            "user": "TM",
+            "text": "TM working up proposal to be issued 20/07"
+          },
+          {
             "timestamp": "2026-05-18T09:49:35.642Z",
             "user": "TM",
             "text": "First review held - awaiting updated drawing from Dice"
@@ -9082,7 +9092,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T09:49:35.642Z",
+        "updated_at": "2026-07-20T08:38:51.072Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12593,6 +12603,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-20T08:38:51.077Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-07-20T08:38:51.074Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|18",
+      "key": "TM|18",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-20T08:38:31.821Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16095,7 +16125,7 @@
     "viewer-mrsyzwwl-7inn2n": {
       "name": "Tom Murphy",
       "clientId": "client-mrsyzwwn-5vug43",
-      "at": "2026-07-20T08:38:34.625Z"
+      "at": "2026-07-20T08:38:51.996Z"
     }
   },
   "columnWidths": {
