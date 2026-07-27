@@ -1,6 +1,6 @@
 {
-  "version": 7198,
-  "updatedAt": "2026-07-27T08:22:05.529Z",
+  "version": 7199,
+  "updatedAt": "2026-07-27T08:22:09.582Z",
   "items": {
     "TM": [
       {
@@ -16572,7 +16572,7 @@
     "viewer-ms2xr6rg-1simvu": {
       "name": "Craig Stevens",
       "clientId": "client-ms2xr6rj-z7rmom",
-      "at": "2026-07-27T08:22:04.877Z"
+      "at": "2026-07-27T08:22:08.894Z"
     }
   },
   "columnWidths": {
@@ -16594,7 +16594,7 @@
   },
   "actionSectionCollapsed": {
     "owned-active": false,
-    "owned-review": true,
+    "owned-review": false,
     "received-coord": false,
     "received-review": false,
     "completed-recent": true,
