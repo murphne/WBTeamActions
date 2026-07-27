@@ -1,6 +1,6 @@
 {
-  "version": 7123,
-  "updatedAt": "2026-07-27T08:03:17.775Z",
+  "version": 7124,
+  "updatedAt": "2026-07-27T08:03:23.513Z",
   "items": {
     "TM": [
       {
@@ -16572,7 +16572,7 @@
     "viewer-ms2xr6rg-1simvu": {
       "name": "Craig Stevens",
       "clientId": "client-ms2xr6rj-z7rmom",
-      "at": "2026-07-27T08:03:17.097Z"
+      "at": "2026-07-27T08:03:22.959Z"
     },
     "viewer-ms2xrn69-w3rxsv": {
       "name": "User RXSV",
@@ -16606,7 +16606,7 @@
     "owned-active": false,
     "owned-review": true,
     "received-coord": false,
-    "received-review": true,
+    "received-review": false,
     "completed-recent": true,
     "completed-historic": true,
     "all-project-hinckley m69-completed-historic": true
