@@ -1,6 +1,6 @@
 {
-  "version": 7277,
-  "updatedAt": "2026-07-27T09:49:55.146Z",
+  "version": 7278,
+  "updatedAt": "2026-07-27T09:49:58.818Z",
   "items": {
     "TM": [
       {
@@ -16572,7 +16572,7 @@
     "viewer-ms30zv7f-48io13": {
       "name": "Tom Murphy",
       "clientId": "client-ms30zv7h-9f57io",
-      "at": "2026-07-27T09:49:54.740Z"
+      "at": "2026-07-27T09:49:56.880Z"
     }
   },
   "columnWidths": {
@@ -16593,10 +16593,10 @@
     "14": 280
   },
   "actionSectionCollapsed": {
-    "owned-active": true,
-    "owned-review": false,
+    "owned-active": false,
+    "owned-review": true,
     "received-coord": false,
-    "received-review": false,
+    "received-review": true,
     "completed-recent": true,
     "completed-historic": true,
     "all-project-hinckley m69-completed-historic": true
