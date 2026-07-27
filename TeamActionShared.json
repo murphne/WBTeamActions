@@ -1,6 +1,6 @@
 {
-  "version": 7118,
-  "updatedAt": "2026-07-27T08:02:05.763Z",
+  "version": 7119,
+  "updatedAt": "2026-07-27T08:02:09.415Z",
   "items": {
     "TM": [
       {
@@ -6971,12 +6971,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-07-27T08:02:07.820Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Earthworks Strategy Complete\nWhere it is saved: emailed to team"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-06-22T06:59:04.000Z",
+        "updated_at": "2026-07-27T08:02:07.820Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Earthworks Strategy Complete\nWhere it is saved: emailed to team",
+        "date_closed": "2026-07-27"
       },
       {
         "key": "CS|73",
@@ -12722,6 +12730,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-27T08:02:07.826Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-07-27T08:02:07.820Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|108",
+      "key": "CS|108",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-07-27T07:59:59.587Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16544,7 +16572,7 @@
     "viewer-ms2xr6rg-1simvu": {
       "name": "Craig Stevens",
       "clientId": "client-ms2xr6rj-z7rmom",
-      "at": "2026-07-27T08:02:05.183Z"
+      "at": "2026-07-27T08:02:08.736Z"
     },
     "viewer-ms2xrn69-w3rxsv": {
       "name": "User RXSV",
