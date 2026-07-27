@@ -1,6 +1,6 @@
 {
-  "version": 7105,
-  "updatedAt": "2026-07-27T07:59:53.709Z",
+  "version": 7106,
+  "updatedAt": "2026-07-27T08:00:00.935Z",
   "items": {
     "TM": [
       {
@@ -4604,8 +4604,18 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-07-27T07:59:59.576Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
+          {
+            "timestamp": "2026-07-27T07:59:59.575Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-05-18T07:13:00.683Z",
             "user": "CS",
@@ -4623,10 +4633,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T07:13:00.683Z",
+        "updated_at": "2026-07-27T07:59:59.575Z",
         "urgent": true,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team",
+        "date_closed": "2026-07-27"
       },
       {
         "key": "CS|13",
@@ -8419,8 +8431,18 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-07-27T07:59:59.576Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
+          {
+            "timestamp": "2026-07-27T07:59:59.575Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-05-18T07:13:00.683Z",
             "user": "CS",
@@ -8438,10 +8460,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T07:13:00.683Z",
+        "updated_at": "2026-07-27T07:59:59.575Z",
         "urgent": true,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team",
+        "date_closed": "2026-07-27"
       },
       {
         "key": "JF|02",
@@ -10620,8 +10644,18 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-07-27T07:59:59.576Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
+          {
+            "timestamp": "2026-07-27T07:59:59.575Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-05-18T07:13:00.683Z",
             "user": "CS",
@@ -10639,10 +10673,12 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T07:13:00.683Z",
+        "updated_at": "2026-07-27T07:59:59.576Z",
         "urgent": true,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team",
+        "date_closed": "2026-07-27"
       },
       {
         "key": "TM|40",
@@ -11863,8 +11899,18 @@
         "coord_JW": false,
         "management": "Notice ready to send out from 19th March 2026. Waiting for commercial approval - CEA",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-07-27T07:59:59.576Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
+          {
+            "timestamp": "2026-07-27T07:59:59.575Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team"
+          },
           {
             "timestamp": "2026-05-18T07:13:00.683Z",
             "user": "CS",
@@ -11882,10 +11928,12 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-05-18T07:13:00.683Z",
+        "updated_at": "2026-07-27T07:59:59.576Z",
         "urgent": true,
         "review_sender": "TM",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Stage 4 notice issued to Cundle\nWhere it is saved: emailed to team",
+        "date_closed": "2026-07-27"
       },
       {
         "key": "CS|04",
@@ -12673,6 +12721,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-07-27T07:59:59.587Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-07-27T07:59:59.576Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|05",
+      "key": "CS|05",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-07-20T09:28:45.652Z",
       "action": "ITEM_CHANGE",
@@ -16476,7 +16544,7 @@
     "viewer-ms2xr6rg-1simvu": {
       "name": "Craig Stevens",
       "clientId": "client-ms2xr6rj-z7rmom",
-      "at": "2026-07-27T07:59:52.918Z"
+      "at": "2026-07-27T08:00:00.507Z"
     },
     "viewer-ms2xrn69-w3rxsv": {
       "name": "User RXSV",
