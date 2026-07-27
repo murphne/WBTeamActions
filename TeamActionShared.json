@@ -1,6 +1,6 @@
 {
-  "version": 7097,
-  "updatedAt": "2026-07-27T07:59:05.604Z",
+  "version": 7098,
+  "updatedAt": "2026-07-27T07:59:29.621Z",
   "items": {
     "TM": [
       {
@@ -16474,9 +16474,9 @@
   },
   "presence": {
     "viewer-ms2xr6rg-1simvu": {
-      "name": "User IMVU",
+      "name": "Craig Stevens",
       "clientId": "client-ms2xr6rj-z7rmom",
-      "at": "2026-07-27T07:59:05.184Z"
+      "at": "2026-07-27T07:59:29.112Z"
     }
   },
   "columnWidths": {
