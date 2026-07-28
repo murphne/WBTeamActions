@@ -1,6 +1,6 @@
 {
-  "version": 7399,
-  "updatedAt": "2026-07-28T08:12:30.282Z",
+  "version": 7400,
+  "updatedAt": "2026-07-28T13:12:06.715Z",
   "items": {
     "TM": [
       {
@@ -12730,6 +12730,16 @@
   },
   "audit": [
     {
+      "timestamp": "2026-07-28T13:12:04.900Z",
+      "action": "OPEN_PAGE",
+      "origin_sheet": "SYS",
+      "source_row": "PAGE",
+      "key": "PAGE",
+      "dest_sheet": "",
+      "status": "Opened",
+      "username": "TM"
+    },
+    {
       "timestamp": "2026-07-27T08:02:07.826Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16569,16 +16579,16 @@
     }
   },
   "presence": {
-    "viewer-ms30zv7f-48io13": {
-      "name": "Tom Murphy",
-      "clientId": "client-ms30zv7h-9f57io",
-      "at": "2026-07-28T08:12:29.674Z"
+    "viewer-ms4odl3o-4t8396": {
+      "name": "User 8396",
+      "clientId": "client-ms4odl3q-vx4tqg",
+      "at": "2026-07-28T13:12:06.055Z"
     }
   },
   "columnWidths": {
     "0": 34,
     "1": 96,
-    "2": 137,
+    "2": 180,
     "3": 300,
     "4": 340,
     "5": 92,
@@ -16588,7 +16598,7 @@
     "9": 96,
     "10": 156,
     "11": 110,
-    "12": 542,
+    "12": 250,
     "13": 132,
     "14": 280
   },
