@@ -1,6 +1,6 @@
 {
-  "version": 7570,
-  "updatedAt": "2026-08-03T13:28:34.729Z",
+  "version": 7571,
+  "updatedAt": "2026-08-07T09:44:43.880Z",
   "items": {
     "TM": [
       {
@@ -16579,10 +16579,10 @@
     }
   },
   "presence": {
-    "viewer-msd6xvny-7f7stb": {
-      "name": "User 7STB",
-      "clientId": "client-msd6xvo0-iw10wh",
-      "at": "2026-08-03T13:28:33.895Z"
+    "viewer-msirdepu-uf9c93": {
+      "name": "User 9C93",
+      "clientId": "client-msirdepv-c66qxp",
+      "at": "2026-08-07T09:44:43.323Z"
     }
   },
   "columnWidths": {
