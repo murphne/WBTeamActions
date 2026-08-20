@@ -1,6 +1,6 @@
 {
-  "version": 7618,
-  "updatedAt": "2026-08-20T15:03:54.707Z",
+  "version": 7619,
+  "updatedAt": "2026-08-20T15:04:04.842Z",
   "items": {
     "TM": [
       {
@@ -3034,6 +3034,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-08-20T15:04:03.319Z",
+            "user": "TM",
+            "text": "A168 sorted. Slips to be reviewed"
+          },
+          {
             "timestamp": "2026-07-20T08:40:23.601Z",
             "user": "TM",
             "text": "TM has produced alternative alignment. now with SCP. Chased 20.07"
@@ -3045,7 +3050,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:40:23.601Z",
+        "updated_at": "2026-08-20T15:04:03.319Z",
         "urgent": true,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12769,6 +12774,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:04:03.324Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:04:03.321Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|43",
+      "key": "TM|43",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-08-20T15:03:38.126Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16701,7 +16726,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:03:54.369Z"
+      "at": "2026-08-20T15:04:04.237Z"
     }
   },
   "columnWidths": {
