@@ -1,6 +1,6 @@
 {
-  "version": 7623,
-  "updatedAt": "2026-08-20T15:04:43.005Z",
+  "version": 7624,
+  "updatedAt": "2026-08-20T15:04:49.698Z",
   "items": {
     "TM": [
       {
@@ -1150,6 +1150,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-20T15:04:48.353Z",
+            "user": "TM",
+            "text": "Tech Approved"
+          },
+          {
             "timestamp": "2026-06-15T09:44:44.538Z",
             "user": "TM",
             "text": "Send Dave S email about strategy - i.e. we are escalating so how do we do this"
@@ -1171,7 +1176,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T09:44:44.538Z",
+        "updated_at": "2026-08-20T15:04:48.353Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12786,6 +12791,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:04:48.358Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:04:48.355Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|81",
+      "key": "TM|81",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-08-20T15:04:36.482Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16778,7 +16803,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:04:42.445Z"
+      "at": "2026-08-20T15:04:49.277Z"
     }
   },
   "columnWidths": {
