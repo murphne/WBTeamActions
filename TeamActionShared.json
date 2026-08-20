@@ -1,6 +1,6 @@
 {
-  "version": 7631,
-  "updatedAt": "2026-08-20T15:05:43.047Z",
+  "version": 7632,
+  "updatedAt": "2026-08-20T15:05:48.429Z",
   "items": {
     "TM": [
       {
@@ -5076,8 +5076,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:05:46.728Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: All approved\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-07-20T09:27:41.701Z",
             "user": "TM",
@@ -5090,9 +5095,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T09:27:41.701Z",
+        "updated_at": "2026-08-20T15:05:46.728Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: All approved\nWhere it is saved: Emails",
+        "date_closed": "2026-08-20"
       },
       {
         "key": "TM|113",
@@ -12825,6 +12832,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:05:46.732Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:05:46.728Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|112",
+      "key": "TM|112",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-08-20T15:05:37.439Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16917,7 +16944,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:05:42.439Z"
+      "at": "2026-08-20T15:05:47.646Z"
     }
   },
   "columnWidths": {
