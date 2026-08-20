@@ -1,6 +1,6 @@
 {
-  "version": 7619,
-  "updatedAt": "2026-08-20T15:04:04.842Z",
+  "version": 7620,
+  "updatedAt": "2026-08-20T15:04:17.236Z",
   "items": {
     "TM": [
       {
@@ -3076,6 +3076,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-20T15:04:16.044Z",
+            "user": "TM",
+            "text": "With JW to chase Emma T"
+          },
+          {
             "timestamp": "2026-06-15T09:36:05.897Z",
             "user": "TM",
             "text": "John D wants a meeting with SLT to review. JW has also issued to Emma Teuten"
@@ -3112,7 +3117,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T09:36:05.897Z",
+        "updated_at": "2026-08-20T15:04:16.044Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12774,6 +12779,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:04:16.049Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:04:16.046Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-08-20T15:04:03.324Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16726,7 +16751,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:04:04.237Z"
+      "at": "2026-08-20T15:04:16.961Z"
     }
   },
   "columnWidths": {
