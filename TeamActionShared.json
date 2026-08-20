@@ -1,6 +1,6 @@
 {
-  "version": 7610,
-  "updatedAt": "2026-08-20T15:02:18.785Z",
+  "version": 7611,
+  "updatedAt": "2026-08-20T15:02:42.331Z",
   "items": {
     "TM": [
       {
@@ -1881,6 +1881,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-20T15:02:41.014Z",
+            "user": "TM",
+            "text": "Quote received, awaiting decision on costs"
+          },
+          {
             "timestamp": "2026-07-20T08:36:36.681Z",
             "user": "TM",
             "text": "Had meeting over final quote. Waiting for official quote to come"
@@ -1922,7 +1927,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:36:36.681Z",
+        "updated_at": "2026-08-20T15:02:41.014Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12730,6 +12735,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:02:41.020Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:02:41.016Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|05",
+      "key": "TM|05",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-07-28T13:12:04.900Z",
       "action": "OPEN_PAGE",
       "origin_sheet": "SYS",
@@ -16582,7 +16607,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:02:18.149Z"
+      "at": "2026-08-20T15:02:41.930Z"
     }
   },
   "columnWidths": {
