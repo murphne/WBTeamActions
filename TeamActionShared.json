@@ -1,6 +1,6 @@
 {
-  "version": 7628,
-  "updatedAt": "2026-08-20T15:05:20.918Z",
+  "version": 7629,
+  "updatedAt": "2026-08-20T15:05:30.185Z",
   "items": {
     "TM": [
       {
@@ -371,8 +371,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:05:28.940Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Sent to Stantec\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-05-20T10:39:24.929Z",
             "user": "TM",
@@ -385,9 +390,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-20T10:39:24.921Z",
+        "updated_at": "2026-08-20T15:05:28.940Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Sent to Stantec\nWhere it is saved: Emails",
+        "date_closed": "2026-08-20"
       },
       {
         "key": "TM|106",
@@ -8755,8 +8762,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:05:28.940Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Sent to Stantec\nWhere it is saved: Emails"
+          },
           {
             "timestamp": "2026-05-20T10:39:24.929Z",
             "user": "TM",
@@ -8769,9 +8781,11 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-20T10:39:24.929Z",
+        "updated_at": "2026-08-20T15:05:28.940Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Sent to Stantec\nWhere it is saved: Emails",
+        "date_closed": "2026-08-20"
       }
     ],
     "JW": [
@@ -12802,6 +12816,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-20T15:05:28.943Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:05:28.940Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|107",
+      "key": "TM|107",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-08-20T15:05:17.148Z",
       "action": "ITEM_CHANGE",
@@ -16855,7 +16889,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:05:20.264Z"
+      "at": "2026-08-20T15:05:29.853Z"
     }
   },
   "columnWidths": {
