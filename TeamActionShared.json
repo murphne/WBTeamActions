@@ -1,6 +1,6 @@
 {
-  "version": 7616,
-  "updatedAt": "2026-08-20T15:03:31.118Z",
+  "version": 7617,
+  "updatedAt": "2026-08-20T15:03:39.376Z",
   "items": {
     "TM": [
       {
@@ -2323,8 +2323,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:03:38.122Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Done\nWhere it is saved: Procore Drawing"
+          },
           {
             "timestamp": "2026-07-20T08:38:51.072Z",
             "user": "TM",
@@ -2342,10 +2347,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:38:51.072Z",
+        "updated_at": "2026-08-20T15:03:38.122Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Done\nWhere it is saved: Procore Drawing",
+        "date_closed": "2026-08-20"
       },
       {
         "key": "TM|21",
@@ -9201,8 +9208,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:03:38.122Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Done\nWhere it is saved: Procore Drawing"
+          },
           {
             "timestamp": "2026-07-20T08:38:51.072Z",
             "user": "TM",
@@ -9220,10 +9232,12 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-07-20T08:38:51.072Z",
+        "updated_at": "2026-08-20T15:03:38.122Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Done\nWhere it is saved: Procore Drawing",
+        "date_closed": "2026-08-20"
       },
       {
         "key": "TM|32",
@@ -12754,6 +12768,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-20T15:03:38.126Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:03:38.122Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|18",
+      "key": "TM|18",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-08-20T15:03:27.616Z",
       "action": "ITEM_CHANGE",
@@ -16667,7 +16701,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:03:30.826Z"
+      "at": "2026-08-20T15:03:39.035Z"
     }
   },
   "columnWidths": {
