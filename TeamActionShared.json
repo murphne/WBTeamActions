@@ -1,6 +1,6 @@
 {
-  "version": 7621,
-  "updatedAt": "2026-08-20T15:04:20.186Z",
+  "version": 7622,
+  "updatedAt": "2026-08-20T15:04:38.007Z",
   "items": {
     "TM": [
       {
@@ -3174,8 +3174,13 @@
         "coord_JW": false,
         "management": "",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-20T15:04:36.479Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Advertising Consent secured\nWhere it is saved: Procore Documents"
+          },
           {
             "timestamp": "2026-07-20T09:25:31.592Z",
             "user": "TM",
@@ -3193,10 +3198,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T09:25:31.592Z",
+        "updated_at": "2026-08-20T15:04:36.479Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Advertising Consent secured\nWhere it is saved: Procore Documents",
+        "date_closed": "2026-08-20"
       },
       {
         "key": "TM|51",
@@ -12779,6 +12786,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-20T15:04:36.482Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-08-20T15:04:36.479Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|50",
+      "key": "TM|50",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-08-20T15:04:16.049Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -16751,7 +16778,7 @@
     "viewer-mt1n5lue-b9ux0b": {
       "name": "Tom Murphy",
       "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:04:19.820Z"
+      "at": "2026-08-20T15:04:37.401Z"
     }
   },
   "columnWidths": {
