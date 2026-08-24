@@ -1,6 +1,6 @@
 {
-  "version": 7657,
-  "updatedAt": "2026-08-24T08:46:07.491Z",
+  "version": 7658,
+  "updatedAt": "2026-08-24T08:46:17.511Z",
   "items": {
     "TM": [
       {
@@ -6044,6 +6044,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:46:16.084Z",
+            "user": "JF",
+            "text": "Sam and JF getting thrid price on remedial action"
+          },
+          {
             "timestamp": "2026-07-13T08:24:57.589Z",
             "user": "JF",
             "text": "legals checking letter to issue to MClarron"
@@ -6085,7 +6090,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:24:57.589Z",
+        "updated_at": "2026-08-24T08:46:16.084Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -9961,6 +9966,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:46:16.084Z",
+            "user": "JF",
+            "text": "Sam and JF getting thrid price on remedial action"
+          },
+          {
             "timestamp": "2026-07-13T08:24:57.589Z",
             "user": "JF",
             "text": "legals checking letter to issue to MClarron"
@@ -10002,7 +10012,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-07-13T08:24:57.589Z",
+        "updated_at": "2026-08-24T08:46:16.084Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10745,6 +10755,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:46:16.084Z",
+            "user": "JF",
+            "text": "Sam and JF getting thrid price on remedial action"
+          },
+          {
             "timestamp": "2026-07-13T08:24:57.589Z",
             "user": "JF",
             "text": "legals checking letter to issue to MClarron"
@@ -10786,7 +10801,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-07-13T08:24:57.589Z",
+        "updated_at": "2026-08-24T08:46:16.084Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -11796,6 +11811,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:46:16.084Z",
+            "user": "JF",
+            "text": "Sam and JF getting thrid price on remedial action"
+          },
+          {
             "timestamp": "2026-07-13T08:24:57.589Z",
             "user": "JF",
             "text": "legals checking letter to issue to MClarron"
@@ -11837,7 +11857,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-13T08:24:57.589Z",
+        "updated_at": "2026-08-24T08:46:16.084Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12896,6 +12916,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-24T08:46:16.099Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-08-24T08:46:16.088Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|12",
+      "key": "JF|12",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-08-24T08:45:03.442Z",
       "action": "ITEM_CHANGE",
@@ -17109,7 +17149,7 @@
     "viewer-mt6zofka-85g82a": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T08:46:07.196Z"
+      "at": "2026-08-24T08:46:17.014Z"
     }
   },
   "columnWidths": {
