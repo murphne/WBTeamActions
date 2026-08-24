@@ -1,6 +1,6 @@
 {
-  "version": 7648,
-  "updatedAt": "2026-08-24T08:44:20.189Z",
+  "version": 7649,
+  "updatedAt": "2026-08-24T08:44:33.047Z",
   "items": {
     "TM": [
       {
@@ -4216,6 +4216,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:44:31.498Z",
+            "user": "JF",
+            "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
+          },
+          {
             "timestamp": "2026-07-13T08:20:20.621Z",
             "user": "JF",
             "text": "instruction to proceed with RIBA 4 received. updating programme based on start dates given by consultants last friday. once programme updated will issue offical instuction to design team, target start 20/07/26.\nwelcome Break brands informed of start"
@@ -4267,7 +4272,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-13T08:20:20.621Z",
+        "updated_at": "2026-08-24T08:44:31.499Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -6829,6 +6834,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:44:31.498Z",
+            "user": "JF",
+            "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
+          },
+          {
             "timestamp": "2026-07-13T08:20:20.621Z",
             "user": "JF",
             "text": "instruction to proceed with RIBA 4 received. updating programme based on start dates given by consultants last friday. once programme updated will issue offical instuction to design team, target start 20/07/26.\nwelcome Break brands informed of start"
@@ -6880,7 +6890,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:20:20.621Z",
+        "updated_at": "2026-08-24T08:44:31.499Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -8223,6 +8233,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:44:31.498Z",
+            "user": "JF",
+            "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
+          },
+          {
             "timestamp": "2026-07-13T08:20:20.621Z",
             "user": "JF",
             "text": "instruction to proceed with RIBA 4 received. updating programme based on start dates given by consultants last friday. once programme updated will issue offical instuction to design team, target start 20/07/26.\nwelcome Break brands informed of start"
@@ -8274,7 +8289,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-07-13T08:20:20.621Z",
+        "updated_at": "2026-08-24T08:44:31.499Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -10428,6 +10443,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:44:31.498Z",
+            "user": "JF",
+            "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
+          },
+          {
             "timestamp": "2026-07-13T08:20:20.621Z",
             "user": "JF",
             "text": "instruction to proceed with RIBA 4 received. updating programme based on start dates given by consultants last friday. once programme updated will issue offical instuction to design team, target start 20/07/26.\nwelcome Break brands informed of start"
@@ -10479,7 +10499,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-07-13T08:20:20.621Z",
+        "updated_at": "2026-08-24T08:44:31.499Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -11948,6 +11968,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:44:31.498Z",
+            "user": "JF",
+            "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
+          },
+          {
             "timestamp": "2026-07-13T08:20:20.621Z",
             "user": "JF",
             "text": "instruction to proceed with RIBA 4 received. updating programme based on start dates given by consultants last friday. once programme updated will issue offical instuction to design team, target start 20/07/26.\nwelcome Break brands informed of start"
@@ -11999,7 +12024,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-13T08:20:20.621Z",
+        "updated_at": "2026-08-24T08:44:31.499Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12846,6 +12871,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-24T08:44:31.512Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-08-24T08:44:31.505Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-08-20T15:06:08.667Z",
       "action": "ITEM_CHANGE",
@@ -16999,7 +17044,7 @@
     "viewer-mt6zofka-85g82a": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T08:44:19.435Z"
+      "at": "2026-08-24T08:44:32.428Z"
     }
   },
   "columnWidths": {
