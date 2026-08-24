@@ -1,6 +1,6 @@
 {
-  "version": 7685,
-  "updatedAt": "2026-08-24T08:51:55.714Z",
+  "version": 7686,
+  "updatedAt": "2026-08-24T08:52:06.225Z",
   "items": {
     "TM": [
       {
@@ -5257,8 +5257,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-24T08:52:04.737Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: Paul sweet undertaking\nWhere it is saved: email"
+          },
           {
             "timestamp": "2026-07-13T08:29:57.944Z",
             "user": "JF",
@@ -5266,9 +5271,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:30:05.908Z",
+        "updated_at": "2026-08-24T08:52:04.737Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Paul sweet undertaking\nWhere it is saved: email",
+        "date_closed": "2026-08-24"
       },
       {
         "key": "JF|107",
@@ -13025,6 +13032,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-08-24T08:52:04.746Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-08-24T08:52:04.737Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|108",
+      "key": "JF|108",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-08-24T08:51:46.190Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -17377,7 +17404,7 @@
     "viewer-mt6zofka-85g82a": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T08:51:55.403Z"
+      "at": "2026-08-24T08:52:05.658Z"
     }
   },
   "columnWidths": {
