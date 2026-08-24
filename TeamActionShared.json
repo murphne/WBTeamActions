@@ -1,6 +1,6 @@
 {
-  "version": 7683,
-  "updatedAt": "2026-08-24T08:51:44.036Z",
+  "version": 7684,
+  "updatedAt": "2026-08-24T08:51:47.425Z",
   "items": {
     "TM": [
       {
@@ -5292,6 +5292,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:51:46.174Z",
+            "user": "JF",
+            "text": "no progress, need to complete"
+          },
+          {
             "timestamp": "2026-07-13T08:29:39.643Z",
             "user": "JF",
             "text": "in progress"
@@ -5308,7 +5313,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:29:39.643Z",
+        "updated_at": "2026-08-24T08:51:46.174Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -12630,6 +12635,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-08-24T08:51:46.174Z",
+            "user": "JF",
+            "text": "no progress, need to complete"
+          },
+          {
             "timestamp": "2026-07-13T08:29:39.643Z",
             "user": "JF",
             "text": "in progress"
@@ -12646,7 +12656,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-07-13T08:29:39.643Z",
+        "updated_at": "2026-08-24T08:51:46.174Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       }
@@ -13014,6 +13024,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-24T08:51:46.190Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-08-24T08:51:46.182Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|107",
+      "key": "JF|107",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-08-24T08:50:47.811Z",
       "action": "ITEM_CHANGE",
@@ -17347,7 +17377,7 @@
     "viewer-mt6zofka-85g82a": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T08:51:43.361Z"
+      "at": "2026-08-24T08:51:47.102Z"
     }
   },
   "columnWidths": {
