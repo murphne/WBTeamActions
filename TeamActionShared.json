@@ -1,6 +1,6 @@
 {
-  "version": 7676,
-  "updatedAt": "2026-08-24T08:50:31.966Z",
+  "version": 7677,
+  "updatedAt": "2026-08-24T08:50:37.771Z",
   "items": {
     "TM": [
       {
@@ -5421,8 +5421,13 @@
         "coord_LC": true,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-24T08:50:36.551Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: documents for tender\nWhere it is saved: playbooks"
+          },
           {
             "timestamp": "2026-08-24T08:50:18.634Z",
             "user": "JF",
@@ -5460,9 +5465,11 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:50:18.634Z",
+        "updated_at": "2026-08-24T08:50:36.551Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: documents for tender\nWhere it is saved: playbooks",
+        "date_closed": "2026-08-24"
       },
       {
         "key": "JF|70",
@@ -8709,8 +8716,13 @@
         "coord_LC": true,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-24T08:50:36.551Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: documents for tender\nWhere it is saved: playbooks"
+          },
           {
             "timestamp": "2026-08-24T08:50:18.634Z",
             "user": "JF",
@@ -8748,9 +8760,11 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-08-24T08:50:18.634Z",
+        "updated_at": "2026-08-24T08:50:36.551Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: documents for tender\nWhere it is saved: playbooks",
+        "date_closed": "2026-08-24"
       },
       {
         "key": "TM|105",
@@ -10221,8 +10235,13 @@
         "coord_LC": true,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-24T08:50:36.551Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: documents for tender\nWhere it is saved: playbooks"
+          },
           {
             "timestamp": "2026-08-24T08:50:18.634Z",
             "user": "JF",
@@ -10260,9 +10279,11 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-08-24T08:50:18.634Z",
+        "updated_at": "2026-08-24T08:50:36.551Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: documents for tender\nWhere it is saved: playbooks",
+        "date_closed": "2026-08-24"
       },
       {
         "key": "TM|78",
@@ -11161,8 +11182,13 @@
         "coord_LC": true,
         "coord_JW": true,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-08-24T08:50:36.551Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: documents for tender\nWhere it is saved: playbooks"
+          },
           {
             "timestamp": "2026-08-24T08:50:18.634Z",
             "user": "JF",
@@ -11200,9 +11226,11 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-08-24T08:50:18.634Z",
+        "updated_at": "2026-08-24T08:50:36.551Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: documents for tender\nWhere it is saved: playbooks",
+        "date_closed": "2026-08-24"
       },
       {
         "key": "TM|32",
@@ -12976,6 +13004,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-08-24T08:50:36.561Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-08-24T08:50:36.552Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|71",
+      "key": "JF|71",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-08-24T08:50:18.642Z",
       "action": "ITEM_CHANGE",
@@ -17269,7 +17317,7 @@
     "viewer-mt6zofka-85g82a": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T08:50:31.497Z"
+      "at": "2026-08-24T08:50:37.473Z"
     }
   },
   "columnWidths": {
