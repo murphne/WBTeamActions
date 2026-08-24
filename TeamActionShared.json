@@ -1,6 +1,6 @@
 {
-  "version": 7645,
-  "updatedAt": "2026-08-20T15:13:01.360Z",
+  "version": 7646,
+  "updatedAt": "2026-08-24T08:43:44.042Z",
   "items": {
     "TM": [
       {
@@ -16996,10 +16996,10 @@
     }
   },
   "presence": {
-    "viewer-mt1n5lue-b9ux0b": {
-      "name": "Tom Murphy",
-      "clientId": "client-mt1n5luh-lawgkh",
-      "at": "2026-08-20T15:13:00.812Z"
+    "viewer-mt6zofka-85g82a": {
+      "name": "Jordan Fraser",
+      "clientId": "client-mnydehd7-bs3cjr",
+      "at": "2026-08-24T08:43:43.397Z"
     }
   },
   "columnWidths": {
