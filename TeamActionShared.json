@@ -1,6 +1,6 @@
 {
-  "version": 7755,
-  "updatedAt": "2026-08-24T09:53:08.765Z",
+  "version": 7756,
+  "updatedAt": "2026-09-01T07:49:44.923Z",
   "items": {
     "TM": [
       {
@@ -17401,10 +17401,10 @@
     }
   },
   "presence": {
-    "viewer-mt6zofka-85g82a": {
-      "name": "Jordan Fraser",
-      "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-08-24T09:53:07.937Z"
+    "viewer-mtid9ucr-tfkclo": {
+      "name": "User KCLO",
+      "clientId": "client-mtid9uct-fehyps",
+      "at": "2026-09-01T07:49:44.569Z"
     }
   },
   "columnWidths": {
