@@ -1,6 +1,6 @@
 {
-  "version": 8318,
-  "updatedAt": "2026-09-03T18:18:03.179Z",
+  "version": 8319,
+  "updatedAt": "2026-09-03T18:18:14.298Z",
   "items": {
     "TM": [
       {
@@ -100,12 +100,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-09-03T18:18:12.772Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Uploaded to procore\nWhere it is saved: Procore"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-02T13:54:09.366Z",
+        "updated_at": "2026-09-03T18:18:12.772Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Uploaded to procore\nWhere it is saved: Procore",
+        "date_closed": "2026-09-03"
       },
       {
         "key": "TM|128",
@@ -13247,6 +13255,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-03T18:18:12.776Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-03T18:18:12.772Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|129",
+      "key": "TM|129",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-03T11:27:35.662Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -17799,7 +17827,7 @@
     "viewer-mtjy957s-v5bhil": {
       "name": "Tom Murphy",
       "clientId": "client-mtjy957u-du9slc",
-      "at": "2026-09-03T18:18:02.508Z"
+      "at": "2026-09-03T18:18:13.695Z"
     }
   },
   "columnWidths": {
