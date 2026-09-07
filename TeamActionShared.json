@@ -1,6 +1,6 @@
 {
-  "version": 8564,
-  "updatedAt": "2026-09-07T08:34:35.640Z",
+  "version": 8565,
+  "updatedAt": "2026-09-07T08:34:39.981Z",
   "items": {
     "TM": [
       {
@@ -5143,6 +5143,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:34:38.455Z",
+            "user": "JF",
+            "text": "team issuing drawings for planning.\n\nonce done we need to revise programme and also look at sequencing"
+          },
+          {
             "timestamp": "2026-08-24T08:49:15.114Z",
             "user": "JF",
             "text": "received confirmation on building extention and getting updated drawings this week, still waiting on front elevation, design have commented saying can we put in two seperate applications"
@@ -5189,7 +5194,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-24T08:49:15.114Z",
+        "updated_at": "2026-09-07T08:34:38.455Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -7062,6 +7067,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:34:38.455Z",
+            "user": "JF",
+            "text": "team issuing drawings for planning.\n\nonce done we need to revise programme and also look at sequencing"
+          },
+          {
             "timestamp": "2026-08-24T08:49:15.114Z",
             "user": "JF",
             "text": "received confirmation on building extention and getting updated drawings this week, still waiting on front elevation, design have commented saying can we put in two seperate applications"
@@ -7108,7 +7118,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:49:15.114Z",
+        "updated_at": "2026-09-07T08:34:38.455Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -8862,6 +8872,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:34:38.455Z",
+            "user": "JF",
+            "text": "team issuing drawings for planning.\n\nonce done we need to revise programme and also look at sequencing"
+          },
+          {
             "timestamp": "2026-08-24T08:49:15.114Z",
             "user": "JF",
             "text": "received confirmation on building extention and getting updated drawings this week, still waiting on front elevation, design have commented saying can we put in two seperate applications"
@@ -8908,7 +8923,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-08-24T08:49:15.114Z",
+        "updated_at": "2026-09-07T08:34:38.455Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -12800,6 +12815,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:34:38.455Z",
+            "user": "JF",
+            "text": "team issuing drawings for planning.\n\nonce done we need to revise programme and also look at sequencing"
+          },
+          {
             "timestamp": "2026-08-24T08:49:15.114Z",
             "user": "JF",
             "text": "received confirmation on building extention and getting updated drawings this week, still waiting on front elevation, design have commented saying can we put in two seperate applications"
@@ -12846,7 +12866,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-08-24T08:49:15.114Z",
+        "updated_at": "2026-09-07T08:34:38.455Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -13372,6 +13392,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-09-07T08:34:38.470Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-09-07T08:34:38.461Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|66",
+      "key": "JF|66",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-09-07T08:34:08.081Z",
       "action": "ITEM_CHANGE",
@@ -18090,7 +18130,7 @@
     "viewer-mtqz8lc3-d0gmaj": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-09-07T08:34:35.274Z"
+      "at": "2026-09-07T08:34:39.386Z"
     }
   },
   "columnWidths": {
