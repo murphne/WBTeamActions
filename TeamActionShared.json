@@ -1,6 +1,6 @@
 {
-  "version": 8569,
-  "updatedAt": "2026-09-07T08:35:11.932Z",
+  "version": 8570,
+  "updatedAt": "2026-09-07T08:35:15.566Z",
   "items": {
     "TM": [
       {
@@ -5841,6 +5841,11 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:35:13.816Z",
+            "user": "JF",
+            "text": "external construction issue drawings stating to come through.\n6 week currernt delay on main building building but working on reducing this"
+          },
+          {
             "timestamp": "2026-07-13T08:28:40.206Z",
             "user": "JF",
             "text": "Final site plan issued, final coordination under way. construction issue drawing target 07/08/26\nBrand detailed packs starting this week, target to complete 07/08/26 as per programme \nPC appointment urgent- interviews this week and faircloth visit thursday \nground worker appointment urgent"
@@ -5877,7 +5882,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:28:40.206Z",
+        "updated_at": "2026-09-07T08:35:13.816Z",
         "review_sender": "",
         "_deletedCommentSignatures": []
       },
@@ -13393,6 +13398,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-07T08:35:13.830Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-09-07T08:35:13.821Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|69",
+      "key": "JF|69",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Jordan Fraser"
+    },
+    {
       "timestamp": "2026-09-07T08:34:38.470Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18130,7 +18155,7 @@
     "viewer-mtqz8lc3-d0gmaj": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-09-07T08:35:11.426Z"
+      "at": "2026-09-07T08:35:14.742Z"
     }
   },
   "columnWidths": {
