@@ -1,6 +1,6 @@
 {
-  "version": 8518,
-  "updatedAt": "2026-09-07T08:27:31.418Z",
+  "version": 8519,
+  "updatedAt": "2026-09-07T08:27:33.371Z",
   "items": {
     "TM": [
       {
@@ -4478,6 +4478,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:27:31.676Z",
+            "user": "JF",
+            "text": "Ga update due 08/09/26 Riba 3 \nExternal drawings due end of the month Riba 4"
+          },
+          {
             "timestamp": "2026-08-24T08:44:31.498Z",
             "user": "JF",
             "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
@@ -4534,7 +4539,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -7155,6 +7160,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:27:31.676Z",
+            "user": "JF",
+            "text": "Ga update due 08/09/26 Riba 3 \nExternal drawings due end of the month Riba 4"
+          },
+          {
             "timestamp": "2026-08-24T08:44:31.498Z",
             "user": "JF",
             "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
@@ -7211,7 +7221,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -8559,6 +8569,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:27:31.676Z",
+            "user": "JF",
+            "text": "Ga update due 08/09/26 Riba 3 \nExternal drawings due end of the month Riba 4"
+          },
+          {
             "timestamp": "2026-08-24T08:44:31.498Z",
             "user": "JF",
             "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
@@ -8615,7 +8630,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -10813,6 +10828,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:27:31.676Z",
+            "user": "JF",
+            "text": "Ga update due 08/09/26 Riba 3 \nExternal drawings due end of the month Riba 4"
+          },
+          {
             "timestamp": "2026-08-24T08:44:31.498Z",
             "user": "JF",
             "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
@@ -10869,7 +10889,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12370,6 +12390,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-07T08:27:31.676Z",
+            "user": "JF",
+            "text": "Ga update due 08/09/26 Riba 3 \nExternal drawings due end of the month Riba 4"
+          },
+          {
             "timestamp": "2026-08-24T08:44:31.498Z",
             "user": "JF",
             "text": "Design team on with Stage 3 update and stage 4 externals, have a detailed team meeting this afternoon to discuss project"
@@ -12426,7 +12451,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -13288,6 +13313,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-09-07T08:27:31.688Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-09-07T08:27:31.681Z",
+      "action": "COMMENT",
+      "origin_sheet": "JF",
+      "source_row": "JF|03",
+      "key": "JF|03",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-09-04T09:58:38.964Z",
       "action": "ITEM_CHANGE",
@@ -17906,7 +17951,7 @@
     "viewer-mtqz8lc3-d0gmaj": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-09-07T08:27:11.362Z"
+      "at": "2026-09-07T08:27:32.611Z"
     }
   },
   "columnWidths": {
