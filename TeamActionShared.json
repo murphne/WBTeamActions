@@ -1,6 +1,6 @@
 {
-  "version": 8527,
-  "updatedAt": "2026-09-07T08:28:42.902Z",
+  "version": 8528,
+  "updatedAt": "2026-09-07T08:28:44.264Z",
   "items": {
     "TM": [
       {
@@ -4539,7 +4539,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -6132,7 +6132,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:44:53.785Z",
+        "updated_at": "2026-09-07T08:28:04.703Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -6272,7 +6272,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:45:03.430Z",
+        "updated_at": "2026-09-07T08:28:15.242Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -6295,8 +6295,13 @@
         "coord_JW": true,
         "management": "completed final part of information so we can submit to LEED",
         "programme_date": null,
-        "status": "",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-07T08:28:42.725Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: accreditation achieved\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-07-13T08:24:42.791Z",
             "user": "JF",
@@ -6329,10 +6334,12 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-07-13T08:24:42.791Z",
+        "updated_at": "2026-09-07T08:28:42.725Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: accreditation achieved\nWhere it is saved: Procore",
+        "date_closed": "2026-09-07"
       },
       {
         "key": "JF|12",
@@ -7231,7 +7238,7 @@
           }
         ],
         "sheet": "JF",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -8640,7 +8647,7 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -10106,7 +10113,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-08-24T08:44:53.785Z",
+        "updated_at": "2026-09-07T08:28:04.703Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10246,7 +10253,7 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-08-24T08:45:03.430Z",
+        "updated_at": "2026-09-07T08:28:15.242Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -10269,8 +10276,13 @@
         "coord_JW": true,
         "management": "completed final part of information so we can submit to LEED",
         "programme_date": null,
-        "status": "",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-07T08:28:42.725Z",
+            "user": "JF",
+            "text": "Complete\nWhat has been completed: accreditation achieved\nWhere it is saved: Procore"
+          },
           {
             "timestamp": "2026-07-13T08:24:42.791Z",
             "user": "JF",
@@ -10303,10 +10315,12 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-07-13T08:24:42.791Z",
+        "updated_at": "2026-09-07T08:28:42.725Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: accreditation achieved\nWhere it is saved: Procore",
+        "date_closed": "2026-09-07"
       },
       {
         "key": "JF|12",
@@ -10909,7 +10923,7 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -12119,7 +12133,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-08-24T08:44:53.786Z",
+        "updated_at": "2026-09-07T08:28:04.703Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -12476,7 +12490,7 @@
           }
         ],
         "sheet": "SC",
-        "updated_at": "2026-08-24T08:44:31.499Z",
+        "updated_at": "2026-09-07T08:27:31.676Z",
         "urgent": false,
         "review_sender": "TM",
         "_deletedCommentSignatures": [
@@ -13338,6 +13352,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-09-07T08:28:42.736Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Jordan Fraser"
+    },
+    {
+      "timestamp": "2026-09-07T08:28:42.725Z",
+      "action": "COMPLETE",
+      "origin_sheet": "JF",
+      "source_row": "JF|11",
+      "key": "JF|11",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Jordan Fraser"
+    },
     {
       "timestamp": "2026-09-07T08:28:15.260Z",
       "action": "ITEM_CHANGE",
@@ -18016,7 +18050,7 @@
     "viewer-mtqz8lc3-d0gmaj": {
       "name": "Jordan Fraser",
       "clientId": "client-mnydehd7-bs3cjr",
-      "at": "2026-09-07T08:28:25.551Z"
+      "at": "2026-09-07T08:28:43.661Z"
     }
   },
   "columnWidths": {
