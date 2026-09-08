@@ -1,8 +1,33 @@
 {
-  "version": 9084,
-  "updatedAt": "2026-09-08T09:58:43.536Z",
+  "version": 9085,
+  "updatedAt": "2026-09-08T09:58:57.543Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|134",
+        "priority": null,
+        "item_num": 134,
+        "urgent": false,
+        "effective_date": "2026-09-08",
+        "programme_date": null,
+        "project": "Bridgwater",
+        "description": "See if Chris Dadds free tomorrow (9/9)",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-08T09:58:57.007Z",
+        "_deletedCommentSignatures": []
+      },
       {
         "key": "TM|133",
         "priority": null,
@@ -13414,6 +13439,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-08T09:58:57.011Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-08T09:58:57.007Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|134",
+      "key": "TM|134",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-07T08:35:36.732Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18206,7 +18251,7 @@
     "viewer-mtjy957s-v5bhil": {
       "name": "Tom Murphy",
       "clientId": "client-mtjy957u-du9slc",
-      "at": "2026-09-08T09:58:42.883Z"
+      "at": "2026-09-08T09:58:57.097Z"
     }
   },
   "columnWidths": {
