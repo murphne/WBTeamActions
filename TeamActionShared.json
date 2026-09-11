@@ -1,6 +1,6 @@
 {
-  "version": 9186,
-  "updatedAt": "2026-09-11T14:19:37.291Z",
+  "version": 9187,
+  "updatedAt": "2026-09-11T14:19:44.416Z",
   "items": {
     "TM": [
       {
@@ -247,12 +247,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-09-11T14:19:42.671Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Reviewed, SCP proposing additional testing\nWhere it is saved: EMails"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-01T07:52:59.899Z",
+        "updated_at": "2026-09-11T14:19:42.672Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Reviewed, SCP proposing additional testing\nWhere it is saved: EMails",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|125",
@@ -13441,6 +13449,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:19:42.685Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:19:42.672Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|126",
+      "key": "TM|126",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-10T08:15:23.239Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -18273,7 +18301,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:19:36.835Z"
+      "at": "2026-09-11T14:19:43.618Z"
     }
   },
   "columnWidths": {
