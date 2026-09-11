@@ -1,6 +1,6 @@
 {
-  "version": 9188,
-  "updatedAt": "2026-09-11T14:19:49.756Z",
+  "version": 9189,
+  "updatedAt": "2026-09-11T14:20:06.802Z",
   "items": {
     "TM": [
       {
@@ -76,9 +76,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-11T14:20:04.993Z",
+            "user": "TM",
+            "text": "With SCP to do drawings - TM to chase"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-03T11:27:35.656Z",
+        "updated_at": "2026-09-11T14:20:04.994Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -13449,6 +13455,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:20:05.011Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:20:05.001Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|132",
+      "key": "TM|132",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:19:42.685Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18301,7 +18327,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:19:49.077Z"
+      "at": "2026-09-11T14:20:05.948Z"
     }
   },
   "columnWidths": {
