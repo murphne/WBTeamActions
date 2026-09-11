@@ -1,6 +1,6 @@
 {
-  "version": 9235,
-  "updatedAt": "2026-09-11T14:30:50.598Z",
+  "version": 9236,
+  "updatedAt": "2026-09-11T14:30:57.047Z",
   "items": {
     "TM": [
       {
@@ -2765,8 +2765,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:30:55.472Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Actions with TJ and Andrew B\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-08-20T15:03:27.611Z",
             "user": "TM",
@@ -2809,10 +2814,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-20T15:03:27.611Z",
+        "updated_at": "2026-09-11T14:30:55.472Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Actions with TJ and Andrew B\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|18",
@@ -9864,8 +9871,13 @@
         "coord_JW": true,
         "management": "Coordinate with JW",
         "programme_date": null,
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:30:55.472Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Actions with TJ and Andrew B\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-08-20T15:03:27.611Z",
             "user": "TM",
@@ -9908,10 +9920,12 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-08-20T15:03:27.611Z",
+        "updated_at": "2026-09-11T14:30:55.472Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Actions with TJ and Andrew B\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|18",
@@ -13625,6 +13639,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-09-11T14:30:55.483Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:30:55.472Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|17",
+      "key": "TM|17",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-09-11T14:30:30.459Z",
       "action": "ITEM_CHANGE",
@@ -18715,15 +18749,10 @@
     }
   },
   "presence": {
-    "viewer-mtx1k6rc-f603q5": {
-      "name": "Tom Murphy",
-      "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:25:52.930Z"
-    },
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1u051-u11la5",
-      "at": "2026-09-11T14:30:50.244Z"
+      "at": "2026-09-11T14:30:56.420Z"
     }
   },
   "columnWidths": {
