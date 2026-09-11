@@ -1,6 +1,6 @@
 {
-  "version": 9198,
-  "updatedAt": "2026-09-11T14:21:37.672Z",
+  "version": 9199,
+  "updatedAt": "2026-09-11T14:21:44.252Z",
   "items": {
     "TM": [
       {
@@ -867,8 +867,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:21:42.958Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Call done. Report ongoing\nWhere it is saved: EMails"
+          },
           {
             "timestamp": "2026-07-20T09:26:59.669Z",
             "user": "TM",
@@ -906,9 +911,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T09:26:59.669Z",
+        "updated_at": "2026-09-11T14:21:42.959Z",
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Call done. Report ongoing\nWhere it is saved: EMails",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|101",
@@ -13475,6 +13482,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:21:42.970Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:21:42.959Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|102",
+      "key": "TM|102",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:21:24.688Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18427,7 +18454,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:21:37.102Z"
+      "at": "2026-09-11T14:21:43.898Z"
     }
   },
   "columnWidths": {
