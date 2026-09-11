@@ -1,6 +1,6 @@
 {
-  "version": 9196,
-  "updatedAt": "2026-09-11T14:21:13.630Z",
+  "version": 9197,
+  "updatedAt": "2026-09-11T14:21:26.190Z",
   "items": {
     "TM": [
       {
@@ -956,8 +956,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:21:24.680Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Report received\nWhere it is saved: EMails"
+          },
           {
             "timestamp": "2026-08-20T15:05:04.571Z",
             "user": "TM",
@@ -980,11 +985,13 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-20T15:05:04.571Z",
+        "updated_at": "2026-09-11T14:21:24.681Z",
         "review_sender": "",
         "_deletedCommentSignatures": [
           "1780911695018|tm|TM to get Commercials to appoint and CS to arrange works"
-        ]
+        ],
+        "completion_note": "What has been completed: Report received\nWhere it is saved: EMails",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|99",
@@ -13468,6 +13475,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:21:24.688Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:21:24.681Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|100",
+      "key": "TM|100",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:21:06.780Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -18400,7 +18427,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:21:12.852Z"
+      "at": "2026-09-11T14:21:25.615Z"
     }
   },
   "columnWidths": {
