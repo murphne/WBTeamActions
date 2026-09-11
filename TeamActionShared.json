@@ -1,8 +1,33 @@
 {
-  "version": 9222,
-  "updatedAt": "2026-09-11T14:28:27.299Z",
+  "version": 9223,
+  "updatedAt": "2026-09-11T14:28:43.971Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|138",
+        "priority": null,
+        "item_num": 138,
+        "urgent": false,
+        "effective_date": "2026-09-11",
+        "programme_date": null,
+        "project": "Bridgwater",
+        "description": "Externals",
+        "action_required": "•\tEarthworks drawings are due in before cop this week from Cundall @Tom Murphy please ensure they come in reviewed and log on Procore\n•\tCivils are due week commencing the 21/09/26 please ensure they are coming in and distributed on Procore @Tom Murphy         \n•\tCorgans external drawings are due 22/09/26@Tom Murphy ensure they do\n•\tThornley and Lumb drawings are due 22/09/26 @Tom Murphy ensure they do",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-11T14:28:42.219Z",
+        "_deletedCommentSignatures": []
+      },
       {
         "key": "TM|137",
         "priority": null,
@@ -13560,6 +13585,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:28:42.231Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:28:42.219Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|138",
+      "key": "TM|138",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:28:16.241Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18597,7 +18642,7 @@
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1u051-u11la5",
-      "at": "2026-09-11T14:28:26.632Z"
+      "at": "2026-09-11T14:28:43.162Z"
     }
   },
   "columnWidths": {
