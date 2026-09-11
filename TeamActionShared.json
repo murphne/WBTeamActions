@@ -1,6 +1,6 @@
 {
-  "version": 9190,
-  "updatedAt": "2026-09-11T14:20:13.813Z",
+  "version": 9191,
+  "updatedAt": "2026-09-11T14:20:23.305Z",
   "items": {
     "TM": [
       {
@@ -50,9 +50,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-11T14:20:21.559Z",
+            "user": "TM",
+            "text": "Oksana to arrange"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-04T09:58:38.960Z",
+        "updated_at": "2026-09-11T14:20:21.559Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -13455,6 +13461,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:20:21.575Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:20:21.566Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|133",
+      "key": "TM|133",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:20:05.011Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18327,7 +18353,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:20:12.932Z"
+      "at": "2026-09-11T14:20:22.507Z"
     }
   },
   "columnWidths": {
