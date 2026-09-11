@@ -1,6 +1,6 @@
 {
-  "version": 9193,
-  "updatedAt": "2026-09-11T14:20:50.032Z",
+  "version": 9194,
+  "updatedAt": "2026-09-11T14:20:56.867Z",
   "items": {
     "TM": [
       {
@@ -294,9 +294,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-11T14:20:55.055Z",
+            "user": "TM",
+            "text": "Awaiting Lee C"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-01T07:52:32.539Z",
+        "updated_at": "2026-09-11T14:20:55.055Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -13461,6 +13467,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:20:55.073Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:20:55.063Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|125",
+      "key": "TM|125",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:20:21.575Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18353,7 +18379,7 @@
     "viewer-mtx1k6rc-f603q5": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1k6rf-6mxk8u",
-      "at": "2026-09-11T14:20:49.473Z"
+      "at": "2026-09-11T14:20:56.003Z"
     }
   },
   "columnWidths": {
