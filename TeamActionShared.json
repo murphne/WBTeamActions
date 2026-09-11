@@ -1,6 +1,6 @@
 {
-  "version": 9232,
-  "updatedAt": "2026-09-11T14:30:18.513Z",
+  "version": 9233,
+  "updatedAt": "2026-09-11T14:30:31.859Z",
   "items": {
     "TM": [
       {
@@ -2664,8 +2664,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:30:30.446Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: S278 submitted\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-08-20T15:03:00.015Z",
             "user": "TM",
@@ -2693,10 +2698,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-20T15:03:00.015Z",
+        "updated_at": "2026-09-11T14:30:30.446Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: S278 submitted\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|16",
@@ -8231,8 +8238,13 @@
         "coord_JW": false,
         "management": "Coordinate with CS",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:30:30.446Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: S278 submitted\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-08-20T15:03:00.015Z",
             "user": "TM",
@@ -8260,10 +8272,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-08-20T15:03:00.015Z",
+        "updated_at": "2026-09-11T14:30:30.446Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: S278 submitted\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|21",
@@ -13612,6 +13626,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-11T14:30:30.459Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:30:30.446Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|13",
+      "key": "TM|13",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-11T14:29:39.385Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18689,7 +18723,7 @@
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1u051-u11la5",
-      "at": "2026-09-11T14:30:17.803Z"
+      "at": "2026-09-11T14:30:31.389Z"
     }
   },
   "columnWidths": {
