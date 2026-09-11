@@ -1,6 +1,6 @@
 {
-  "version": 9236,
-  "updatedAt": "2026-09-11T14:30:57.047Z",
+  "version": 9237,
+  "updatedAt": "2026-09-11T14:31:10.883Z",
   "items": {
     "TM": [
       {
@@ -3207,8 +3207,13 @@
         "coord_JW": false,
         "management": "Liaise with JW",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:31:09.247Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Not done\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:54:00.388Z",
             "user": "TM",
@@ -3221,10 +3226,12 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-05-18T09:54:09.975Z",
+        "updated_at": "2026-09-11T14:31:09.247Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Not done\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|34",
@@ -9406,8 +9413,13 @@
         "coord_JW": false,
         "management": "Liaise with JW",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:31:09.247Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Not done\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:54:00.388Z",
             "user": "TM",
@@ -9420,10 +9432,12 @@
           }
         ],
         "sheet": "CS",
-        "updated_at": "2026-05-18T10:43:09.804Z",
+        "updated_at": "2026-09-11T14:31:09.247Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Not done\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|107",
@@ -9994,8 +10008,13 @@
         "coord_JW": false,
         "management": "Liaise with JW",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:31:09.247Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Not done\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:54:00.388Z",
             "user": "TM",
@@ -10008,10 +10027,12 @@
           }
         ],
         "sheet": "JW",
-        "updated_at": "2026-05-18T09:54:00.388Z",
+        "updated_at": "2026-09-11T14:31:09.247Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Not done\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|37",
@@ -11845,8 +11866,13 @@
         "coord_JW": false,
         "management": "Liaise with JW",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:31:09.247Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Not done\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:54:00.388Z",
             "user": "TM",
@@ -11859,10 +11885,12 @@
           }
         ],
         "sheet": "LC",
-        "updated_at": "2026-05-18T09:54:00.388Z",
+        "updated_at": "2026-09-11T14:31:09.247Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Not done\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|105",
@@ -13563,8 +13591,13 @@
         "coord_JW": false,
         "management": "Liaise with JW",
         "programme_date": null,
-        "status": "Requires Coordination",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-11T14:31:09.247Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Not done\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-05-18T09:54:00.388Z",
             "user": "TM",
@@ -13577,10 +13610,12 @@
           }
         ],
         "sheet": "LN",
-        "updated_at": "2026-05-18T09:54:06.988Z",
+        "updated_at": "2026-09-11T14:31:09.247Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "completion_note": "What has been completed: Not done\nWhere it is saved: -",
+        "date_closed": "2026-09-11"
       },
       {
         "key": "TM|105",
@@ -13639,6 +13674,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-09-11T14:31:09.260Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-11T14:31:09.247Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|32",
+      "key": "TM|32",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
     {
       "timestamp": "2026-09-11T14:30:55.483Z",
       "action": "ITEM_CHANGE",
@@ -18752,7 +18807,7 @@
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
       "clientId": "client-mtx1u051-u11la5",
-      "at": "2026-09-11T14:30:56.420Z"
+      "at": "2026-09-11T14:31:10.189Z"
     }
   },
   "columnWidths": {
