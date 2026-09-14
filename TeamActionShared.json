@@ -1,6 +1,6 @@
 {
-  "version": 10075,
-  "updatedAt": "2026-09-14T12:46:03.133Z",
+  "version": 10076,
+  "updatedAt": "2026-09-14T12:46:08.672Z",
   "items": {
     "TM": [
       {
@@ -49,9 +49,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-14T12:46:07.362Z",
+            "user": "TM",
+            "text": "TM commented on progress report - vols not given per material classification so not able to review"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-14T10:46:54.827Z",
+        "updated_at": "2026-09-14T12:46:07.362Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14239,6 +14245,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T12:46:07.370Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T12:46:07.366Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|143",
+      "key": "TM|143",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T11:32:52.662Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19991,7 +20017,7 @@
     "viewer-mu18kfzn-34mc28": {
       "name": "Tom Murphy",
       "clientId": "client-mu18kfzo-gyxlkt",
-      "at": "2026-09-14T12:46:02.672Z"
+      "at": "2026-09-14T12:46:08.292Z"
     }
   },
   "columnWidths": {
