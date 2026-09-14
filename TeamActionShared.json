@@ -1,6 +1,6 @@
 {
-  "version": 9396,
-  "updatedAt": "2026-09-14T07:33:30.835Z",
+  "version": 9397,
+  "updatedAt": "2026-09-14T07:33:40.786Z",
   "items": {
     "TM": [
       {
@@ -7532,6 +7532,31 @@
     ],
     "CS": [
       {
+        "key": "CS|129",
+        "priority": null,
+        "item_num": 129,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": "2026-10-09",
+        "project": "Hickling",
+        "description": "Defect",
+        "action_required": "Rainwater harvesting tank to resolve",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:33:39.120Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|128",
         "priority": null,
         "item_num": 128,
@@ -14095,6 +14120,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:33:39.127Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:33:39.120Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|129",
+      "key": "CS|129",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:32:44.091Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19627,7 +19672,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:33:30.248Z"
+      "at": "2026-09-14T07:33:40.049Z"
     }
   },
   "columnWidths": {
