@@ -1,6 +1,6 @@
 {
-  "version": 9993,
-  "updatedAt": "2026-09-14T10:37:15.173Z",
+  "version": 9994,
+  "updatedAt": "2026-09-14T10:37:39.364Z",
   "items": {
     "TM": [
       {
@@ -38,8 +38,8 @@
         "effective_date": "2026-09-14",
         "programme_date": null,
         "project": "Abington M74",
-        "description": "SER / Warrant Meeting",
-        "action_required": "Arrange meeting and produce programme",
+        "description": "SER / Warrant / Planning Meeting",
+        "action_required": "Arrange meeting and produce programme - confirm validation time",
         "lead": "TM",
         "coord_TM": false,
         "coord_SC": false,
@@ -52,7 +52,7 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-09-14T09:32:00.089Z",
+        "updated_at": "2026-09-14T10:37:38.727Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14181,6 +14181,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T10:37:38.731Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Action updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T10:37:38.727Z",
+      "action": "EDIT",
+      "origin_sheet": "TM",
+      "source_row": "TM|141",
+      "key": "TM|141",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T09:45:54.885Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -19853,7 +19873,7 @@
     "viewer-mu11mykd-5c4fv9": {
       "name": "Tom Murphy",
       "clientId": "client-mu11mykg-yyyxlx",
-      "at": "2026-09-14T10:37:14.801Z"
+      "at": "2026-09-14T10:37:38.925Z"
     }
   },
   "columnWidths": {
