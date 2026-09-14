@@ -1,6 +1,6 @@
 {
-  "version": 9337,
-  "updatedAt": "2026-09-14T07:22:55.119Z",
+  "version": 9338,
+  "updatedAt": "2026-09-14T07:23:00.539Z",
   "items": {
     "TM": [
       {
@@ -7526,6 +7526,31 @@
     ],
     "CS": [
       {
+        "key": "CS|120",
+        "priority": null,
+        "item_num": 120,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": "2026-09-18",
+        "project": "Hinckley M69",
+        "description": "Dice Design",
+        "action_required": "Chase Dice for Starbucks Foundation design",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:22:59.141Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|119",
         "priority": null,
         "item_num": 119,
@@ -13855,6 +13880,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:22:59.154Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:22:59.141Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|120",
+      "key": "CS|120",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:22:00.158Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19167,7 +19212,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:22:54.400Z"
+      "at": "2026-09-14T07:23:00.081Z"
     },
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
