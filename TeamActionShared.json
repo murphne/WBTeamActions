@@ -1,8 +1,34 @@
 {
-  "version": 9672,
-  "updatedAt": "2026-09-14T09:32:10.778Z",
+  "version": 9673,
+  "updatedAt": "2026-09-14T09:32:15.288Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|141",
+        "priority": null,
+        "item_num": 141,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Abington M74",
+        "description": "SER / Warrant Meeting",
+        "action_required": "Arrange meeting and produce programme",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-14T09:32:00.089Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": ""
+      },
       {
         "key": "TM|140",
         "priority": null,
@@ -3378,10 +3404,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:39:39.010Z",
+        "updated_at": "2026-09-14T09:32:13.855Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|37",
@@ -5758,32 +5785,6 @@
         "review_sender": "",
         "completion_note": "What has been completed: Agreed with RMBC\nWhere it is saved: Emails",
         "date_closed": "2026-07-20"
-      },
-      {
-        "key": "TM|141",
-        "priority": null,
-        "item_num": 141,
-        "urgent": false,
-        "effective_date": "2026-09-14",
-        "programme_date": null,
-        "project": "Abington M74",
-        "description": "SER / Warrant Meeting",
-        "action_required": "Arrange meeting and produce programme",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-09-14T09:32:00.089Z",
-        "_deletedCommentSignatures": [],
-        "review_sender": ""
       }
     ],
     "JF": [
@@ -14147,6 +14148,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T09:32:13.864Z",
+      "action": "DELETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|36",
+      "key": "TM|36",
+      "dest_sheet": "",
+      "status": "Deleted",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T09:32:13.861Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T09:32:00.094Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19729,7 +19750,7 @@
     "viewer-mu11mykd-5c4fv9": {
       "name": "Tom Murphy",
       "clientId": "client-mu11mykg-yyyxlx",
-      "at": "2026-09-14T09:32:03.359Z"
+      "at": "2026-09-14T09:32:14.777Z"
     }
   },
   "columnWidths": {
