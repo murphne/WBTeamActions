@@ -1,6 +1,6 @@
 {
-  "version": 9367,
-  "updatedAt": "2026-09-14T07:26:54.996Z",
+  "version": 9368,
+  "updatedAt": "2026-09-14T07:27:04.809Z",
   "items": {
     "TM": [
       {
@@ -7532,6 +7532,31 @@
     ],
     "CS": [
       {
+        "key": "CS|124",
+        "priority": null,
+        "item_num": 124,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": "2026-09-25",
+        "project": "Hinckley M69",
+        "description": "Redspot",
+        "action_required": "Redspot to install time lapse camera poles.",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:27:03.222Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|123",
         "priority": null,
         "item_num": 123,
@@ -13965,6 +13990,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:27:03.231Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:27:03.222Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|124",
+      "key": "CS|124",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:26:11.269Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19397,7 +19442,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:26:54.596Z"
+      "at": "2026-09-14T07:27:04.166Z"
     },
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
