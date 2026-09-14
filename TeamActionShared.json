@@ -1,6 +1,6 @@
 {
-  "version": 10098,
-  "updatedAt": "2026-09-14T14:09:30.947Z",
+  "version": 10099,
+  "updatedAt": "2026-09-14T14:09:39.070Z",
   "items": {
     "TM": [
       {
@@ -48,7 +48,7 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
+        "status": "Ongoing",
         "comments": [
           {
             "timestamp": "2026-09-14T12:46:07.362Z",
@@ -57,7 +57,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-14T12:46:07.362Z",
+        "updated_at": "2026-09-14T14:09:38.414Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14258,6 +14258,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T14:09:38.419Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T14:09:38.414Z",
+      "action": "STATUS",
+      "origin_sheet": "TM",
+      "source_row": "TM|143",
+      "key": "TM|143",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T14:09:29.538Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20090,7 +20110,7 @@
     "viewer-mu18kfzn-34mc28": {
       "name": "Tom Murphy",
       "clientId": "client-mu18kfzo-gyxlkt",
-      "at": "2026-09-14T14:09:30.460Z"
+      "at": "2026-09-14T14:09:38.697Z"
     }
   },
   "columnWidths": {
