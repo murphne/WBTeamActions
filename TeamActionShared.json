@@ -1,6 +1,6 @@
 {
-  "version": 9311,
-  "updatedAt": "2026-09-14T07:18:30.898Z",
+  "version": 9312,
+  "updatedAt": "2026-09-14T07:18:42.481Z",
   "items": {
     "TM": [
       {
@@ -7726,12 +7726,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-09-14T07:18:41.178Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Programme issued to design team\nWhere it is saved: Procore - programme"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-06-22T07:01:57.352Z",
+        "updated_at": "2026-09-14T07:18:41.178Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Programme issued to design team\nWhere it is saved: Procore - programme",
+        "date_closed": "2026-09-14"
       },
       {
         "key": "CS|110",
@@ -13821,6 +13829,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:18:41.189Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:18:41.178Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|111",
+      "key": "CS|111",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:15:52.740Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19093,7 +19121,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:18:30.314Z"
+      "at": "2026-09-14T07:18:42.113Z"
     }
   },
   "columnWidths": {
