@@ -1,6 +1,6 @@
 {
-  "version": 10079,
-  "updatedAt": "2026-09-14T12:46:51.496Z",
+  "version": 10080,
+  "updatedAt": "2026-09-14T12:47:07.255Z",
   "items": {
     "TM": [
       {
@@ -328,8 +328,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-14T12:47:05.839Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Oksana emailed to arrange\nWhere it is saved: Email"
+          },
           {
             "timestamp": "2026-09-11T14:20:21.559Z",
             "user": "TM",
@@ -337,9 +342,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-11T14:20:21.559Z",
+        "updated_at": "2026-09-14T12:47:05.839Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Oksana emailed to arrange\nWhere it is saved: Email",
+        "date_closed": "2026-09-14"
       },
       {
         "key": "TM|132",
@@ -14245,6 +14252,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T12:47:05.845Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T12:47:05.840Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|133",
+      "key": "TM|133",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T12:46:07.370Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20017,7 +20044,7 @@
     "viewer-mu18kfzn-34mc28": {
       "name": "Tom Murphy",
       "clientId": "client-mu18kfzo-gyxlkt",
-      "at": "2026-09-14T12:46:50.561Z"
+      "at": "2026-09-14T12:47:06.758Z"
     }
   },
   "columnWidths": {
