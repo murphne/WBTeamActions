@@ -1,8 +1,61 @@
 {
-  "version": 9867,
-  "updatedAt": "2026-09-14T10:01:47.178Z",
+  "version": 9868,
+  "updatedAt": "2026-09-14T10:02:04.468Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|142",
+        "priority": null,
+        "item_num": 142,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "TRO",
+        "action_required": "Chase traffic counts. Submit paperwork. Do a programme",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-14T09:33:22.707Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": "",
+        "_deleted": true
+      },
+      {
+        "key": "TM|141",
+        "priority": null,
+        "item_num": 141,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Abington M74",
+        "description": "SER / Warrant Meeting",
+        "action_required": "Arrange meeting and produce programme",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-14T09:32:00.089Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": ""
+      },
       {
         "key": "TM|140",
         "priority": null,
@@ -3346,10 +3399,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:39:27.687Z",
+        "updated_at": "2026-09-14T09:45:54.877Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|36",
@@ -3378,10 +3432,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:39:39.010Z",
+        "updated_at": "2026-09-14T09:32:13.855Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|37",
@@ -3677,7 +3732,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-20T15:04:16.044Z",
+        "updated_at": "2026-09-14T09:32:35.155Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5763,58 +5818,6 @@
         "review_sender": "",
         "completion_note": "What has been completed: Agreed with RMBC\nWhere it is saved: Emails",
         "date_closed": "2026-07-20"
-      },
-      {
-        "key": "TM|141",
-        "priority": null,
-        "item_num": 141,
-        "urgent": false,
-        "effective_date": "2026-09-14",
-        "programme_date": null,
-        "project": "Abington M74",
-        "description": "SER / Warrant Meeting",
-        "action_required": "Arrange meeting and produce programme",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-09-14T09:32:00.089Z",
-        "_deletedCommentSignatures": [],
-        "review_sender": ""
-      },
-      {
-        "key": "TM|142",
-        "priority": null,
-        "item_num": 142,
-        "urgent": false,
-        "effective_date": "2026-09-14",
-        "programme_date": null,
-        "project": "Hinckley M69",
-        "description": "TRO",
-        "action_required": "Chase traffic counts. Submit paperwork. Do a programme",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-09-14T09:33:16.471Z",
-        "_deletedCommentSignatures": [],
-        "review_sender": ""
       }
     ],
     "JF": [
@@ -19855,7 +19858,7 @@
     "viewer-mu11mykd-5c4fv9": {
       "name": "Tom Murphy",
       "clientId": "client-mu11mykg-yyyxlx",
-      "at": "2026-09-14T10:01:40.052Z"
+      "at": "2026-09-14T10:02:03.654Z"
     }
   },
   "columnWidths": {
