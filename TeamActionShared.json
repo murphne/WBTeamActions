@@ -1,6 +1,6 @@
 {
-  "version": 9301,
-  "updatedAt": "2026-09-14T07:15:43.341Z",
+  "version": 9302,
+  "updatedAt": "2026-09-14T07:15:54.402Z",
   "items": {
     "TM": [
       {
@@ -7526,6 +7526,31 @@
     ],
     "CS": [
       {
+        "key": "CS|118",
+        "priority": null,
+        "item_num": 118,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "278 Works",
+        "action_required": "Traffic Signals Power Supply - What permissions are needed how do we dedicate it to NH",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:15:52.730Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|117",
         "priority": null,
         "item_num": 117,
@@ -13795,6 +13820,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:15:52.740Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:15:52.730Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|118",
+      "key": "CS|118",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:13:06.601Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19047,7 +19092,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:15:42.510Z"
+      "at": "2026-09-14T07:15:53.668Z"
     }
   },
   "columnWidths": {
