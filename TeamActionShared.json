@@ -1,6 +1,6 @@
 {
-  "version": 10116,
-  "updatedAt": "2026-09-14T14:14:15.482Z",
+  "version": 10117,
+  "updatedAt": "2026-09-14T14:14:21.612Z",
   "items": {
     "TM": [
       {
@@ -134,9 +134,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-14T14:14:20.392Z",
+            "user": "TM",
+            "text": "Luke Nicholls sorting"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-11T14:32:34.841Z",
+        "updated_at": "2026-09-14T14:14:20.392Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14258,6 +14264,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T14:14:20.399Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T14:14:20.395Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|140",
+      "key": "TM|140",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T14:09:38.419Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20110,7 +20136,7 @@
     "viewer-mu18kfzn-34mc28": {
       "name": "Tom Murphy",
       "clientId": "client-mu18kfzo-gyxlkt",
-      "at": "2026-09-14T14:14:14.893Z"
+      "at": "2026-09-14T14:14:21.318Z"
     }
   },
   "columnWidths": {
