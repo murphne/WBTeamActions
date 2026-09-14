@@ -1,6 +1,6 @@
 {
-  "version": 10071,
-  "updatedAt": "2026-09-14T12:01:50.604Z",
+  "version": 10072,
+  "updatedAt": "2026-09-14T12:45:38.985Z",
   "items": {
     "TM": [
       {
@@ -19988,10 +19988,10 @@
     }
   },
   "presence": {
-    "viewer-mu16r10l-17eu74": {
-      "name": "Tom Murphy",
-      "clientId": "client-mu16r10n-k74hec",
-      "at": "2026-09-14T12:01:50.177Z"
+    "viewer-mu18kfzn-34mc28": {
+      "name": "User MC28",
+      "clientId": "client-mu18kfzo-gyxlkt",
+      "at": "2026-09-14T12:45:38.572Z"
     }
   },
   "columnWidths": {
