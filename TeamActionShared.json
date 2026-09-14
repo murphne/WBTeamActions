@@ -1,6 +1,6 @@
 {
-  "version": 9289,
-  "updatedAt": "2026-09-14T07:12:55.222Z",
+  "version": 9290,
+  "updatedAt": "2026-09-14T07:13:08.214Z",
   "items": {
     "TM": [
       {
@@ -7526,6 +7526,31 @@
     ],
     "CS": [
       {
+        "key": "CS|117",
+        "priority": null,
+        "item_num": 117,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "278 Works",
+        "action_required": "Extend Street Lighting - New supply and extend existing feed - What permissions & how is it dedicated to NH?",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:13:06.591Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|116",
         "priority": null,
         "item_num": 116,
@@ -13769,6 +13794,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:13:06.601Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:13:06.591Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|117",
+      "key": "CS|117",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:10:52.694Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19001,7 +19046,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:12:54.534Z"
+      "at": "2026-09-14T07:13:07.521Z"
     }
   },
   "columnWidths": {
