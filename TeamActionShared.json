@@ -1,6 +1,6 @@
 {
-  "version": 9262,
-  "updatedAt": "2026-09-14T07:07:18.800Z",
+  "version": 9263,
+  "updatedAt": "2026-09-14T07:07:25.749Z",
   "items": {
     "TM": [
       {
@@ -7682,12 +7682,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-09-14T07:07:24.366Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Manhole Replaced\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-06-22T07:00:29.030Z",
+        "updated_at": "2026-09-14T07:07:24.366Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Manhole Replaced\nWhere it is saved: n/a",
+        "date_closed": "2026-09-14"
       },
       {
         "key": "CS|108",
@@ -13709,6 +13717,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:07:24.380Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:07:24.366Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|109",
+      "key": "CS|109",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:06:22.533Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -18881,7 +18909,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:07:18.516Z"
+      "at": "2026-09-14T07:07:25.305Z"
     }
   },
   "columnWidths": {
