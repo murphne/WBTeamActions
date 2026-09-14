@@ -1,6 +1,6 @@
 {
-  "version": 9362,
-  "updatedAt": "2026-09-14T07:25:55.269Z",
+  "version": 9363,
+  "updatedAt": "2026-09-14T07:26:12.570Z",
   "items": {
     "TM": [
       {
@@ -7532,6 +7532,31 @@
     ],
     "CS": [
       {
+        "key": "CS|123",
+        "priority": null,
+        "item_num": 123,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": "2026-09-18",
+        "project": "Hinckley M69",
+        "description": "WCA Design",
+        "action_required": "WCA to issue external drawing pack",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Ongoing",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-09-14T07:26:11.256Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|122",
         "priority": null,
         "item_num": 122,
@@ -13939,6 +13964,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T07:26:11.269Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-09-14T07:26:11.256Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|123",
+      "key": "CS|123",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
+    {
       "timestamp": "2026-09-14T07:25:05.529Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -19351,7 +19396,7 @@
     "viewer-mu0wf0x0-f766d4": {
       "name": "Craig Stevens",
       "clientId": "client-mu0wf0x4-7fm0yy",
-      "at": "2026-09-14T07:25:54.595Z"
+      "at": "2026-09-14T07:26:12.191Z"
     },
     "viewer-mtx1u04w-g8zo5f": {
       "name": "Tom Murphy",
