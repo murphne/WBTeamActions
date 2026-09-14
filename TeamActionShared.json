@@ -1,8 +1,34 @@
 {
-  "version": 9676,
-  "updatedAt": "2026-09-14T09:32:34.849Z",
+  "version": 9677,
+  "updatedAt": "2026-09-14T09:32:36.605Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|141",
+        "priority": null,
+        "item_num": 141,
+        "urgent": false,
+        "effective_date": "2026-09-14",
+        "programme_date": null,
+        "project": "Abington M74",
+        "description": "SER / Warrant Meeting",
+        "action_required": "Arrange meeting and produce programme",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-14T09:32:00.089Z",
+        "_deletedCommentSignatures": [],
+        "review_sender": ""
+      },
       {
         "key": "TM|140",
         "priority": null,
@@ -3378,10 +3404,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:39:39.010Z",
+        "updated_at": "2026-09-14T09:32:13.855Z",
         "urgent": false,
         "review_sender": "",
-        "_deletedCommentSignatures": []
+        "_deletedCommentSignatures": [],
+        "_deleted": true
       },
       {
         "key": "TM|37",
@@ -3631,6 +3658,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-14T09:32:35.155Z",
+            "user": "TM",
+            "text": "Stand down for now awaiting John D Direction"
+          },
+          {
             "timestamp": "2026-08-20T15:04:16.044Z",
             "user": "TM",
             "text": "With JW to chase Emma T"
@@ -3672,7 +3704,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-08-20T15:04:16.044Z",
+        "updated_at": "2026-09-14T09:32:35.155Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -5758,32 +5790,6 @@
         "review_sender": "",
         "completion_note": "What has been completed: Agreed with RMBC\nWhere it is saved: Emails",
         "date_closed": "2026-07-20"
-      },
-      {
-        "key": "TM|141",
-        "priority": null,
-        "item_num": 141,
-        "urgent": false,
-        "effective_date": "2026-09-14",
-        "programme_date": null,
-        "project": "Abington M74",
-        "description": "SER / Warrant Meeting",
-        "action_required": "Arrange meeting and produce programme",
-        "lead": "TM",
-        "coord_TM": false,
-        "coord_SC": false,
-        "coord_LN": false,
-        "coord_JF": false,
-        "coord_CS": false,
-        "coord_LC": false,
-        "coord_JW": false,
-        "management": "",
-        "status": "",
-        "comments": [],
-        "sheet": "TM",
-        "updated_at": "2026-09-14T09:32:00.089Z",
-        "_deletedCommentSignatures": [],
-        "review_sender": ""
       }
     ],
     "JF": [
@@ -14147,6 +14153,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T09:32:35.162Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T09:32:35.158Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|45",
+      "key": "TM|45",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T09:32:13.864Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -19749,7 +19775,7 @@
     "viewer-mu11mykd-5c4fv9": {
       "name": "Tom Murphy",
       "clientId": "client-mu11mykg-yyyxlx",
-      "at": "2026-09-14T09:32:26.666Z"
+      "at": "2026-09-14T09:32:36.082Z"
     }
   },
   "columnWidths": {
