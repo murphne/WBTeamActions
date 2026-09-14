@@ -1,6 +1,6 @@
 {
-  "version": 10096,
-  "updatedAt": "2026-09-14T14:09:15.370Z",
+  "version": 10097,
+  "updatedAt": "2026-09-14T14:09:26.395Z",
   "items": {
     "TM": [
       {
@@ -160,9 +160,15 @@
         "coord_JW": false,
         "management": "",
         "status": "",
-        "comments": [],
+        "comments": [
+          {
+            "timestamp": "2026-09-14T14:09:24.998Z",
+            "user": "TM",
+            "text": "Programme provided. TM to submit 18/09"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-11T14:29:39.372Z",
+        "updated_at": "2026-09-14T14:09:24.998Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14252,6 +14258,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-14T14:09:25.005Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-14T14:09:25.001Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|139",
+      "key": "TM|139",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-14T12:47:05.845Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20044,7 +20070,7 @@
     "viewer-mu18kfzn-34mc28": {
       "name": "Tom Murphy",
       "clientId": "client-mu18kfzo-gyxlkt",
-      "at": "2026-09-14T14:09:14.759Z"
+      "at": "2026-09-14T14:09:25.931Z"
     }
   },
   "columnWidths": {
