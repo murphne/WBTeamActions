@@ -1,6 +1,6 @@
 {
-  "version": 10438,
-  "updatedAt": "2026-09-21T09:34:56.560Z",
+  "version": 10439,
+  "updatedAt": "2026-09-21T09:37:26.171Z",
   "items": {
     "TM": [
       {
@@ -20254,15 +20254,10 @@
     }
   },
   "presence": {
-    "viewer-mu4ce3hb-d42v4b": {
-      "name": "Tom Murphy",
-      "clientId": "client-mu4ce3hd-u2r6d1",
-      "at": "2026-09-21T09:32:04.050Z"
-    },
     "viewer-mub1qlw0-iik0yn": {
       "name": "User K0YN",
       "clientId": "client-mub1qlw8-r3l51a",
-      "at": "2026-09-21T09:34:55.802Z"
+      "at": "2026-09-21T09:37:25.212Z"
     }
   },
   "columnWidths": {
