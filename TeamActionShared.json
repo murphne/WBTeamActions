@@ -1,6 +1,6 @@
 {
-  "version": 10685,
-  "updatedAt": "2026-09-28T14:50:17.423Z",
+  "version": 10686,
+  "updatedAt": "2026-09-28T14:50:24.157Z",
   "items": {
     "TM": [
       {
@@ -5810,8 +5810,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-28T14:50:22.936Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Tank chosen\nWhere it is saved: Drawing"
+          },
           {
             "timestamp": "2026-09-28T14:50:15.904Z",
             "user": "TM",
@@ -5824,9 +5829,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-28T14:50:15.904Z",
+        "updated_at": "2026-09-28T14:50:22.936Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Tank chosen\nWhere it is saved: Drawing",
+        "date_closed": "2026-09-28"
       },
       {
         "key": "TM|112",
@@ -14339,6 +14346,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:50:22.940Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:50:22.936Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|109",
+      "key": "TM|109",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:50:15.911Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20476,7 +20503,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:50:16.830Z"
+      "at": "2026-09-28T14:50:23.850Z"
     }
   },
   "columnWidths": {
