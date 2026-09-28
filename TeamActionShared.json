@@ -1,6 +1,6 @@
 {
-  "version": 10673,
-  "updatedAt": "2026-09-28T14:48:00.824Z",
+  "version": 10674,
+  "updatedAt": "2026-09-28T14:48:12.314Z",
   "items": {
     "TM": [
       {
@@ -156,8 +156,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-28T14:48:10.348Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Luke to sort\nWhere it is saved: EMails"
+          },
           {
             "timestamp": "2026-09-14T14:14:20.392Z",
             "user": "TM",
@@ -165,9 +170,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-14T14:14:28.171Z",
+        "updated_at": "2026-09-28T14:48:10.348Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Luke to sort\nWhere it is saved: EMails",
+        "date_closed": "2026-09-28"
       },
       {
         "key": "TM|139",
@@ -14300,6 +14307,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:48:10.353Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:48:10.348Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|140",
+      "key": "TM|140",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:47:58.921Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20317,7 +20344,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:47:59.834Z"
+      "at": "2026-09-28T14:48:11.273Z"
     }
   },
   "columnWidths": {
