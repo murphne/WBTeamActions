@@ -1,6 +1,6 @@
 {
-  "version": 10684,
-  "updatedAt": "2026-09-28T14:50:09.801Z",
+  "version": 10685,
+  "updatedAt": "2026-09-28T14:50:17.423Z",
   "items": {
     "TM": [
       {
@@ -5813,13 +5813,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-09-28T14:50:15.904Z",
+            "user": "TM",
+            "text": "Tank chosen"
+          },
+          {
             "timestamp": "2026-06-15T10:00:43.419Z",
             "user": "TM",
             "text": "Fidn JW calcs from Rotherham"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-06-15T10:00:43.419Z",
+        "updated_at": "2026-09-28T14:50:15.904Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14334,6 +14339,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:50:15.911Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:50:15.907Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|109",
+      "key": "TM|109",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:50:02.499Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20451,7 +20476,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:50:09.047Z"
+      "at": "2026-09-28T14:50:16.830Z"
     }
   },
   "columnWidths": {
