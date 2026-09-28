@@ -1,6 +1,6 @@
 {
-  "version": 10706,
-  "updatedAt": "2026-09-28T14:54:23.414Z",
+  "version": 10707,
+  "updatedAt": "2026-09-28T14:54:36.374Z",
   "items": {
     "TM": [
       {
@@ -12,7 +12,7 @@
         "programme_date": null,
         "project": "Hinckley M69",
         "description": "Totem Slide for next BRM",
-        "action_required": "",
+        "action_required": "We include a slide on access to Hinckley M69. This needs to be pictorial and include the location of the totems and how it would be visible from the motorway – Tom to draft",
         "lead": "TM",
         "coord_TM": false,
         "coord_SC": false,
@@ -25,7 +25,7 @@
         "status": "",
         "comments": [],
         "sheet": "TM",
-        "updated_at": "2026-09-28T14:54:21.803Z",
+        "updated_at": "2026-09-28T14:54:34.751Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14476,6 +14476,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:54:34.756Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Action updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:54:34.751Z",
+      "action": "EDIT",
+      "origin_sheet": "TM",
+      "source_row": "TM|149",
+      "key": "TM|149",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:54:21.808Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20748,7 +20768,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:54:22.721Z"
+      "at": "2026-09-28T14:54:35.668Z"
     }
   },
   "columnWidths": {
