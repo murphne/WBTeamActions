@@ -1,6 +1,6 @@
 {
-  "version": 10677,
-  "updatedAt": "2026-09-28T14:49:03.186Z",
+  "version": 10678,
+  "updatedAt": "2026-09-28T14:49:14.319Z",
   "items": {
     "TM": [
       {
@@ -198,6 +198,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-09-28T14:49:12.895Z",
+            "user": "TM",
+            "text": "Issued and receipt confirmed. Next key date is 14/10 when Nh review should be complete"
+          },
+          {
             "timestamp": "2026-09-15T20:24:30.853Z",
             "user": "TM",
             "text": "Submitted 16/09"
@@ -209,7 +214,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-15T20:24:30.853Z",
+        "updated_at": "2026-09-28T14:49:12.895Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14307,6 +14312,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:49:12.901Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:49:12.898Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|139",
+      "key": "TM|139",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:48:10.353Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20344,7 +20369,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:49:02.459Z"
+      "at": "2026-09-28T14:49:13.821Z"
     }
   },
   "columnWidths": {
