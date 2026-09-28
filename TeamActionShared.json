@@ -1,8 +1,33 @@
 {
-  "version": 10695,
-  "updatedAt": "2026-09-28T14:52:19.444Z",
+  "version": 10696,
+  "updatedAt": "2026-09-28T14:52:30.428Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|146",
+        "priority": null,
+        "item_num": 146,
+        "urgent": false,
+        "effective_date": "2026-09-28",
+        "programme_date": null,
+        "project": "AUC Jobs",
+        "description": "Fareham Report",
+        "action_required": "Review Report",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-09-28T14:52:28.728Z",
+        "_deletedCommentSignatures": []
+      },
       {
         "key": "TM|145",
         "priority": null,
@@ -14372,6 +14397,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:52:28.732Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:52:28.728Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|146",
+      "key": "TM|146",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-28T14:52:05.234Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20541,15 +20586,10 @@
     }
   },
   "presence": {
-    "viewer-muld2dp2-kvwsyg": {
-      "name": "Tom Murphy",
-      "clientId": "client-muld2dp3-5gds3j",
-      "at": "2026-09-28T14:47:25.271Z"
-    },
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:52:19.043Z"
+      "at": "2026-09-28T14:52:29.658Z"
     }
   },
   "columnWidths": {
