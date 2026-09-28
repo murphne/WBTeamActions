@@ -1,6 +1,6 @@
 {
-  "version": 10670,
-  "updatedAt": "2026-09-28T14:47:39.767Z",
+  "version": 10671,
+  "updatedAt": "2026-09-28T14:47:47.538Z",
   "items": {
     "TM": [
       {
@@ -56,8 +56,13 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
+        "status": "Complete",
         "comments": [
+          {
+            "timestamp": "2026-09-28T14:47:46.179Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: -\nWhere it is saved: -"
+          },
           {
             "timestamp": "2026-09-14T12:46:07.362Z",
             "user": "TM",
@@ -65,9 +70,11 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-14T14:09:38.414Z",
+        "updated_at": "2026-09-28T14:47:46.179Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: -\nWhere it is saved: -",
+        "date_closed": "2026-09-28"
       },
       {
         "key": "TM|142",
@@ -14285,6 +14292,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-09-28T14:47:46.184Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-09-28T14:47:46.179Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|143",
+      "key": "TM|143",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-09-16T16:56:10.359Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -20262,7 +20289,7 @@
     "viewer-muld33u4-6wy2ri": {
       "name": "Tom Murphy",
       "clientId": "client-muld33u5-9pr2su",
-      "at": "2026-09-28T14:47:38.915Z"
+      "at": "2026-09-28T14:47:47.099Z"
     }
   },
   "columnWidths": {
