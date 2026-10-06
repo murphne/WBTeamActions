@@ -1,6 +1,6 @@
 {
-  "version": 11127,
-  "updatedAt": "2026-10-06T07:24:27.514Z",
+  "version": 11128,
+  "updatedAt": "2026-10-06T07:24:38.358Z",
   "items": {
     "TM": [
       {
@@ -414,12 +414,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-10-06T07:24:36.640Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Jordan running\nWhere it is saved: Emails"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-09-11T14:28:16.235Z",
+        "updated_at": "2026-10-06T07:24:36.640Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Jordan running\nWhere it is saved: Emails",
+        "date_closed": "2026-10-06"
       },
       {
         "key": "TM|136",
@@ -14485,6 +14493,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-10-06T07:24:36.644Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-10-06T07:24:36.640Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|137",
+      "key": "TM|137",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-10-06T07:24:23.823Z",
       "action": "DELETE",
       "origin_sheet": "TM",
@@ -20817,7 +20845,7 @@
     "viewer-muwcrkln-o8zr3s": {
       "name": "Tom Murphy",
       "clientId": "client-muwcrklr-vnx0c1",
-      "at": "2026-10-06T07:24:27.012Z"
+      "at": "2026-10-06T07:24:37.563Z"
     }
   },
   "columnWidths": {
