@@ -1,6 +1,6 @@
 {
-  "version": 11262,
-  "updatedAt": "2026-10-07T08:30:57.505Z",
+  "version": 11263,
+  "updatedAt": "2026-10-07T15:48:53.510Z",
   "items": {
     "TM": [
       {
@@ -20934,10 +20934,10 @@
     }
   },
   "presence": {
-    "viewer-muxtxp30-y9j4ac": {
-      "name": "User J4AC",
-      "clientId": "client-muxtxp33-tvhb1q",
-      "at": "2026-10-07T08:30:57.055Z"
+    "viewer-muya8oac-r590eo": {
+      "name": "User 90EO",
+      "clientId": "client-muya8oaf-a36148",
+      "at": "2026-10-07T15:48:52.959Z"
     }
   },
   "columnWidths": {
