@@ -1,6 +1,6 @@
 {
-  "version": 11294,
-  "updatedAt": "2026-10-12T07:14:27.301Z",
+  "version": 11295,
+  "updatedAt": "2026-10-12T07:14:42.978Z",
   "items": {
     "TM": [
       {
@@ -8104,12 +8104,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-10-12T07:14:40.964Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Cameras installed\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-09-14T07:27:03.222Z",
+        "updated_at": "2026-10-12T07:14:40.964Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Cameras installed\nWhere it is saved: n/a",
+        "date_closed": "2026-10-12"
       },
       {
         "key": "CS|123",
@@ -14584,6 +14592,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-10-12T07:14:40.979Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-10-12T07:14:40.964Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|124",
+      "key": "CS|124",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-10-12T07:13:50.667Z",
       "action": "ITEM_CHANGE",
@@ -21097,7 +21125,7 @@
     "viewer-mv4wwgmz-ukf4l7": {
       "name": "Craig Stevens",
       "clientId": "client-mv4wwgn6-8vadf7",
-      "at": "2026-10-12T07:14:26.769Z"
+      "at": "2026-10-12T07:14:41.922Z"
     }
   },
   "columnWidths": {
