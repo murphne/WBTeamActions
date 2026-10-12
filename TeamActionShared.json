@@ -1,6 +1,6 @@
 {
-  "version": 11291,
-  "updatedAt": "2026-10-12T07:13:39.724Z",
+  "version": 11292,
+  "updatedAt": "2026-10-12T07:13:52.025Z",
   "items": {
     "TM": [
       {
@@ -8208,12 +8208,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-10-12T07:13:50.654Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: Draft Design Issued\nWhere it is saved: n/a"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-09-14T07:22:59.141Z",
+        "updated_at": "2026-10-12T07:13:50.654Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Draft Design Issued\nWhere it is saved: n/a",
+        "date_closed": "2026-10-12"
       },
       {
         "key": "CS|119",
@@ -14576,6 +14584,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-10-12T07:13:50.667Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-10-12T07:13:50.654Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|120",
+      "key": "CS|120",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-10-12T07:13:27.960Z",
       "action": "ITEM_CHANGE",
@@ -21069,7 +21097,7 @@
     "viewer-mv4wwgmz-ukf4l7": {
       "name": "Craig Stevens",
       "clientId": "client-mv4wwgn6-8vadf7",
-      "at": "2026-10-12T07:13:39.011Z"
+      "at": "2026-10-12T07:13:51.602Z"
     }
   },
   "columnWidths": {
