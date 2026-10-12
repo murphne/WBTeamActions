@@ -1,6 +1,6 @@
 {
-  "version": 11285,
-  "updatedAt": "2026-10-12T07:12:03.749Z",
+  "version": 11286,
+  "updatedAt": "2026-10-12T07:12:13.058Z",
   "items": {
     "TM": [
       {
@@ -8364,12 +8364,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "Ongoing",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-10-12T07:12:11.736Z",
+            "user": "CS",
+            "text": "Complete\nWhat has been completed: meeting minutes reviewed and issued to Tom\nWhere it is saved: emailed to team"
+          }
+        ],
         "sheet": "CS",
-        "updated_at": "2026-10-12T07:11:43.758Z",
+        "updated_at": "2026-10-12T07:12:11.736Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: meeting minutes reviewed and issued to Tom\nWhere it is saved: emailed to team",
+        "date_closed": "2026-10-12"
       },
       {
         "key": "CS|113",
@@ -14560,6 +14568,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-10-12T07:12:11.756Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-10-12T07:12:11.736Z",
+      "action": "COMPLETE",
+      "origin_sheet": "CS",
+      "source_row": "CS|114",
+      "key": "CS|114",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-10-12T07:11:43.776Z",
       "action": "ITEM_CHANGE",
@@ -21013,7 +21041,7 @@
     "viewer-mv4wwgmz-ukf4l7": {
       "name": "Craig Stevens",
       "clientId": "client-mv4wwgn6-8vadf7",
-      "at": "2026-10-12T07:12:03.095Z"
+      "at": "2026-10-12T07:12:12.688Z"
     }
   },
   "columnWidths": {
