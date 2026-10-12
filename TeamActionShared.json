@@ -1,6 +1,6 @@
 {
-  "version": 11283,
-  "updatedAt": "2026-10-12T07:11:39.911Z",
+  "version": 11284,
+  "updatedAt": "2026-10-12T07:11:45.090Z",
   "items": {
     "TM": [
       {
@@ -8367,7 +8367,7 @@
         "status": "Ongoing",
         "comments": [],
         "sheet": "CS",
-        "updated_at": "2026-06-22T07:10:40.513Z",
+        "updated_at": "2026-10-12T07:11:43.758Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14560,6 +14560,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-10-12T07:11:43.776Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-10-12T07:11:43.758Z",
+      "action": "STATUS",
+      "origin_sheet": "CS",
+      "source_row": "CS|114",
+      "key": "CS|114",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-10-12T07:11:27.325Z",
       "action": "ITEM_CHANGE",
@@ -20993,7 +21013,7 @@
     "viewer-mv4wwgmz-ukf4l7": {
       "name": "Craig Stevens",
       "clientId": "client-mv4wwgn6-8vadf7",
-      "at": "2026-10-12T07:11:39.024Z"
+      "at": "2026-10-12T07:11:44.719Z"
     }
   },
   "columnWidths": {
