@@ -1,6 +1,6 @@
 {
-  "version": 11442,
-  "updatedAt": "2026-10-15T07:18:01.649Z",
+  "version": 11443,
+  "updatedAt": "2026-10-15T07:18:09.346Z",
   "items": {
     "TM": [
       {
@@ -54,12 +54,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-10-15T07:18:08.076Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: Done\nWhere it is saved: Sent on email"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-10-06T07:27:36.792Z",
+        "updated_at": "2026-10-15T07:18:08.076Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: Done\nWhere it is saved: Sent on email",
+        "date_closed": "2026-10-15"
       },
       {
         "key": "TM|149",
@@ -14619,6 +14627,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-10-15T07:18:08.081Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-10-15T07:18:08.076Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|150",
+      "key": "TM|150",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-10-15T07:17:54.305Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21231,7 +21259,7 @@
     "viewer-mv97hzhg-fwumdq": {
       "name": "Tom Murphy",
       "clientId": "client-mv97hzhi-wnxoga",
-      "at": "2026-10-15T07:18:00.734Z"
+      "at": "2026-10-15T07:18:08.992Z"
     }
   },
   "columnWidths": {
