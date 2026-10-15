@@ -1,6 +1,6 @@
 {
-  "version": 11446,
-  "updatedAt": "2026-10-15T07:18:49.114Z",
+  "version": 11447,
+  "updatedAt": "2026-10-15T07:19:07.101Z",
   "items": {
     "TM": [
       {
@@ -662,13 +662,18 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-10-15T07:19:05.552Z",
+            "user": "TM",
+            "text": "Done, TM sending to SES to sign off"
+          },
+          {
             "timestamp": "2026-09-11T14:20:04.993Z",
             "user": "TM",
             "text": "With SCP to do drawings - TM to chase"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-14T14:14:34.326Z",
+        "updated_at": "2026-10-15T07:19:05.553Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14633,6 +14638,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-10-15T07:19:05.560Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-10-15T07:19:05.556Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|132",
+      "key": "TM|132",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-10-15T07:18:20.889Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21285,7 +21310,7 @@
     "viewer-mv97hzhg-fwumdq": {
       "name": "Tom Murphy",
       "clientId": "client-mv97hzhi-wnxoga",
-      "at": "2026-10-15T07:18:48.584Z"
+      "at": "2026-10-15T07:19:06.473Z"
     }
   },
   "columnWidths": {
