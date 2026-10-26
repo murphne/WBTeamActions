@@ -1,6 +1,6 @@
 {
-  "version": 11477,
-  "updatedAt": "2026-10-19T08:04:44.932Z",
+  "version": 11478,
+  "updatedAt": "2026-10-26T08:41:30.091Z",
   "items": {
     "TM": [
       {
@@ -21307,10 +21307,10 @@
     }
   },
   "presence": {
-    "viewer-mveyv6cy-pry128": {
-      "name": "User Y128",
-      "clientId": "client-mveyv6d2-3358ng",
-      "at": "2026-10-19T08:04:44.205Z"
+    "viewer-mvp0c830-h9yi8l": {
+      "name": "User YI8L",
+      "clientId": "client-mvp0c834-ze09gf",
+      "at": "2026-10-26T08:41:29.309Z"
     }
   },
   "columnWidths": {
