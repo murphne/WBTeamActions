@@ -1,6 +1,6 @@
 {
-  "version": 11487,
-  "updatedAt": "2026-10-26T08:44:16.998Z",
+  "version": 11488,
+  "updatedAt": "2026-10-26T08:44:23.302Z",
   "items": {
     "TM": [
       {
@@ -7981,6 +7981,31 @@
     ],
     "CS": [
       {
+        "key": "CS|130",
+        "priority": null,
+        "item_num": 130,
+        "urgent": false,
+        "effective_date": "2026-10-26",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "Section 50",
+        "action_required": "NH Section 50 application for new services",
+        "lead": "CS",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "Requires Coordination",
+        "comments": [],
+        "sheet": "CS",
+        "updated_at": "2026-10-26T08:44:21.708Z",
+        "_deletedCommentSignatures": []
+      },
+      {
         "key": "CS|129",
         "priority": null,
         "item_num": 129,
@@ -14637,6 +14662,26 @@
     ]
   },
   "audit": [
+    {
+      "timestamp": "2026-10-26T08:44:21.722Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Craig Stevens"
+    },
+    {
+      "timestamp": "2026-10-26T08:44:21.708Z",
+      "action": "ADD",
+      "origin_sheet": "CS",
+      "source_row": "CS|130",
+      "key": "CS|130",
+      "dest_sheet": "",
+      "status": "Requires Coordination",
+      "username": "Craig Stevens"
+    },
     {
       "timestamp": "2026-10-15T07:19:05.560Z",
       "action": "ITEM_CHANGE",
@@ -21310,7 +21355,7 @@
     "viewer-mvp0c830-h9yi8l": {
       "name": "Craig Stevens",
       "clientId": "client-mvp0c834-ze09gf",
-      "at": "2026-10-26T08:44:16.636Z"
+      "at": "2026-10-26T08:44:22.658Z"
     }
   },
   "columnWidths": {
