@@ -1,6 +1,6 @@
 {
-  "version": 11703,
-  "updatedAt": "2026-10-26T10:51:35.428Z",
+  "version": 11704,
+  "updatedAt": "2026-11-02T08:55:32.823Z",
   "items": {
     "TM": [
       {
@@ -21399,10 +21399,10 @@
     }
   },
   "presence": {
-    "viewer-mvp2u7sg-xa7kkc": {
-      "name": "Craig Stevens",
-      "clientId": "client-mvp2u7sl-kbzb4r",
-      "at": "2026-10-26T10:51:34.168Z"
+    "viewer-mvz0x9ea-bvelw5": {
+      "name": "User ELW5",
+      "clientId": "client-mvz0x9ec-uvbkfy",
+      "at": "2026-11-02T08:55:32.029Z"
     }
   },
   "columnWidths": {
