@@ -1,6 +1,6 @@
 {
-  "version": 11779,
-  "updatedAt": "2026-11-03T07:39:26.635Z",
+  "version": 11780,
+  "updatedAt": "2026-11-03T07:39:32.184Z",
   "items": {
     "TM": [
       {
@@ -888,13 +888,18 @@
         "status": "",
         "comments": [
           {
+            "timestamp": "2026-11-03T07:39:30.746Z",
+            "user": "TM",
+            "text": "Harvey ongoing, issue this week (2/11)"
+          },
+          {
             "timestamp": "2026-09-11T14:20:55.055Z",
             "user": "TM",
             "text": "Awaiting Lee C"
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-11T14:20:55.055Z",
+        "updated_at": "2026-11-03T07:39:30.746Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14690,6 +14695,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:39:30.760Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:39:30.752Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|125",
+      "key": "TM|125",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-10-26T08:44:56.627Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21402,7 +21427,7 @@
     "viewer-mw0dmqg4-fiszha": {
       "name": "Tom Murphy",
       "clientId": "client-mw0dmqg8-c3g296",
-      "at": "2026-11-03T07:39:25.874Z"
+      "at": "2026-11-03T07:39:31.687Z"
     }
   },
   "columnWidths": {
