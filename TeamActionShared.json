@@ -1,8 +1,33 @@
 {
-  "version": 11826,
-  "updatedAt": "2026-11-03T07:51:59.807Z",
+  "version": 11827,
+  "updatedAt": "2026-11-03T07:52:09.133Z",
   "items": {
     "TM": [
+      {
+        "key": "TM|157",
+        "priority": null,
+        "item_num": 157,
+        "urgent": false,
+        "effective_date": "2026-11-03",
+        "programme_date": null,
+        "project": "Hinckley M69",
+        "description": "Confirm plate load testing no.",
+        "action_required": "",
+        "lead": "TM",
+        "coord_TM": false,
+        "coord_SC": false,
+        "coord_LN": false,
+        "coord_JF": false,
+        "coord_CS": false,
+        "coord_LC": false,
+        "coord_JW": false,
+        "management": "",
+        "status": "",
+        "comments": [],
+        "sheet": "TM",
+        "updated_at": "2026-11-03T07:52:07.247Z",
+        "_deletedCommentSignatures": []
+      },
       {
         "key": "TM|156",
         "priority": null,
@@ -14846,6 +14871,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:52:07.260Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:52:07.247Z",
+      "action": "ADD",
+      "origin_sheet": "TM",
+      "source_row": "TM|157",
+      "key": "TM|157",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-11-03T07:51:32.272Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21803,7 +21848,7 @@
     "viewer-mw0e2cdn-n81qh5": {
       "name": "Tom Murphy",
       "clientId": "client-mw0e2ce2-el8pon",
-      "at": "2026-11-03T07:51:58.783Z"
+      "at": "2026-11-03T07:52:08.198Z"
     }
   },
   "columnWidths": {
