@@ -1,6 +1,6 @@
 {
-  "version": 11812,
-  "updatedAt": "2026-11-03T07:47:39.239Z",
+  "version": 11813,
+  "updatedAt": "2026-11-03T07:47:52.704Z",
   "items": {
     "TM": [
       {
@@ -491,6 +491,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-11-03T07:47:51.067Z",
+            "user": "TM",
+            "text": "Needs new drawing for plan"
+          },
+          {
             "timestamp": "2026-09-28T14:49:12.895Z",
             "user": "TM",
             "text": "Issued and receipt confirmed. Next key date is 14/10 when Nh review should be complete"
@@ -507,7 +512,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-09-28T14:49:12.895Z",
+        "updated_at": "2026-11-03T07:47:51.067Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14789,6 +14794,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:47:51.085Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:47:51.075Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|139",
+      "key": "TM|139",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-11-03T07:45:33.049Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21681,7 +21706,7 @@
     "viewer-mw0dmqg4-fiszha": {
       "name": "Tom Murphy",
       "clientId": "client-mw0dmqg8-c3g296",
-      "at": "2026-11-03T07:47:38.234Z"
+      "at": "2026-11-03T07:47:52.024Z"
     }
   },
   "columnWidths": {
