@@ -1,6 +1,6 @@
 {
-  "version": 11856,
-  "updatedAt": "2026-11-03T08:53:58.790Z",
+  "version": 11857,
+  "updatedAt": "2026-11-03T08:54:01.369Z",
   "items": {
     "TM": [
       {
@@ -21868,7 +21868,13 @@
       "email": "Luke.Nicholls@WelcomeBreak.co.uk"
     }
   },
-  "presence": {},
+  "presence": {
+    "viewer-mw0e2cdn-n81qh5": {
+      "name": "Tom Murphy",
+      "clientId": "client-mw0e2ce2-el8pon",
+      "at": "2026-11-03T08:54:00.953Z"
+    }
+  },
   "columnWidths": {
     "0": 34,
     "1": 96,
