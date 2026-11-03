@@ -1,6 +1,6 @@
 {
-  "version": 11792,
-  "updatedAt": "2026-11-03T07:42:02.396Z",
+  "version": 11793,
+  "updatedAt": "2026-11-03T07:42:15.760Z",
   "items": {
     "TM": [
       {
@@ -3990,7 +3990,7 @@
         "item_num": 41,
         "effective_date": "2026-01-13",
         "project": "Vale of York",
-        "description": "Site surveys and investigations",
+        "description": "Discharge of Conditions",
         "action_required": "Summarise the requirements to meet planning condition and RM discharge",
         "lead": "TM",
         "coord_TM": false,
@@ -4016,7 +4016,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-07-20T08:40:07.162Z",
+        "updated_at": "2026-11-03T07:42:14.208Z",
         "urgent": false,
         "review_sender": "",
         "_deletedCommentSignatures": []
@@ -14711,6 +14711,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:42:14.216Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Item details updated",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:42:14.208Z",
+      "action": "EDIT",
+      "origin_sheet": "TM",
+      "source_row": "TM|41",
+      "key": "TM|41",
+      "dest_sheet": "",
+      "status": "",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-11-03T07:41:51.813Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21523,7 +21543,7 @@
     "viewer-mw0dmqg4-fiszha": {
       "name": "Tom Murphy",
       "clientId": "client-mw0dmqg8-c3g296",
-      "at": "2026-11-03T07:42:01.583Z"
+      "at": "2026-11-03T07:42:15.142Z"
     }
   },
   "columnWidths": {
