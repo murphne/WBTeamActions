@@ -1,6 +1,6 @@
 {
-  "version": 11841,
-  "updatedAt": "2026-11-03T07:58:25.930Z",
+  "version": 11842,
+  "updatedAt": "2026-11-03T07:58:41.953Z",
   "items": {
     "TM": [
       {
@@ -22,12 +22,20 @@
         "coord_LC": false,
         "coord_JW": false,
         "management": "",
-        "status": "",
-        "comments": [],
+        "status": "Complete",
+        "comments": [
+          {
+            "timestamp": "2026-11-03T07:58:40.020Z",
+            "user": "TM",
+            "text": "Complete\nWhat has been completed: 1 test per 25m each lane\nWhere it is saved: EMailed"
+          }
+        ],
         "sheet": "TM",
-        "updated_at": "2026-11-03T07:52:07.247Z",
+        "updated_at": "2026-11-03T07:58:40.020Z",
         "_deletedCommentSignatures": [],
-        "review_sender": ""
+        "review_sender": "",
+        "completion_note": "What has been completed: 1 test per 25m each lane\nWhere it is saved: EMailed",
+        "date_closed": "2026-11-03"
       },
       {
         "key": "TM|156",
@@ -14872,6 +14880,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:58:40.030Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Status changed",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:58:40.021Z",
+      "action": "COMPLETE",
+      "origin_sheet": "TM",
+      "source_row": "TM|157",
+      "key": "TM|157",
+      "dest_sheet": "",
+      "status": "Complete",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-11-03T07:52:07.260Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21844,7 +21872,7 @@
     "viewer-mw0e2cdn-n81qh5": {
       "name": "Tom Murphy",
       "clientId": "client-mw0e2ce2-el8pon",
-      "at": "2026-11-03T07:58:25.142Z"
+      "at": "2026-11-03T07:58:40.955Z"
     }
   },
   "columnWidths": {
