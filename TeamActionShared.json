@@ -1,6 +1,6 @@
 {
-  "version": 11787,
-  "updatedAt": "2026-11-03T07:41:14.424Z",
+  "version": 11788,
+  "updatedAt": "2026-11-03T07:41:32.014Z",
   "items": {
     "TM": [
       {
@@ -662,6 +662,11 @@
         "status": "Ongoing",
         "comments": [
           {
+            "timestamp": "2026-11-03T07:41:30.557Z",
+            "user": "TM",
+            "text": "Issued to SES, TM chased 02/11"
+          },
+          {
             "timestamp": "2026-10-15T07:19:05.552Z",
             "user": "TM",
             "text": "Done, TM sending to SES to sign off"
@@ -673,7 +678,7 @@
           }
         ],
         "sheet": "TM",
-        "updated_at": "2026-10-15T07:19:05.553Z",
+        "updated_at": "2026-11-03T07:41:30.558Z",
         "_deletedCommentSignatures": [],
         "review_sender": ""
       },
@@ -14700,6 +14705,26 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-03T07:41:30.572Z",
+      "action": "ITEM_CHANGE",
+      "origin_sheet": "SYS",
+      "source_row": "*",
+      "key": "*",
+      "dest_sheet": "",
+      "status": "Comment added",
+      "username": "Tom Murphy"
+    },
+    {
+      "timestamp": "2026-11-03T07:41:30.564Z",
+      "action": "COMMENT",
+      "origin_sheet": "TM",
+      "source_row": "TM|132",
+      "key": "TM|132",
+      "dest_sheet": "",
+      "status": "Ongoing",
+      "username": "Tom Murphy"
+    },
+    {
       "timestamp": "2026-11-03T07:41:05.390Z",
       "action": "ITEM_CHANGE",
       "origin_sheet": "SYS",
@@ -21452,7 +21477,7 @@
     "viewer-mw0dmqg4-fiszha": {
       "name": "Tom Murphy",
       "clientId": "client-mw0dmqg8-c3g296",
-      "at": "2026-11-03T07:41:13.707Z"
+      "at": "2026-11-03T07:41:31.495Z"
     }
   },
   "columnWidths": {
